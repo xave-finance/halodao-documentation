@@ -1,0 +1,18 @@
+{
+    "title": "HaloDAO Docs" ,
+    "plugins": ["logo", "custom-favicon"],
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "pluginsConfig": {
+        "logo": {
+            "rootStyle": "text-align: center; padding: 20px;",
+            "logoStyle": "width: 50px;",
+            "logo": "./assets/logo.png",
+            "title": "HaloDAO",
+            "url": "https://halodao.com",
+            "target": "_blank"
+        },
+        "favicon": "./assets/logo.png"
+    }
+}
