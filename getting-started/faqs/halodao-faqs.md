@@ -2,7 +2,7 @@
 
 ## What is HaloDAO?
 
-A stablecoin marketplace built to facilitate the minting of synthetics pegged to various Asian currencies, a stablecoin optimised automated market maker to exchange between Asian asset-backed stablecoins and synthetics, and a lending market to generate yield for local currency farming.
+A stablecoin marketplace built to facilitate the minting of synthetics pegged to various Asian currencies, a stablecoin optimized automated market maker to exchange between Asian asset-backed stablecoins and synthetics, and a lending market to generate yield for local currency farming.
 
 ## How is HaloDAO different from other DeFi protocols?
 
