@@ -8,7 +8,7 @@ A stablecoin marketplace built to facilitate the minting of synthetics pegged to
 
 HaloDAO is focused on Asian asset-backed stablecoins. Our goal is to reduce the technical barriers and financial intricacies of getting into DeFi for ordinary people. 
 
-We partnered with significant financial institutions in Asia to help us. We have used some of the existing features from MakerDAO, Uniswap, and Compound to design a protocol best suited for asset-backed stablecoins. It is optimized to facilitate the flow of liquidity going into the crypto market via Asian asset-backed stablecoins. 
+oWe partnered with significant financial institutions in Asia to help us. We have combined the fundamental features of MakerDAO, Uniswap, and Compound to design a protocol best suited for asset-backed stablecoins. It is optimized to facilitate the flow of liquidity going into and out of the crypto DeFi market via Asian asset-backed stablecoins. 
 
 ## What is HALO?
 
