@@ -6,7 +6,7 @@ A stablecoin marketplace built to facilitate the minting of synthetics pegged to
 
 ## How is HaloDAO different from other DeFi protocols?
 
-HaloDAO is focused on Asian asset-backed stablecoins. Our goal is to reduce the technical barriers and financial intricacies of getting into DeFi for ordinary people. 
+HaloDAO is focused on Asian asset-backed stablecoins. Given massive crypto adoption, the future lies in South East Asia. HaloDAO aims to be the dominant stablecoin-friendly DeFi platform operating in the region's emerging economies
 
 The HaloDAO team will drive liquidity to these regional stablecoins through a combination of drivers: tapping global liquidity via liquidity rewards, establishing gaming partnerships, and creating more on and offramps integrations with existing wallets and exchanges around Asia. With a greater supply of local stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region of the world with a high potential of growth and impact. 
 
