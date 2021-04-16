@@ -2,7 +2,7 @@
 
 ## What is an Automated Market Maker \(AMM\)?
 
-An Automated Market Maker \(AMM\) is basically a Decentralized Exchange \(DEX\) that uses an algorithm to automatically determine the price of a trade resulting in optimized liquidity flow and mitigated price slippage.  As opposed to traditional \(centralized\) exchanges that use an orderbook to match buy and sell orders.
+An Automated Market Maker \(AMM\) is basically a Decentralized Exchange \(DEX\) that uses an algorithm to automatically determine the price of a trade \(swap\) resulting in optimized liquidity flow and mitigated price slippage. Traditional \(centralized\) exchanges use an orderbook to match buy and sell orders.
 
 ## What is a liquidity pool?
 

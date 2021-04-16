@@ -1,25 +1,14 @@
 # How to Supply Liquidity
 
-## Getting Super Powers
+## Getting Balancer Pool Tokens \(BPT\)
 
-Becoming a super hero is a fairly straight forward process:
+In v0, we are using Balancer Pools to bootstrap our liquidity. Go to Balancer to get BPT Tokens
 
-```
-$ give me super-powers
-```
+\(content will be updated once Balancer pools have been set up\)
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Click [here](../core-concepts-1/automated-market-maker.md) to know more about our AMM
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 

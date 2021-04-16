@@ -1,3 +1,7 @@
+---
+description: Get to know our vision and mission here.
+---
+
 # Welcome to HaloDAO
 
 “I love sweets to the moon and back!” is a phrase that you’ll often hear from our Astro Bunny. He lives on the moon and has a very strong sweet tooth. His favorite dessert is Halo-Halo, a popular dessert from the Philippines.

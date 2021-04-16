@@ -6,9 +6,9 @@ A stablecoin marketplace built to facilitate the minting of synthetics pegged to
 
 ## How is HaloDAO different from other DeFi protocols?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+HaloDAO is focused on Asian asset-backed stablecoins. Our goal is to reduce the technical barriers and financial intricacies of getting into DeFi for ordinary people. 
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+We partnered with significant financial institutions in Asia to help us. We have used some of the existing features from MakerDAO, Uniswap, and Compound to design a protocol best suited for asset-backed stablecoins. It is optimized to facilitate the flow of liquidity going into the crypto market via Asian asset-backed stablecoins. 
 
 ## What is HALO?
 
