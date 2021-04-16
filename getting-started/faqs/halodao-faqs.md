@@ -15,7 +15,7 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance and acts as a claim against local stablecoin earnings of the Protocol.   
 
 
-## How is HaloDAO different from other DeFi protocols?
+## What can I do with my HALO?
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
