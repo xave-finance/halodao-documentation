@@ -1,5 +1,22 @@
 # General FAQs
 
+## What is an Automated Market Maker \(AMM\)?
+
+An Automated Market Maker \(AMM\) is basically a Decentralized Exchange \(DEX\) that uses an algorithm to automatically determine the price of a trade resulting in optimized liquidity flow and mitigated price slippage.  As opposed to traditional \(centralized\) exchanges that use an orderbook to match buy and sell orders.
+
+## What is a liquidity pool?
+
+A liquidity pool is a smart contract that holds a set of token reserves from different liquidity providers.
+
+In v0, we use Balancer Liquidity Pools for stablecoins to bootstrap liquidity into our AMM. 
+
+## What is a liquidity provider?
+
+The entity, individual or smart contract that either;
+
+1. Deposits USD pegged stablecoins as collateral into the Halo Protocol to mint synthetic stablecoins. This Liquidity Provider \(LP\) earns HALO governance tokens proportionate to his/her liquidity. 
+2. Or provides liquidity into an AMM pool supporting trades between other cryptocurrencies and a HaloDAO synthetic stablecoin.
+
 ## What is an asset-backed stablecoin?
 
 An ERC20 stablecoin issued by a licensed financial institution in the relevant jurisdiction \(such as one licensed by the Monetary Authority of Singapore in Singapore or the Bankgo Sentral ng Pilipinas in the Philippines\) that functions as a claim against fiat \(physical notes issued by the relevant central bank\) held as collateral on a 1 to 1 basis. 
@@ -10,7 +27,9 @@ An example would be 1 xSGD backed by 1 SGD in the bank account of the licensed i
 
 In contrast to an asset-backed stablecoin, a synthetic stablecoin is issued from cryptocurrency collateral instead of fiat collateral issued by a central bank. This synthetic is built to “mirror” the price of the target currency, though synthetics are usually more volatile \(but not to the degree of non-stablecoin cryptocurrencies like Ether or Bitcoin\) compared to asset-backed stablecoins. 
 
-A preexisting example of a synthetic stablecoin is DAI of MakerDAO, which accepts Ether and other volatile cryptocurrencies as collateral to mint DAI on a 1 to 1 basis with the US Dollar. There are other mechanisms in play, such as a stability mechanism and expectations of arbitrage among rationale market actors, but this surface-level definition suffices for context.   
+A preexisting example of a synthetic stablecoin is DAI of MakerDAO, which accepts Ether and other volatile cryptocurrencies as collateral to mint DAI on a 1 to 1 basis with the US Dollar. There are other mechanisms in play, such as a stability mechanism and expectations of arbitrage among rationale market actors, but this surface-level definition suffices for context. 
+
+  
 
 
 

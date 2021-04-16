@@ -12,17 +12,21 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 ## What is HALO?
 
-HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance and acts as a claim against local stablecoin earnings of the Protocol.   
+$HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance and acts as a claim against local stablecoin earnings of the Protocol.   
 
 
 ## What can I do with my HALO?
 
 |  |  |
 | :--- | :--- |
-| Supply Liquidity |  |
+| [Supply Liquidity](../../v0-guide/untitled.md) |  |
 | Lend/Borrow |  |
 | Mint Synthetics |  |
-| Vote |  |
+| [Vote](../../v0-guide/how-to-vote.md) |  |
+
+## What is HALOHALO?
+
+When you provide liquidity in one of the pools,  the $HALO's you earned are automatically staked into the HALOHALO contract. You will receive $HALOHALO tokens as a claim against your deposited and vesting $HALO tokens.  
 
 ## What is HALO rewards pool?
 

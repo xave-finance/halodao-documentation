@@ -11,9 +11,10 @@
 
 ## v0 Guide
 
-* [How to Farm](v0-guide/how-to-farm.md)
 * [How to Supply Liquidity](v0-guide/untitled.md)
+* [How to Farm](v0-guide/how-to-farm.md)
 * [How Vesting Works](v0-guide/how-vesting-works.md)
+* [How to Vote](v0-guide/how-to-vote.md)
 
 ## Core Concepts <a id="core-concepts-1"></a>
 
