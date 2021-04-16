@@ -1,6 +1,6 @@
 # General FAQs
 
-## What is an asset-backed stable coin?
+## What is an asset-backed stablecoin?
 
 An ERC20 stablecoin issued by a licensed financial institution in the relevant jurisdiction \(such as one licensed by the Monetary Authority of Singapore in Singapore or the Bankgo Sentral ng Pilipinas in the Philippines\) that functions as a claim against fiat \(physical notes issued by the relevant central bank\) held as collateral on a 1 to 1 basis. 
 

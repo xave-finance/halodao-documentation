@@ -17,7 +17,16 @@ HALO is the ERC20 governance token, limited to 100,000,000 supply to be distribu
 
 ## What can I do with my HALO?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+|  |  |
+| :--- | :--- |
+| Supply Liquidity |  |
+| Lend/Borrow |  |
+| Mint Synthetics |  |
+| Vote |  |
+
+## What is HALO rewards pool?
+
+The repository of the HALO governance tokens reserved as a reward to liquidity providers \(across the stablecoin optimised AMM, synthetic stablecoin minter and lending market\) and users of the protocol.
 
 
 
