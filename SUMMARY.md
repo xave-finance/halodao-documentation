@@ -6,9 +6,9 @@
 
 * [Introduction](getting-started/introduction.md)
 * [FAQs](getting-started/faqs/README.md)
-  * [Litepaper](getting-started/faqs/litepaper.md)
   * [General FAQs](getting-started/faqs/general-faqs.md)
   * [HaloDAO FAQs](getting-started/faqs/halodao-faqs.md)
+* [Litepaper](getting-started/litepaper.md)
 
 ## v0 Guide
 
