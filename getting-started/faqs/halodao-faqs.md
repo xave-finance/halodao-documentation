@@ -4,19 +4,25 @@
 
 A stablecoin marketplace built to facilitate the minting of synthetics pegged to various Asian currencies, a stablecoin optimized automated market maker to exchange between Asian asset-backed stablecoins and synthetics, and a lending market to generate yield for local currency farming.
 
+Remember our Astro Bunny’s first destination? HaloDAO is the community that runs the Halo planet. serves as a protocol and marketplace for Asian asset-backed stablecoins. This marketplace will have several products;
+
+1. An Automated Market Maker - a decentralised exchange composed of liquidity pools and 3rd party liquidity providers that makes the swapping of one stablecoin for another quick and easy. Anyone can use local asset backed stablecoins to add liquidity or to trade.
+2. Lending Market - In the traditional financial system, banks lend out the money in your account and keep most of the interest. In HaloDAO, you can directly earn from lending your own asset backed stablecoins without an intermediary. 
+3. Governance - As $HALO token holders, you are entitled to submit proposals and  participate in the voting process of the protocol. Your voting rights are proportional to the number of $HALO tokens you own - 1 HALO = 1 vote. 
+
 ## How is HaloDAO different from other DeFi protocols?
 
-HaloDAO is focused on Asian asset-backed stablecoins. Given massive crypto adoption, the future lies in South East Asia. HaloDAO aims to be the dominant stablecoin-friendly DeFi platform operating in the region's emerging economies
+HaloDAO is focused on building permissionless, on chain liquidity for Asian asset-backed stablecoins. Asia houses inherently disconnected economies and legal jurisdictions, which makes cross border commerce expensive. HaloDAO aims to address these issues by building the much needed permissionless liquidity that does not yet exist but can bring the much sought after "10x improvement". The protocol aims to create a "Common Asian Market" built on asset backed stablecoins in order to enable consumer facing use cases of Shopping, Sending \(money\) and Saving \(via high yield\) for Asia's emerging economies. 
 
 The HaloDAO team will drive liquidity to these regional stablecoins through a combination of drivers: tapping global liquidity via liquidity rewards, establishing gaming partnerships, and creating more on and offramps integrations with existing wallets and exchanges around Asia. With a greater supply of local stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region of the world with a high potential of growth and impact. 
 
 {% hint style="info" %}
-We are committed to and focused on Asia,  as we believe that employing a localised approach with a deep cultural awareness will be key to mass adoption.
+We are committed to and focused on Asia,  as we believe that employing a localized approach with a deep cultural awareness will be key to mass adoption.
 {% endhint %}
 
 ## What is HALO?
 
-$HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance and acts as a claim against local stablecoin earnings of the Protocol.   
+$HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance.  
 
 
 ## What can I do with my HALO?
@@ -30,11 +36,12 @@ $HALO is the ERC20 governance token, limited to 100,000,000 supply to be distrib
 
 ## What is HALOHALO?
 
-When you provide liquidity in one of the pools,  the $HALO's you earned are automatically staked into the HALOHALO contract. You will receive $HALOHALO tokens as a claim against your deposited and vesting $HALO tokens.  
+When you provide liquidity to any of HaloDAO’s products, you will automatically earn HALO proportionate to your liquidity provided. That HALO will be automatically vested in HALOHALO. Read more about how that works [here](../../v0-guide/how-vesting-works.md).
 
-## What is HALO rewards pool?
+## **What is the difference between HALO and HALOHALO tokens?**
 
-The repository of the HALO governance tokens reserved as a reward to liquidity providers \(across the stablecoin optimised AMM, synthetic stablecoin minter and lending market\) and users of the protocol.
+HALO is the governance token of the HaloDAO protocol, while HALOHALO functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](../../v0-guide/how-to-farm.md) and [here](../../v0-guide/how-vesting-works.md)**.**  
+
 
 
 

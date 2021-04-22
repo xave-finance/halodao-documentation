@@ -4,8 +4,9 @@
 
 ## Getting Started
 
-* [More Introduction](getting-started/introduction.md)
+* [Introduction](getting-started/introduction.md)
 * [FAQs](getting-started/faqs/README.md)
+  * [Litepaper](getting-started/faqs/litepaper.md)
   * [General FAQs](getting-started/faqs/general-faqs.md)
   * [HaloDAO FAQs](getting-started/faqs/halodao-faqs.md)
 
@@ -26,16 +27,14 @@
 
 ## Roadmap
 
-* [v0](roadmap/v0.md)
-* [v1](roadmap/v1.md)
-* [v2](roadmap/v2.md)
+* [Overview](roadmap/overview.md)
 
 ## Halonomics \(Token Model\) <a id="halonomics"></a>
 
-* [Value Chain](halonomics/value-chain.md)
+* [Token Distribution](halonomics/token-distribution.md)
 
 ## Smart Contracts
 
 * [Addresses](smart-contracts/addresses.md)
-* [Security](smart-contracts/security.md)
+* [Audits](smart-contracts/security.md)
 
