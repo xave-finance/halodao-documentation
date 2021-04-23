@@ -2,7 +2,7 @@
 
 The HaloHalo smart contract is HaloDAO’s vesting mechanism that incentivises you to hold HALO longer, but without locking you into a fixed vesting schedule. Its’ the best of both worlds where you gain high APYs on HALO without impermanent loss and without too much smart contract risk but are still able to withdraw at will \(you’ll just lose out on monthly HALO rewards\). 
 
-![](https://lh3.googleusercontent.com/QnTBRkkb_E0cCu6QzHh5zr31oj2r95WyEgvIPCvrcxNFIiiDbu9DeXuyuQNY20YMdBBLKW0eCrG-iKD5NHCvvEMC16avduFl1T8zUUAih4DrXfcpPp2jrW9uFdamCl0ZOuAxi1EF)
+![](../.gitbook/assets/how-vesting-works-4-.png)
 
 Figure 1: Non-technical illustration showing how vesting works
 
