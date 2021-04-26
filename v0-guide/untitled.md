@@ -18,7 +18,7 @@ In v0, we are using Balancer Liquidity Pools to bootstrap our stablecoin liquidi
 
 
 {% hint style="info" %}
-Click [here](../core-concepts-1/automated-market-maker.md) to know more about our AMM
+Click [**here**](../core-concepts-1/automated-market-maker.md) to know more about our AMM
 {% endhint %}
 
 
