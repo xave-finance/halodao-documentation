@@ -46,7 +46,7 @@ Let’s make the following assumptions using the classic Alice and Bob example:
 
 | Event | Epoch | Action | HALOHALO:HALO price | HALOHALO:HALO total supply |
 | :--- | :--- | :--- | :--- | :--- |
-| Alice earns 1 HALO | 1 | 1 HALO auto deposited to HaloHw32alo |  |  |
+| Alice earns 1 HALO | 1 | 1 HALO auto deposited to HaloHalo |  |  |
 | Alice receives 1 HALOHALO | 1 | HaloHalo contract mints 1 HALOHALO and locks 1 HALO | 1 HALOHALO = 1 HALO | 1 HALOHALO, 1 HALO |
 | 1 HALO vesting reward sent to HaloHalo contract by protocol | 1 | No HALOHALO is minted, which increases the price of HALOHALO relative to HALO | 1 HALOHALO = 2 HALO | 1 HALOHALO, 2 HALO |
 | Bob earns 1 HALO | 2 | 1 HALO auto deposited to HaloHalo |  |  |
