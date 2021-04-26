@@ -46,7 +46,7 @@ When you provide liquidity to any of HaloDAO’s products, you will automaticall
 
 ## **What is the difference between HALO and DSRT tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while DSRT functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](../../v0-guide/how-to-farm.md) and [here](../../v0-guide/how-vesting-works.md)**.**  
+HALO is the governance token of the HaloDAO protocol, while Dessert \(DSRT\) functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](../../v0-guide/how-to-farm.md) and [here](../../v0-guide/how-vesting-works.md)**.**  
 
 
 
