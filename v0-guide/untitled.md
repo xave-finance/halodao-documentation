@@ -1,6 +1,6 @@
 # How to Supply Liquidity
 
-![](https://lh3.googleusercontent.com/FvpVYbW06JVnbIz7KbciT61508i8mD8PlyeBmyVQOQA_xYzF9rgxXdzZiJZxxPjCTyKVFnr_a58gxyY3uzd39irg1T83SA83NhTl4Nz72D__8JE9_GK-zaRvzmH-SWovV4uqWTuY)
+![](../.gitbook/assets/farm-concept-liquidity-pools-and-rewards-2-.png)
 
 ## How to get Balancer Pool Tokens \(BPT\)
 

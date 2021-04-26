@@ -2,7 +2,7 @@
 
 ## **How to Stake**
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/farm-process-flow-6-.png)
 
 1. Go to [app.halodao.com](https://app.halodao.com)
 2. Go to the Farm tab if not automatically redirected
@@ -18,11 +18,9 @@
 
 ##  **How to Unstake**
 
-\*\*\*\*
+![](https://lh4.googleusercontent.com/RVcupifJyQl7LCWkRjkh55KoCaAdAV_tdtHmy0-YBtwuVEczaD82Jwg9dax8ybR_hz78fy7fOo2BEp2RoqGdUlzbQW-ROquqoD0SA0ymHMYmTrNlART13JVemKu7wWFDTo7cvlG1)
 
-![](../.gitbook/assets/image%20%2812%29.png)
-
-1. Go to app.halodao.com
+1. Go to [app.halodao.com](https://app.halodao.com)
 2. Go to the Farm tab if not automatically redirected
 3. Select a liquidity pool where you wish to remove liquidity from, click “Manage”.
 4. Enter the amount of BPT you want to unstake. 
