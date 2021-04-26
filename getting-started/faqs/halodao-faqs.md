@@ -10,7 +10,7 @@
 
 A stablecoin marketplace built to facilitate the minting of synthetics pegged to various Asian currencies, a stablecoin optimized automated market maker to exchange between Asian asset-backed stablecoins and synthetics, and a lending market to generate yield for local currency farming.
 
-Remember our Astro Bunny’s first destination? HaloDAO is the community that runs the Halo planet. serves as a protocol and marketplace for Asian asset-backed stablecoins. This marketplace will have several products;
+Remember our Astro Bunny’s first destination? HaloDAO is the community that runs the Halo planet. Serves as a protocol and marketplace for Asian asset-backed stablecoins. This marketplace will have several products;
 
 1. An Automated Market Maker - a decentralised exchange composed of liquidity pools and 3rd party liquidity providers that makes the swapping of one stablecoin for another quick and easy. Anyone can use local asset backed stablecoins to add liquidity or to trade.
 2. Lending Market - In the traditional financial system, banks lend out the money in your account and keep most of the interest. In HaloDAO, you can directly earn from lending your own asset backed stablecoins without an intermediary.
