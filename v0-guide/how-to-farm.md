@@ -14,7 +14,7 @@
 8. You will get a proportionate amount of HALO Rewards from your staked BPT tokens relative to the total liquidity provided \(see Litepaper\)
 9. You will earn HALO rewards tokens proportionate to your BPT staked out of the total BPT staked in the Rewards contract. 
 10. The HALO rewards that you earn from staking will be automatically vested into the DESSERT smart contract.
-11. The longer you hold DESSERT, the more HALO you receive over time. Read the next section, [How Vesting Works](how-vesting-works.md), to understand how this is calculated.
+11. The longer you hold DSRT, the more HALO you receive over time. Read the next section, [How Vesting Works](how-vesting-works.md), to understand how this is calculated.
 
 ##  **How to Unstake**
 
