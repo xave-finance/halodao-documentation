@@ -9,7 +9,7 @@ In v0, we are using Balancer Liquidity Pools to bootstrap our stablecoin liquidi
 1. Go to Farm
 2. Select a pool where you wish to add liquidity to, click “Manage”.
 3. Click “To stake, get BPT tokens here” link.
-4. You will be redirected to the pool in balancer.exhcange.
+4. You will be redirected to the pool in balancer.exchange.
 5. Enter the amount of liquidity you will provide.
 6. Click deposit.
 7. You should receive your BPT tokens. 
