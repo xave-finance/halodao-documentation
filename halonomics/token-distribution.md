@@ -22,9 +22,9 @@ A total of 35M HALO tokens will be rewarded to liquidity providers for a target 
 Monthly HALO Liquidity Rewards will follow a decay curve function that will be fixed for the specific month, but paid out linearly per block within that month. At current network parameters, HALO is rewarded on every block linearly within a month’s epoch;  
 
 
-```text
-
-```
+$$
+HALO_\text{reward_per_block}=\frac{{\text{Collateral}}_\text{staked}}{{\text{TotalCollateral}}_\text{staked}}\ast\text{RewardsRatio}\ast HALO_\text{block_reward}
+$$
 
 Where;
 
@@ -34,10 +34,6 @@ Where;
 * HALOblock\_reward  is the linear reward per block for that specific epoch \(each epoch equalling one month and each subsequent month following the decaying rewards function\)
 
 At current network parameters, it will take ~5 years for the HALO Rewards Pool to empty. Before that happens, however, the Foundation \(or any other HALO token holder\) may propose a buyback vote which will replenish the HALO Rewards Pool for Liquidity Providers. Of course, at any time HALO holders may propose a vote to enact any miscellaneous action, such as burning HALO upon buyback or to alter the minute network parameters to react to market changes.
-
-$$
-HALO_\text{reward_per_block}=\frac{{\text{Collateral}}_\text{staked}}{{\text{TotalCollateral}}_\text{staked}}\ast\text{RewardsRatio}\ast HALO_\text{block_reward}
-$$
 
   
 Team Rewards
