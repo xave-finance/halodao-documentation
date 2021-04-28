@@ -29,10 +29,6 @@
 
 * [Overview](roadmap/overview.md)
 
-## Halonomics \(Token Model\) <a id="halonomics"></a>
-
-* [Token Distribution](halonomics/token-distribution.md)
-
 ## Smart Contracts
 
 * [Addresses](smart-contracts/addresses.md)
