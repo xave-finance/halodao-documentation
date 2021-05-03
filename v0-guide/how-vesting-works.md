@@ -1,5 +1,7 @@
 # How Vesting Works
 
+![](../.gitbook/assets/artboard-1-copy-5-2x.png)
+
 The DESSERT smart contract is HaloDAO’s vesting mechanism that incentivises you to hold HALO longer, but without locking you into a fixed vesting schedule. Its’ the best of both worlds where you gain high APYs on HALO without impermanent loss and without too much smart contract risk but are still able to withdraw at will \(you’ll just lose out on monthly HALO rewards\). 
 
 ![](../.gitbook/assets/how-vesting-works-6-.png)
