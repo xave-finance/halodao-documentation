@@ -1,10 +1,6 @@
 # Protocol Overview
 
-
-
-
-
-![](https://lh6.googleusercontent.com/9Izdxy-4c93EedByrqHnWDhp0VwrxOypHID7sf1S8AIjhp5ErMvsR_L-aodcY56jSJSk7SBPXbzkI4NKKh2gWa5Fi80c8MBMLdoro0JLD3iXkXrulvzex5PowJ91KXWeZXhLzB1V)
+![](../.gitbook/assets/screen-shot-2021-05-03-at-13.23.20.png)
 
 HaloDAO aims to incentivize and build Asian asset backed stablecoin liquidity by establishing the foundational money lego of DeFi. However, rather than using ETH or BTC to generate synthetic USD stablecoins as initial protocols have done, HaloDAO caters to;  
 
