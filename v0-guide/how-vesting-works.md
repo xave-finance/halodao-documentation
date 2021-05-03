@@ -10,7 +10,7 @@ The DESSERT smart contract is HaloDAO’s vesting mechanism that incentivises yo
 2. The HALO tokens you got from staking and the HALO tokens you earn from rewards will automatically be staked in the DESSERT Contract. Refer to figure 1 above for the explanation of DESSERT contract.
 3.  Your wallet will be credited with DSRT tokens as you earn HALO rewards.
 
-![](../.gitbook/assets/screen-shot-2021-05-03-at-15.12.25.png)
+![](../.gitbook/assets/halodao-high-level-product-flows-2-.jpg)
 
 ### How **to claim HALO rewards from Vesting**
 
