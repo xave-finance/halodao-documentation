@@ -29,8 +29,3 @@
 
 * [Overview](roadmap/overview.md)
 
-## Smart Contracts
-
-* [Addresses](smart-contracts/addresses.md)
-* [Audits](smart-contracts/security.md)
-
