@@ -1,6 +1,6 @@
 # Protocol Overview
 
-![](../.gitbook/assets/screen-shot-2021-05-03-at-13.23.20.png)
+![Value Chain](../.gitbook/assets/screen-shot-2021-05-03-at-13.23.20.png)
 
 HaloDAO aims to incentivize and build Asian asset backed stablecoin liquidity by establishing the foundational money lego of DeFi. However, rather than using ETH or BTC to generate synthetic USD stablecoins as initial protocols have done, HaloDAO caters to;  
 
@@ -18,7 +18,7 @@ You will notice the building blocks of liquidity within the use case columns, na
 
 This classic example of stacking liquidity between 3 foundational use cases is how DeFi’s total value locked \(TVL\) went from a few hundred million to the roughly 40B USD at the time of writing. HaloDAO aims to replicate and incentivise these flows to build stablecoin liquidity in order to facilitate sufficient market depth in Asian markets and enable permissionless commerce in the region across Shopping, Sending \(money\) and Saving. 
 
-![](https://lh6.googleusercontent.com/tyvNTEascYESPBMPPxHvuZFv0ehCyT1FmEkb5v2C5p755cam6qmtkHr2T6mOvSia4ov79huWd3GAybHLm29WL4EsWVXkP3u6mbdO41S9GaqTV-rUhoOixxrag-nyWGaLxQZRrjNc)
+![Protocol Diagram](https://lh6.googleusercontent.com/tyvNTEascYESPBMPPxHvuZFv0ehCyT1FmEkb5v2C5p755cam6qmtkHr2T6mOvSia4ov79huWd3GAybHLm29WL4EsWVXkP3u6mbdO41S9GaqTV-rUhoOixxrag-nyWGaLxQZRrjNc)
 
 The core modules \(AMM, Lending Market and Stablecoin Minter\) enable the:  
 
