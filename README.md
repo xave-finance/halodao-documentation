@@ -2,15 +2,49 @@
 description: Get to know our vision and mission here.
 ---
 
-# Welcome to HaloDAO
+# 🐇 Introduction to HaloDAO
 
-![Astro Bunny](.gitbook/assets/halodao_mascot_sitting.png)
+![](.gitbook/assets/whatsapp-image-2021-05-11-at-9.23.09-pm.jpeg)
 
-“I love sweets to the moon and back!” is a phrase that you’ll often hear from our Astro Bunny. He was born on earth and has a very strong sweet tooth and a passion for intergalactic exploration. His favorite dessert is Halo-Halo, a popular dessert from the Philippines. 
+{% hint style="info" %}
+**HaloDAO brings the Forex \(FX\) market into DeFi in three ways:**
 
-He is not just a dessert lover but has a knack for finding the best yield-bearing treats. Now, he is on a quest to find new desserts from different planets that he can share with his friends back home. His first stop to find these delicious treats is the Halo Planet! There he can trade, lend and borrow ingredients to put together the best Halo-Halo Yield to bring back home.
+**Swap, Lend/Borrow, and Receive Yield.**
+{% endhint %}
 
-HaloDAO is the community that runs Halo Planet, our Astro Bunny’s first stop. It is an Asian-focused stablecoin marketplace that aims to build up the permissionless liquidity needed to enable the Web 3.0 economy for the Asia Pacific, bringing tasty high APYs for all its members.  
-  
+HaloDAO enables permissionless liquidity for Asian asset-backed stablecoins. 
+
+Asia houses inherently disconnected economies and legal jurisdictions, which makes cross-border commerce inaccesible and expensive. Limited liquidity is also a known problem in DeFi right now. 
+
+**HaloDAO aims to address these issues by:** 
+
+* Using asset-backed stablecoins to build On-Demand Liquidity \(ODL\).
+* Creating more on and off-ramps integrations with existing wallets and exchanges around Asia.
+* Building optimized products to facilitate efficient, on-demand currency exchange and a stablecoin specific lending market that provides high-interest yields on local currencies.
+
+This allows anyone to **swap, lend/borrow and receive yields** in asset-backed stablecoins. 
+
+**Explore our products below:**
+
+|  |  |
+| :--- | :--- |
+| Stablecoin Marketplace | [https://dev.app.halodao.com/\#/farm](https://dev.app.halodao.com/#/farm) |
+| Dessert Pool | [https://dev.app.halodao.com/\#/swap](https://dev.app.halodao.com/#/vesting) |
+|  |  |
+
+{% hint style="info" %}
+**🐰Our Astro Bunny's story:**
+
+Astro Bunny is on an intergalactic exploration to find new desserts. His first stop to find these delicious treats is the Halo Planet! There he can trade, lend and borrow ingredients to put together the best mix of dessert yields to bring back home.
+
+Come join us, we are going intergalactic!
+{% endhint %}
+
+{% hint style="warning" %}
+**Disclaimer:** 
+
+**The content of this docs site is constantly evolving and will be written in the form of a high-level introduction until we reach the next step in our roadmap \(v1\) where we will have ironed out and proven more detailed architectures and processes.**
+{% endhint %}
+
 
 
