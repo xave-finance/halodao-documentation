@@ -10,7 +10,7 @@ HaloDAO aims to create a "Common Asian Market" built on asset-backed stablecoins
 
 With a greater supply of local stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region. 
 
-## What can I on HaloDAO?
+## What can I do on HaloDAO?
 
 <table>
   <thead>
