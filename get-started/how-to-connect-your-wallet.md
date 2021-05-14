@@ -20,3 +20,7 @@ After setting up your wallet, you can now connect your wallet with HaloDAO.
 4. On Metamask, click "Next".
 5. And click "Confirm".
 
+{% hint style="info" %}
+Make sure you are connected to **Mainnet**.
+{% endhint %}
+
