@@ -28,8 +28,8 @@ This allows anyone to **swap, lend/borrow and receive yields** in asset-backed s
 
 |  |  |
 | :--- | :--- |
-| Stablecoin Marketplace | [https://dev.app.halodao.com/\#/farm](https://dev.app.halodao.com/#/farm) |
-| Dessert Pool | [https://dev.app.halodao.com/\#/swap](https://dev.app.halodao.com/#/vesting) |
+| Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm) \(Coming Soon\) |
+| Dessert Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting) \(Coming Soon\) |
 |  |  |
 
 {% hint style="info" %}
