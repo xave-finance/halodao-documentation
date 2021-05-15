@@ -6,7 +6,7 @@ As we build out the rest of the protocol, the Foundation will implement off-chai
 
 
 {% hint style="info" %}
-To see a more thorough explanation of how governance will work, see the [Litepaper](). 
+To see a more thorough explanation of how governance will work, see the [Litepaper](https://www.halodao.com/litepaper). 
 {% endhint %}
 
 

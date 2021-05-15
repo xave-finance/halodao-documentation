@@ -11,7 +11,7 @@ The  HALO token holders can propose and vote for:
 * And many other proposal types.
 
 {% hint style="info" %}
-To see a more thorough explanation of how governance will work, see the [Litepaper](https://uploads-ssl.webflow.com/6066670ec8811f5ce89bf637/6082713e0587cff1ab831a41_Lite%20Paper.pdf). 
+To see a more thorough explanation of how governance will work, see the [Litepaper](https://www.halodao.com/litepaper). 
 {% endhint %}
 
 

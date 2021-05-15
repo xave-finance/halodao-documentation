@@ -10,5 +10,3 @@ Dessert vesting lets you gain high APYs on HALO without impermanent loss, yet yo
 
 The protocol enables this by allocating 20% of monthly HALO liquidity rewards over 5 years into the vesting contract. As the protocol is built out, governance may also allocate network profits into the vesting contract to increase vesting APY even further. The exact timing and mechanism of this will be decided closer to our v1 launch. 
 
-⚠️[Here](how-vesting-works.md) is a detailed explanation of how vesting works.
-
