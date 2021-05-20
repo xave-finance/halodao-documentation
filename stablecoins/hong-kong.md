@@ -9,8 +9,7 @@ TrueHKD is fully collateralized by Hong Kong dollars and was first issued in Jun
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
-TrustTokens are regulated in the US, TrueCurrencies are managed by TrueCoin, LLC - a registered Money Service Business \(MSB\) in the United States  
-
+TrustTokens are regulated in the US, TrueCurrencies are managed by TrueCoin, LLC - a registered Money Service Business \(MSB\) in the United States
 
 **Where can I purchase THKD?**
 

@@ -11,6 +11,8 @@ XSGD is a Singapore Dollar StableCoin, backed 1-to-1 with the Singapore dollar, 
 
 Xfers Pte Ltd. is the holder of a Major Payment Institution license for e-money issuance \(XSGD\) under the Payment Services Act. With this license, Xfers is able to mint xSGD token on the Ethereum blockchain equivalent to the amounts of Singapore Dollars held in segregated accounts.
 
+Xfers Pte Ltd. is the holder of a Major Payment Institution license for e-money issuance \(XSGD\) under the Payment Services Act. With this license, Xfers is able to mint xSGD token on the Ethereum blockchain equivalent to the amounts of Singapore Dollars held in segregated accounts.
+
 The issued stablecoin contracts on Ethereum have been audited by Quantstamp.
 
 **Where can I purchase XSGD?**
