@@ -10,7 +10,7 @@ description: Get to know our thesis and mission here
 **HaloDAO connects traditional finance and decentralised finance by providing the decentralised infrastructure for next generation payments and settlement. We begin with the core primitives of Swap, Lend/Borrow, and Receive Yield; to generate liquidity networks for others to build on.**
 {% endhint %}
 
-**Our Thesis:** The HaloDAO Protocol team believes that the future of DeFi and Crypto Expansion will be brought about by local asset-backed stablecoins. These stables are attractive because their 1:1 fiat backing means they are fungible. Users can trade and transfer them with confidence. The future is not one where we will use our BTC to purchase ice-cream. It will likely be an asset-backed stablecoin or a Central Bank Digital Currency.
+**Our Thesis:** The HaloDAO Protocol team believes that the future of DeFi and Crypto Expansion will be brought about by local asset-backed stablecoins. These stables are attractive because their 1-to-1 fiat backing means they are fungible. Users can trade and transfer them with confidence. The future is not one where we will use our BTC to purchase ice-cream. It will likely be an asset-backed stablecoin or a Central Bank Digital Currency.
 
 Asset backed stablecoins are minted via regulated players when fiat is deposited with a local regulated custodian in the local jurisdiction. As the fiat collateral is onshore, this mitigates political considerations of capital flight while allowing holders to have the autonomy to deploy liquidity in the ways that they desire.
 
