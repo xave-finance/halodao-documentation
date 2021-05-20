@@ -27,10 +27,10 @@ Examples of Self Executing proposal types are the following:
 
 | **Self Executing Proposals** | **Sample value** | **Comment** |
 | :--- | :--- | :--- |
-| **AMM LP swap fee** | **0.003** | **Equal to 0.3% of the swapped transaction amount** |
-| **AMM LP swap fee** | **0.0005** | **Equal to 0.05% of the swapped transaction amount** |
-| **Voting cooldown period** | **24 hrs** |  |
-| **Voter reward per epoch** | **0.2** | **Equal to 20% of network profits per epoch** |
+| AMM LP swap fee | 0.003 | Equal to 0.3% of the swapped transaction amount |
+| AMM LP swap fee | 0.0005 | Equal to 0.05% of the swapped transaction amount |
+| Voting cooldown period | 24 hrs |  |
+| Voter reward per epoch | 0.2 | Equal to 20% of network profits per epoch |
 
 #### Voting Rewards
 
