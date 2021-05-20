@@ -7,6 +7,6 @@
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the “Vest” tab.
 3. Click “Claim HALO.”
-4. If you have DSRT balance, you will automatically receive the proportionate amount of HALO it is worth at time of claiming.
-5. \(Optional\) Watch DSRT go up in HALO value.
+4. If you have RNBW balance, you will automatically receive the proportionate amount of HALO it is worth at the time of claiming.
+5. \(Optional\) Watch RNBW go up in HALO value.
 

@@ -7,7 +7,7 @@
   * [How to Supply Liquidity](get-started/how-to-supply-liquidity.md)
   * [How to Earn](get-started/how-to-earn/README.md)
     * [How to Farm \(Staking & Unstaking\)](get-started/how-to-earn/how-to-farm.md)
-    * [How to Vest \(DESSERT POOL\)](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
+    * [How to Vest \(RAINBOW POOL\)](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
       * [How to Claim \(Harvest\)](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md)
   * [How to Trade \(Swaps\)](get-started/how-to-trade-swaps.md)
   * [How to Vote](get-started/how-to-vote.md)
@@ -18,10 +18,9 @@
 
 * [🔁 AMM/EXCHANGE \(Farm\)](products/automated-market-maker/README.md)
   * [Stablecoin Marketplace](products/automated-market-maker/stablecoin-marketplace.md)
-* [🍧 Dessert Pool](products/dessert-pool/README.md)
+* [🌈 Rainbow Pool](products/dessert-pool/README.md)
   * [How Vesting Works](products/dessert-pool/how-vesting-works.md)
 * [🏦 Lending Market](products/lending-market.md)
-* [✨ Synthetic Minter](products/synthetic-minter.md)
 
 ---
 

@@ -2,13 +2,13 @@
 
 ![](../../.gitbook/assets/artboard-1-copy-8-2x.png)
 
-1. When you stake your LP tokens in the HALO Rewards contract, you will get HALO tokens proportionate to your LP token liquidity provided as rewards. You can do this from the [Farm page](https://app.halodao.com) 
-2. The HALO tokens you got from staking and the HALO tokens you earn from rewards will automatically be staked in the DESSERT Contract. Refer to figure 1 above for the explanation of DESSERT contract.
-3.  Your wallet will be credited with DSRT tokens as you earn HALO rewards.
+1. When you stake your LP tokens from the [Farm page](https://app.halodao.com), you will be rewarded with HALO tokens proportionate to your LP tokens. 
+2. Your HALO tokens are automatically staked into the Rainbow contract.
+3. Your wallet will be credited with Rainbow Drop tokens \(RNBW\) as you earn HALO rewards.
 
 **\[@jofo diagram here\]**
 
-The following is a walkthrough on how holding Dessert \(DSRT\) gives you more HALO over time:
+The following is a walkthrough on how holding RNBW gives you more HALO over time:
 
 Let’s make the following assumptions using the classic Alice and Bob example:
 
@@ -21,19 +21,19 @@ Let’s make the following assumptions using the classic Alice and Bob example:
 
 | Event | Epoch | Action | DSRT:HALO price | DSRT:HALO total supply |
 | :--- | :--- | :--- | :--- | :--- |
-| Alice earns 1 HALO | 1 | 1 HALO auto deposited to DESSERT |  |  |
-| Alice receives 1 DESSERT | 1 | DESSERT contract mints 1 DSRT and locks 1 HALO | 1 DSRT = 1 HALO | 1 DSRT, 1 HALO |
-| 1 HALO vesting reward sent to DESSERT contract by protocol | 1 | No DESSERT is minted, which increases the price of DSRT relative to HALO | 1 DESSERT = 2 HALO | 1 DESSERT, 2 HALO |
-| Bob earns 1 HALO | 2 | 1 HALO auto deposited to DESSERT |  |  |
-| Bob receives 0.5 DSRT | 2 | DESSERT contract mints 0.5 DSRT and locks 1 HALO | 1 DSRT = 2 HALO | 1.5 DSRT, 3 HALO |
-| 1 HALO vesting reward sent to DESSERT contract by protocol | 2 | No DSRT is minted, which increases the price of DESSERT relative to HALO | 1 DSRT = ~2.67 HALO | 1.5 DSRT, 4 HALO |
-| Alice claims HALO using 1 DSRT | 2 | 1 DSRT is burned, 2 HALO is withdrawn from DESSERT vesting contract | 1 DSRT = ~2.66 HALO | 0.5 DSRT, 1.33 HALO |
-| Bob claims HALO using 0.5 DSRT | 2 | 0.5 DSRT is burned, 1.33 HALO is withdrawn from DESSERT Vesting contract | 0 DSRT = 0 HALO | 0 DSRT, 0 HALO |
-| Alice earns 1 HALO | 3 | 1 HALO auto deposited to DESSERT |  |  |
-| Alice receives 1 DSRT | 3 | DESSERT contract mints 1 DSRT and locks 1 HALO | 1 DSRT = 1 HALO | 1 DSRT, 1 HALO |
+| Alice earns 1 HALO | 1 | 1 HALO auto deposited to Rainbow contract |  |  |
+| Alice receives 1 RNBW | 1 | Rainbow contract mints 1 RNBW and locks 1 HALO | 1 RNBW = 1 HALO | 1 RNBW, 1 HALO |
+| 1 HALO vesting reward sent to Rainbow contract by protocol | 1 | No RNBW is minted, which increases the price of RNBW relative to HALO | 1 RNBW = 2 HALO | 1 RNBW, 2 HALO |
+| Bob earns 1 HALO | 2 | 1 HALO auto deposited to Rainbow contract |  |  |
+| Bob receives 0.5 RNBW | 2 | Rainbow contract mints 0.5 RNBW and locks 1 HALO | 1 RNBW = 2 HALO | 1.5 RNBW, 3 HALO |
+| 1 HALO vesting reward sent to Rainbow contract by protocol | 2 | No RNBW is minted, which increases the price of RNBW relative to HALO | 1 RNBW = ~2.67 HALO | 1.5 RNBW, 4 HALO |
+| Alice claims HALO using 1 RNBW | 2 | 1 RNBW is burned, 2 HALO is withdrawn from Rainbow contract | 1 RNBW = ~2.66 HALO | 0.5 RNBW, 1.33 HALO |
+| Bob claims HALO using 0.5 RNBW | 2 | 0.5 RNBW is burned, 1.33 HALO is withdrawn from Rainbow contract | 0 RNBW = 0 HALO | 0 RNBW, 0 HALO |
+| Alice earns 1 HALO | 3 | 1 HALO auto deposited to Rainbow contract |  |  |
+| Alice receives 1 RNBW | 3 | Rainbow contract mints 1 RNBW and locks 1 HALO | 1 RNBW = 1 HALO | 1 RNBW, 1 HALO |
 
-As you can see, over time as HALO vesting rewards are deposited into the DESSERT vesting contract the price of HALOHAO in terms of HALO will increase. Of course, 1 epoch will not just be 1 day but 1 month in actual operations and Alice and Bob in this example won’t necessarily claim all HALO and burn total DESSERT supply \(thus resetting DESSERT:HALO price\) at the same time,  but this serves as a simple simulation of the vesting mechanism. If you think this sounds familiar, that is because we forked the DESSERT contract from Sushi’s SushiBar but made some slight changes, namely;
+As you can see, over time as HALO vesting rewards are deposited into the Rainbow vesting contract the price of RNBW in terms of HALO will increase. Of course, 1 epoch will not just be 1 day but 1 month in actual operations, and Alice and Bob in this example won’t necessarily claim all HALO and burn total RNBW supply \(thus resetting RNBW:HALO price\) at the same time,  but this serves as a simple simulation of the vesting mechanism. If you think this sounds familiar, that is because we forked the Rainbow contract from Sushi’s SushiBar but made some slight changes, namely;
 
-1. Instead of a ⅔ vesting schedule, we automatically transfer all earned HALO rewards daily \(gas on us\) to the DESSERT contract and give the liquidity provider DSRT. We figured this approach would save the user gas, automatically vest the user to earn more HALO \(as long as you stick around for at least a month interval\) but still allow the flexibility of real time withdrawal at any time.
-2. In addition to depositing network profits \(exact amount and time interval to be determined after HaloDAO profit drivers are enabled at AMM, Lending Market and Synthetic Minter launch\), 20% of monthly HALO liquidity rewards over 5 years will be sent to the DESSERT vesting contract every month. This increases DSRT APY and further incentivises long term holding.
+1. Instead of a ⅔ vesting schedule, the liquidity provider will automatically earn HALO rewards from the Rainbow contract and give the liquidity provider RNBW. We figured this approach would save the user gas, automatically vest the user to earn more HALO \(as long as you stick around for at least a month interval\) but still allow the flexibility of real-time withdrawal at any time.
+2. In addition to depositing network profits \(exact amount and time interval to be determined after HaloDAO profit drivers are enabled at AMM and Lending Market launch\), 20% of monthly HALO liquidity rewards over 5 years will be sent to the Rainbow vesting contract every month. This increases RNBW APY and further incentivises long-term holding.
 

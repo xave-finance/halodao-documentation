@@ -42,12 +42,6 @@ With a greater supply of local stablecoins, users will be able to access the per
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mint Synthetics</td>
-      <td style="text-align:left">Coming Soon!
-        <br />Mint synthetic stablecoins at a price feed relative to collateral tokens
-        and the target regional currency.</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><a href="get-started/how-to-vote.md">Vote</a>
       </td>
       <td style="text-align:left">Allow any HALO token holder to stake and vote on proposals initiated by
@@ -66,17 +60,17 @@ Halo Rewards is the incentivization program for HaloDAO liquidity providers. Liq
 
 The more and the longer you stake, the more HALO tokens you can earn.
 
-## What is DESSERT?
+## What is Rainbow?
 
-When you provide liquidity to any of HaloDAO’s products, you will automatically earn HALO proportionate to your liquidity provided. That HALO will be automatically vested in DESSERT Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
+When you provide liquidity to any of HaloDAO’s products, you will automatically earn HALO proportionate to your liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
 
-## **What is the difference between HALO and DSRT \(Dessert\) tokens?**
+## **What is the difference between HALO and RNBW \(Rainbow Drop\) tokens?**
 
 HALO is the governance token of the HaloDAO protocol, while DSRT functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
 
 ## Can I claim my HALO Rewards anytime?
 
-Yes! While your HALO rewards are vested into the Dessert contract, it is not locked and you can claim it anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
+Yes! While your HALO rewards are vested into the Rainbow contract, it is not locked and you can claim it anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
 
 
 
