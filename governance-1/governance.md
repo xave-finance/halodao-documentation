@@ -32,8 +32,21 @@ Examples of Self Executing proposal types are the following:
 | **Voting cooldown period** | **24 hrs** |  |
 | **Voter reward per epoch** | **0.2** | **Equal to 20% of network profits per epoch** |
 
-  
+#### Voting Rewards
 
+The foundation will release a voting portal that will allow any HALO token holder to stake and vote on proposals initiated by other HALO token holders. 
+
+$$
+{\text{Stablecoin_Reward}}_\text{epoch}=\frac{\text{Halo}_\text{staked}}{{\text{TotalHalo}}_\text{staked}}\ast{\text{TotalIncome}}_\text{epoch}
+$$
+
+Where**:**
+
+1. A single epoch is set at 1 month
+2. $$\text{Halo}_\text{staked}$$ is the voter’s total HALO balance staked to vote for a specific proposal.
+3. $$\text{TotalHalo}_\text{staked}$$is the sum of all voter’s total HALO balance staked to vote for a specific proposal.
+
+Total Income epoch is the current percentage of HALO token holder dividends out of network profits.
 
 {% hint style="info" %}
 To see a more thorough explanation of how governance will work, see the [Litepaper](https://www.halodao.com/litepaper). 
