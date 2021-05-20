@@ -66,7 +66,7 @@ When you provide liquidity to any of HaloDAO’s products, you will automaticall
 
 ## **What is the difference between HALO and RNBW \(Rainbow Drop\) tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while DSRT functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
+HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
 
 ## Can I claim my HALO Rewards anytime?
 
