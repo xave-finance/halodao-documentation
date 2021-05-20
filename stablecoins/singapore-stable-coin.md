@@ -1,4 +1,4 @@
-# 🇸🇬 xSGD
+# 🇸🇬 XSGD
 
 Official Site: [https://www.xfers.com](https://www.xfers.com/)  
 
