@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🐇 Introduction to HaloDAO](README.md)
+* [🚀Introduction to HaloDAO](README.md)
+* [🐇Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
 * [✅ Get Started](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)

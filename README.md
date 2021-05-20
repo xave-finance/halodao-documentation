@@ -1,8 +1,8 @@
 ---
-description: Get to know our vision and mission here.
+description: Get to know our thesis and mission here
 ---
 
-# 🐇 Introduction to HaloDAO
+# 🚀Introduction to HaloDAO
 
 ![](.gitbook/assets/whatsapp-image-2021-05-11-at-9.23.09-pm.jpeg)
 
@@ -35,14 +35,6 @@ Our initial product in V0 allows anyone to **swap and receive yields** in asset-
 | Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm) \(Coming Soon\) |
 | Rainbow Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting) \(Coming Soon\) |
 |  |  |
-
-{% hint style="info" %}
-**🐰Our mascot's story:**
-
-Our mascot's name is Heyhey. Its namesake comes from the word 'Mabuhay' in tagalog, a common greeting used in the Philippines, which is synonymous with 'good life'.  Heyhey was born with a sweet tooth and a spirit of adventure. To satisfy its sweet craving, Heyhey is on an intergalactic adventure to find new tasty treats. Its first stop to find these delicious treats is the Halo Planet! There he can trade, lend and borrow ingredients to put together the best mix of dessert yields found on new planets to create tastier treats.
-
-Come join us, we are going intergalactic!
-{% endhint %}
 
 {% hint style="warning" %}
 **Disclaimer:** 
