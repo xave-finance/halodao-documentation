@@ -5,16 +5,21 @@ Official Site: [https://www.xfers.com](https://www.xfers.com/)
 
 **What is XSGD?**
 
-XSGD is a Singapore Dollar StableCoin, backed 1-to-1 with the Singapore dollar, with Onchain Custodian acting as an independent, insured, third-party custodian.
+XSGD is a Singapore Dollar StableCoin, backed 1-to-1 with the Singapore dollar, with Onchain Custodian acting as an independent, insured, third-party custodian. The custodian uses IBM FIPS 140-2 Level 4 Hardware Security Modules to ensure that the XSGD stablecoins are secured by the highest level of cybersecurity to date. The funds in custody are insured by Lloyds' of London underwriters.
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
-Xfers Pte Ltd. is the holder of a Major Payment Institution license for e-money issuance \(XSGD\) under the Payment Services Act. With this license, Xfers is able to mint unlimited amounts of XSGD backed by Singapore Dollars held in segregated accounts.  
+Xfers Pte Ltd. is the holder of a Major Payment Institution license for e-money issuance \(XSGD\) under the Payment Services Act. With this license, Xfers is able to mint xSGD token on the Ethereum blockchain equivalent to the amounts of Singapore Dollars held in segregated accounts.
 
+The issued stablecoin contracts on Ethereum have been audited by Quantstamp.
 
-**Where can I purchase XSGD?**  
+**Where can I purchase XSGD?**
+
+Currently, Singapore-based users can acquire XSGD directly on the Xfers platform and through its network of partners.
+
+For non-Singaporeans, XSGD can be acquired from decentralised exchanges or through partners, such as Indodax, which supports an XSGD/IDR pair and CEX.IO, which supports an XSGD/USD pair.  
   
-_For Singaporeans_:
+_**For Singaporeans**_**:**
 
 Step 1: Add your blockchain address to get it verified and complete the verification process
 
@@ -30,7 +35,7 @@ Step 3: Withdraw XSGD to your personal blockchain address
 
 More details can be found [here.](https://www.xfers.com/sg-blog/tutorial-how-to-get-xsgd-from-the-xfers-platform)
 
-_For non-Singaporeans_, XSGD can be acquired from decentralised exchanges that consists of XSGD pairings**.**
+_**For non-Singaporeans**_**,** XSGD can be acquired from decentralised exchanges that consists of XSGD pairings**.**
 
 XSGD can be used in various exchanges which includes Coinhako, Crypto.com Singapore, Liquid, Tokenize Exchange, Sparrow Exchange and QCP Capital.
 
