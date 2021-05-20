@@ -7,35 +7,39 @@ description: Get to know our vision and mission here.
 ![](.gitbook/assets/whatsapp-image-2021-05-11-at-9.23.09-pm.jpeg)
 
 {% hint style="info" %}
-**HaloDAO brings the Forex \(FX\) market into DeFi in three ways:**
-
-**Swap, Lend/Borrow, and Receive Yield.**
+**HaloDAO connects traditional finance and decentralised finance by providing the decentralised infrastructure for next generation payments and settlement. We begin with the core primitives of Swap, Lend/Borrow, and Receive Yield; to generate liquidity networks for others to build on.**
 {% endhint %}
 
-HaloDAO enables permissionless liquidity for Asian asset-backed stablecoins. 
+**Our Thesis:** The HaloDAO Protocol team believes that the future of DeFi and Crypto Expansion will be brought about by local asset-backed stablecoins. These stables are attractive because their 1:1 fiat backing means they are fungible. Users can trade and transfer them with confidence. The future is not one where we will use our BTC to purchase ice-cream. It will likely be an asset-backed stablecoin or a Central Bank Digital Currency.
 
-Asia houses inherently disconnected economies and legal jurisdictions, which makes cross-border commerce inaccesible and expensive. Limited liquidity is also a known problem in DeFi right now. 
+Asset backed stablecoins are minted via regulated players when fiat is deposited with a local regulated custodian in the local jurisdiction. As the fiat collateral is onshore, this mitigates political considerations of capital flight while allowing holders to have the autonomy to deploy liquidity in the ways that they desire.
+
+**Situation:** We are still far from this mass adoption future. Currently, all asset backed stablecoins have not achieved widespread adoption other than USD. Those that exist have low volumes and low usage. 
 
 **HaloDAO aims to address these issues by:** 
 
 * Using asset-backed stablecoins to build On-Demand Liquidity \(ODL\).
-* Creating more on and off-ramps integrations with existing wallets and exchanges around Asia.
+* Creating more on and off-ramps integrations with existing wallets and exchanges.
 * Building optimized products to facilitate efficient, on-demand currency exchange and a stablecoin specific lending market that provides high-interest yields on local currencies.
 
-This allows anyone to **swap, lend/borrow and receive yields** in asset-backed stablecoins. 
+**Our additional roles in the HaloDAO ecosystem:** We are well aware that bringing about mass adoption cannot be achieved by our protocol team alone. We believe that the future is built by a community. So, apart from building products on decentralised infrastructure, we will be taking in ecosystem proposals from aspiring founders to support them in their build to expand our ecosystem. More will be released in due time.
+
+**Launching V0:** We are initially supporting asset-backed stablecoins in Asia in our V0, but will rapidly expand support for all local asset-backed stablecoins globally. We start in Asia due to strong money flows and availability of ramps support in the region.
+
+Our initial product in V0 allows anyone to **swap and receive yields** in asset-backed stablecoins. 
 
 **Explore our products below:**
 
 |  |  |
 | :--- | :--- |
 | Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm) \(Coming Soon\) |
-| Dessert Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting) \(Coming Soon\) |
+| Rainbow Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting) \(Coming Soon\) |
 |  |  |
 
 {% hint style="info" %}
-**🐰Our Astro Bunny's story:**
+**🐰Our mascot's story:**
 
-Astro Bunny is on an intergalactic exploration to find new desserts. His first stop to find these delicious treats is the Halo Planet! There he can trade, lend and borrow ingredients to put together the best mix of dessert yields to bring back home.
+Our mascot's name is Heyhey. Its namesake comes from the word 'Mabuhay' in tagalog, a common greeting used in the Philippines, which is synonymous with 'good life'.  Heyhey was born with a sweet tooth and a spirit of adventure. To satisfy its sweet craving, Heyhey is on an intergalactic adventure to find new tasty treats. Its first stop to find these delicious treats is the Halo Planet! There he can trade, lend and borrow ingredients to put together the best mix of dessert yields found on new planets to create tastier treats.
 
 Come join us, we are going intergalactic!
 {% endhint %}
