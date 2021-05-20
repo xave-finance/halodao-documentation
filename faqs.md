@@ -56,7 +56,7 @@ HALO is the ERC20 governance token, limited to 100,000,000 supply to be distribu
 
 ## What is HALO Rewards?
 
-Halo Rewards is the incentivization program for HaloDAO liquidity providers. Liquidity providers earn HALO tokens which are auto vested in DESSERT \(DSRT\) tokens - but without locking tokens for any amount of time. The next section immediately below explains what these DSRT tokens are. 
+Halo Rewards is the incentivization program for HaloDAO liquidity providers. Liquidity providers earn HALO tokens which are auto vested in HaloDAO's Rainbow vesting contract - but without locking tokens for any amount of time. Liquidity provider will get Rainbow Drop tokens \(RNBW\) The next section immediately below explains what these RNBW tokens are. 
 
 The more and the longer you stake, the more HALO tokens you can earn.
 
