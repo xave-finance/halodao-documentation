@@ -5,7 +5,7 @@ HaloDAO's voting portal will allow any HALO token holder to stake and vote on pr
 The  HALO token holders can propose and vote for:
 
 * New economic and geographic regions to expand to. 
-* New collateral types and synthetics to support across the AMM, Minter, and Lending Market.
+* New collateral types and synthetics to support across the AMM, and Lending Market.
 * Adjust the HALO burn rate. \(to lessen the total HALO supply over time, funded by the Stablecoin Earnings Pools\)
 * When to execute buybacks using funds from the Stablecoin Earnings Pools.
 * And many other proposal types.
