@@ -21,9 +21,9 @@ If the proposal passes on Snapshot, then Reality.eth should resolve to the same 
 
 #### **Proposal Types**
 
-One thing to note is that various governance proposal types can be categorized into either Self Executing or needing Manual Execution. Self**-**executing proposals are those detailed below that can simply go through the governance process described above and are generally programmable parameters in HaloDAO’s smart contracts. Manual execution, however, would require action from human actors and would not be part of the governance process described above. There would be no “standard way” to handle manually executed proposal types, as it would be something outside the scope of programmable parameters in the smart contracts.
+One thing to note is that various governance proposal types can be categorized into either **self-executing** or needing **manual execution**. Self**-**executing proposals are those detailed below that can simply go through the governance process described above and are generally programmable parameters in HaloDAO’s smart contracts. Manual execution, however, would require action from human actors and would not be part of the governance process described above. There would be no “standard way” to handle manually executed proposal types, as it would be something outside the scope of programmable parameters in the smart contracts.
 
-Examples of Self Executing proposal types are the following:
+Examples of self-executing proposal types are the following:
 
 | **Self Executing Proposals** | **Sample value** | **Comment** |
 | :--- | :--- | :--- |
