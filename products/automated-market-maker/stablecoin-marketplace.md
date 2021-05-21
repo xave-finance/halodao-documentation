@@ -7,7 +7,7 @@ Below is the list of stablecoin pools.
 | **Pair** | **URL** |
 | :--- | :--- |
 | HALO:ETH |  |
-| DSRT:HALO |  |
+| RNBW:HALO |  |
 | USDC:xSGD |  |
 | USDT:xSGD |  |
 | DAI:xSGD |  |
