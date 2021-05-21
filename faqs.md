@@ -1,14 +1,14 @@
 # 🤔 FAQs
 
 {% hint style="success" %}
-We are committed to and focused on Asia, as we believe that employing a localized approach with deep cultural awareness will be key to mass adoption.
+We are committed to and focused on mass adoption to make accessing DeFi a seamless experience similar or better with ecosystem partners  
 {% endhint %}
 
 ## How is HaloDAO different from other DeFi protocols?
 
-HaloDAO aims to create the decentralised payments infrastructure on which innovation can be built upon. To enable Sending \(Money\) and Saving \(via high yield\) for local economies. 
+HaloDAO aims to create the decentralised finance infrastructure on which innovation can be built upon. To enable Sending \(stablecoins\) and Saving \(via high yield\) for local economies. 
 
-With a greater supply of local stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region. 
+With a greater supply of local asset backed stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region. 
 
 ## What can I do on HaloDAO?
 
@@ -23,10 +23,9 @@ With a greater supply of local stablecoins, users will be able to access the per
     <tr>
       <td style="text-align:left"><a href="get-started/how-to-supply-liquidity.md">Supply Liquidity</a>
       </td>
-      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between Asian
-        asset-backed stablecoins, synthetic stablecoins and important pairings
-        between those stablecoins and popular currencies, such as ETH, WBTC, USDC,
-        USDT, DAI, etc.</td>
+      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between local
+        asset-backed stablecoins and important pairings between those stablecoins
+        and popular currencies, such as ETH, WBTC, USDC, USDT, DAI, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Trade</td>
