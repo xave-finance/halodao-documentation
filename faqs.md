@@ -61,7 +61,7 @@ The more and the longer you stake, the more HALO tokens you can earn.
 
 ## What is Rainbow \(RNBW\)?
 
-When you provide liquidity to any of HaloDAO’s products, you will automatically earn HALO proportionate to your liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
+When users provide liquidity to any of HaloDAO’s products, they will automatically earn HALO proportionate to their liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
 
 ## **What is the difference between HALO and RNBW tokens?**
 
