@@ -35,6 +35,7 @@
 ## Sweet Recipe <a id="roadmap"></a>
 
 * [🧭 Roadmap Overview](roadmap/overview.md)
+* [🚦Governance Roadmap](roadmap/governance-roadmap.md)
 
 ## Socials
 
