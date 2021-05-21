@@ -21,7 +21,7 @@
 
 ## **How to Unstake**
 
-![](../../.gitbook/assets/staking%20%281%29.png)
+![](../../.gitbook/assets/unstaking-2-.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-21-at-15.26.25.gif)
 
