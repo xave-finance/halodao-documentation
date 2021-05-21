@@ -62,7 +62,7 @@ Halo Rewards is the incentivization program for HaloDAO liquidity providers. Liq
 
 The more and the longer you stake, the more HALO tokens you can earn.
 
-## What is Rainbow \(RNBW\)?
+## What is Rainbow Pool?
 
 When users provide liquidity to any of HaloDAO’s products, they will automatically earn HALO proportionate to their liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
 
