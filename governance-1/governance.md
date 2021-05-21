@@ -49,6 +49,10 @@ Where**:**
 Total Income epoch is the current percentage of HALO token holder dividends out of network profits.
 
 {% hint style="info" %}
+Check the [governance roadmap](../roadmap/governance-roadmap.md) for plans and updates.
+{% endhint %}
+
+{% hint style="info" %}
 To see a more thorough explanation of how governance will work, see the [Litepaper](https://www.halodao.com/litepaper). 
 {% endhint %}
 
