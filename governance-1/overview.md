@@ -37,11 +37,3 @@ If the proposal passes on Snapshot, then Reality.eth should resolve to the same 
 Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule for version releases.
 {% endhint %}
 
-
-
-
-
-
-
-
-
