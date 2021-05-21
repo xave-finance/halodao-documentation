@@ -12,11 +12,9 @@ Below is the list of stablecoin pools.
 | :--- | :--- |
 | HALO:ETH |  |
 | RNBW:HALO |  |
-| USDC:xSGD |  |
-| USDT:xSGD |  |
-| DAI:xSGD |  |
+| USDC:XSGD |  |
 | USDC:THKD |  |
+| USDT:XSGD |  |
 | USDT:THKD |  |
-| DAI:THKD |  |
-| CAD:xSGD |  |
+| THKD:XSGD |  |
 
