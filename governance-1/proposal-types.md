@@ -12,6 +12,6 @@ Examples of self-executing proposal types are the following:
 | Voter reward per epoch | 0.2 | Equal to 20% of network profits per epoch |
 
 {% hint style="info" %}
-Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule for version releases.
+Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule of version releases.
 {% endhint %}
 

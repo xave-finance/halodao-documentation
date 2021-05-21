@@ -17,6 +17,6 @@ Total Income epoch is the current percentage of HALO token holder dividends out 
 A user’s stablecoin reward is calculated by taking their proportion of staked and voting HALO and multiplying that by the total income earned by the Protocol during a specific block. Those who are actively staked and voting token holders will in turn be compensated per epoch based on their proportion of staked HALO tokens from the total staked and voting HALO supply; and not from the total HALO supply.
 
 {% hint style="info" %}
-Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule for version releases.
+Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule for of releases.
 {% endhint %}
 
