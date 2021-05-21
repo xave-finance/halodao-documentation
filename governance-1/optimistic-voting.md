@@ -11,6 +11,6 @@ The above diagram is partially taken from [Gnosis SafeSnap](https://blog.gnosis.
 
 {% hint style="info" %}
 Optimistic Voting will be available on v1 launch.  
-Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule.
+Refer to the [governance roadmap](../roadmap/governance-roadmap.md) for the approx. schedule of version releases.
 {% endhint %}
 
