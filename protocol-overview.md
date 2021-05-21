@@ -5,10 +5,9 @@
 HaloDAO aims to incentivize and build asset-backed stablecoin liquidity by establishing the foundational money lego of DeFi. However, rather than using ETH or BTC to generate synthetic USD stablecoins as initial protocols have done, HaloDAO caters to;
 
 1. Stablecoin liquidity for market-making in an AMM.
-2. Stablecoin lending and borrowing in a Lending Market
-3. Minting of synthetic stablecoins based on existing USD pegged stablecoin collateral. 
+2. Stablecoin lending and borrowing in a Lending Market 
 
-You will notice the building blocks of liquidity within the use case columns, namely USD stablecoins, LP tokens for stablecoin liquidity pools, and synthetic stablecoins that can all be used to stack liquidity yield for increasing APYs that in turn attract more liquidity into these 3 fundamental DeFi use cases. An example of how this would work is the classic DeFi yield farming sequence:
+You will notice the building blocks of liquidity within the use case columns, namely USD stablecoins and LP tokens for stablecoin liquidity pools that can all be used to stack liquidity yield for increasing APYs that in turn attract more liquidity into these 3 fundamental DeFi use cases. An example of how this would work is the classic DeFi yield farming sequence:
 
 1. Lend stablecoin A and stablecoin B at a certain ratio to a liquidity pool and receive an LP token as claim against the collateral
 2. Take that LP token and lend it in the Lending Market to borrowers who then pay a fee to the lender, receiving a wrapped token representing lent collateral.
