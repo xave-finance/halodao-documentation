@@ -1,7 +1,5 @@
 # How to Farm \(Staking & Unstaking\)
 
-![](../../.gitbook/assets/artboard-1-copy-4-2x%20%282%29.png)
-
 ## **How to Stake**
 
 ![](../../.gitbook/assets/staking.png)

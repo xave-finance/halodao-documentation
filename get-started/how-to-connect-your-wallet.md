@@ -1,7 +1,5 @@
 # How to Connect Your Wallet
 
-![](../.gitbook/assets/artboard-1-copy-7_1-2x.png)
-
 Setting up a wallet is needed to be able to use HaloDAO's products. Below is a list of supported wallets, click the link and follow the instructions to set up a wallet and create your own account.
 
 * [Metamask](https://metamask.io/)

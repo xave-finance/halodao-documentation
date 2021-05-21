@@ -1,7 +1,5 @@
 # How to Claim \(Harvest\)
 
-![](../../../.gitbook/assets/artboard-1-copy-7-2x.png)
-
 ![](../../../.gitbook/assets/cleanshot-2021-05-21-at-18.07.59.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).

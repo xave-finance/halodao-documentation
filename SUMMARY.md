@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🚀 Introduction to HaloDAO](README.md)
+* [🔭 Protocol Overview](protocol-overview.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
 * [✅ Get Started](get-started/README.md)
@@ -17,14 +18,10 @@
 ## Products
 
 * [🔁 AMM/EXCHANGE \(Farm\)](products/automated-market-maker/README.md)
-  * [Stablecoin Marketplace](products/automated-market-maker/stablecoin-marketplace.md)
+  * [Supported Pairs](products/automated-market-maker/stablecoin-marketplace.md)
+* [🏦 Lending Market](products/lending-market.md)
 * [🌈 Rainbow Pool](products/dessert-pool/README.md)
   * [How Vesting Works](products/dessert-pool/how-vesting-works.md)
-* [🏦 Lending Market](products/lending-market.md)
-
----
-
-* [🔭 Protocol Overview](protocol-overview.md)
 
 ## Governance <a id="governance-1"></a>
 

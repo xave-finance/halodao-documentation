@@ -2,7 +2,7 @@
 description: We begin with USD to Asian stables
 ---
 
-# Stablecoin Marketplace
+# Supported Pairs
 
 ![](../../.gitbook/assets/halodao_illustration_exchange-2.png)
 

@@ -1,10 +1,6 @@
 # How to Supply Liquidity
 
-![](../.gitbook/assets/artboard-1-copy-3-2x%20%283%29.png)
-
 ## How to get Balancer Pool Tokens \(BPT\)
-
-![](../.gitbook/assets/vesting-analogy.png)
 
 HaloDAO incentivizes liquidity provision. In v0, Balancer Liquidity Pools were used to bootstrap liquidity. Here are the steps to acquire some BPT, which can be used earn HALO:
 

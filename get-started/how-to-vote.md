@@ -1,7 +1,5 @@
 # How to Vote
 
-![](../.gitbook/assets/artboard-1-copy-12-2x.png)
-
 ![](../.gitbook/assets/cleanshot-2021-05-18-at-15.09.09.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).
