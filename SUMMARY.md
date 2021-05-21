@@ -29,7 +29,7 @@
 ## Governance <a id="governance-1"></a>
 
 * [⚡️ Governance Model](governance-1/overview.md)
-* [🗳 Optimistic Voting](governance-1/governance.md)
+* [🗳 Optimistic Voting](governance-1/optimistic-voting.md)
 * [🥂 Proposal Types](governance-1/proposal-types.md)
 * [🎖Voting Rewards](governance-1/voting-rewards.md)
 
