@@ -63,7 +63,7 @@ The more and the longer you stake, the more HALO tokens you can earn.
 
 When you provide liquidity to any of HaloDAO’s products, you will automatically earn HALO proportionate to your liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
 
-## **What is the difference between HALO and RNBW \(Rainbow Drop\) tokens?**
+## **What is the difference between HALO and RNBW tokens?**
 
 HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
 
