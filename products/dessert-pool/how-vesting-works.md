@@ -2,13 +2,13 @@
 
 ![](../../.gitbook/assets/artboard-1-copy-8-2x.png)
 
-1. When you stake your LP tokens from the [Farm page](https://app.halodao.com), you will be rewarded with HALO tokens proportionate to your LP tokens. 
-2. Your HALO tokens are automatically deposited into the Rainbow contract.
-3. Your wallet will be credited with Rainbow Drop tokens \(RNBW\) as you earn HALO rewards.
+1. When a user stakes their LP tokens from the [Farm page](https://app.halodao.com), they will be rewarded with HALO tokens proportionate to their LP tokens. 
+2. Their HALO tokens are automatically deposited into the Rainbow contract.
+3. Their wallet will be credited with Rainbow Drop tokens \(RNBW\) as they earn HALO rewards.
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-The following is a walkthrough on how holding RNBW gives you more HALO over time:
+The following is a walkthrough on how holding RNBW gives them more HALO over time:
 
 Let’s make the following assumptions using the classic Alice and Bob example:
 
@@ -32,7 +32,7 @@ Let’s make the following assumptions using the classic Alice and Bob example:
 | Alice earns 1 HALO | 3 | 1 HALO auto deposited to Rainbow contract |  |  |
 | Alice receives 1 RNBW | 3 | Rainbow contract mints 1 RNBW and locks 1 HALO | 1 RNBW = 1 HALO | 1 RNBW, 1 HALO |
 
-As you can see, over time as HALO vesting rewards are deposited into the Rainbow vesting contract the price of RNBW in terms of HALO will increase. Of course, 1 epoch will not just be 1 day but 1 month in actual operations, and Alice and Bob in this example won’t necessarily claim all HALO and burn total RNBW supply \(thus resetting RNBW:HALO price\) at the same time,  but this serves as a simple simulation of the vesting mechanism. If you think this sounds familiar, that is because we forked the Rainbow contract from Sushi’s SushiBar but made some slight changes, namely;
+Over time as HALO vesting rewards are deposited into the Rainbow vesting contract the price of RNBW in terms of HALO will increase. Of course, 1 epoch will not just be 1 day but 1 month in actual operations, and Alice and Bob in this example won’t necessarily claim all HALO and burn total RNBW supply \(thus resetting RNBW:HALO price\) at the same time,  but this serves as a simple simulation of the vesting mechanism. If you think this sounds familiar, that is because we forked the Rainbow contract from Sushi’s SushiBar but made some slight changes, namely;
 
 1. Instead of a ⅔ vesting schedule, the liquidity provider will automatically earn HALO rewards from the Rainbow contract and give the liquidity provider RNBW. We figured this approach would save the user gas, automatically vest the user to earn more HALO \(as long as you stick around for at least a month interval\) but still allow the flexibility of real-time withdrawal at any time.
 2. In addition to depositing network profits \(exact amount and time interval to be determined after HaloDAO profit drivers are enabled at AMM and Lending Market launch\), 20% of monthly HALO liquidity rewards over 5 years will be sent to the Rainbow vesting contract every month. This increases RNBW APY and further incentivises long-term holding.
