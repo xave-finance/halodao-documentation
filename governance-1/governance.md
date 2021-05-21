@@ -14,5 +14,3 @@ Optimistic Voting will be available on v1 launch.
 Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule.
 {% endhint %}
 
-
-
