@@ -9,7 +9,7 @@ The proposal and voting process begins with informal and high-level proposals on
 Formal proposals and subsequent voting can be kicked off by any HALO token holder who can create a new proposal on [Snapshot](https://snapshot.page/#/) consisting of:
 
 1. The description of the proposal \(potentially with a link to the Github PR or Issue\) 
-2. The proposal data itself: an array of multisend transaction payloads executable by the Gnosis Safe module.
+2. The proposal data itself: an array of multi-send transaction payloads executable by the Gnosis Safe module.
 
 Each proposal on Snapshot is linked to a Reality.eth question asking if:
 
