@@ -72,7 +72,7 @@ Users get HALO tokens when they provide liquidity. Go to [Farm](https://app.halo
 
 ## **How do I get Rainbow Drops \(RNBW\)**?
 
-There are two ways of getting RNBW.
+There are two ways of getting RNBW:
 
 1. Users get RNBW when they start earning HALO upon providing liquidity from the [Farm](https://app.halodao.com/#/farm) page. 
 2. Users can manually vest their HALO tokens from the [Rainbow Pool](https://app.halodao.com/#/vesting) page. Refer to [How to Vest](get-started/how-to-earn/how-to-vest-dessert-pool/) user guide.
