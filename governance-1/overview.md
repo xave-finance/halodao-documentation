@@ -33,6 +33,12 @@ Each proposal on Snapshot is linked to a Reality.eth question asking if:
 
 If the proposal passes on Snapshot, then Reality.eth should resolve to the same outcome, and after a 24 hour cooldown period, the proposal’s transactions are executable by anyone. Reality will use the HALO ERC20 governance token for the bond. The minimum bond can be set by way of a proposal to the DAO.
 
+{% hint style="info" %}
+Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule for version releases.
+{% endhint %}
+
+
+
 
 
 
