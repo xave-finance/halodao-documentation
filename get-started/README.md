@@ -6,8 +6,6 @@
 
 {% page-ref page="how-to-earn/" %}
 
-{% page-ref page="how-to-trade-swaps.md" %}
-
 {% page-ref page="how-to-vote.md" %}
 
 {% page-ref page="how-to-submit-a-proposal.md" %}

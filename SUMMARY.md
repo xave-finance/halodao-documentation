@@ -11,7 +11,6 @@
     * [How to Farm \(Staking & Unstaking\)](get-started/how-to-earn/how-to-farm.md)
     * [How to Vest \(RAINBOW POOL\)](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
       * [How to Claim \(Harvest\)](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md)
-  * [How to Trade \(Swaps\)](get-started/how-to-trade-swaps.md)
   * [How to Vote](get-started/how-to-vote.md)
   * [How to Submit a Proposal](get-started/how-to-submit-a-proposal.md)
 
