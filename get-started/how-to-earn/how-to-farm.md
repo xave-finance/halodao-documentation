@@ -4,7 +4,7 @@
 
 ## **How to Stake**
 
-![](../../.gitbook/assets/artboard-5-2x.png)
+![](../../.gitbook/assets/staking.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-21-at-14.24.44.gif)
 
@@ -22,6 +22,8 @@
 12. The longer you hold RNBW, the more HALO you receive over time. Read the next section, [How Vesting Works](../../products/dessert-pool/how-vesting-works.md), to understand how this is calculated.
 
 ## **How to Unstake**
+
+![](../../.gitbook/assets/unstaking.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-20-at-10.49.56-2x.png)
 

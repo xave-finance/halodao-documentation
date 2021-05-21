@@ -1,6 +1,6 @@
 # How to Vest \(RAINBOW POOL\)
 
-![](../../../.gitbook/assets/artboard-1-copy-13-2x.png)
+![](../../../.gitbook/assets/artboard-1-copy-13-2x%20%281%29.png)
 
 ### How to manually vest your HALO tokens
 
