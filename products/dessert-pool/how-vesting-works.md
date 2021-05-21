@@ -19,7 +19,7 @@ Let’s make the following assumptions using the classic Alice and Bob example:
 5. Alice is the first liquidity provider of the protocol during epoch 1
 6. In epoch 2, Bob then provides liquidity after Alice and also earns 1 HALO in epoch 2
 
-| Event | Epoch | Action | DSRT:HALO price | DSRT:HALO total supply |
+| Event | Epoch | Action | RNBW:HALO price | RNBW:HALO total supply |
 | :--- | :--- | :--- | :--- | :--- |
 | Alice earns 1 HALO | 1 | 1 HALO auto deposited to Rainbow contract |  |  |
 | Alice receives 1 RNBW | 1 | Rainbow contract mints 1 RNBW and locks 1 HALO | 1 RNBW = 1 HALO | 1 RNBW, 1 HALO |
