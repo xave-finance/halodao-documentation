@@ -1,6 +1,6 @@
 # How to Earn
 
-HaloDAO v0's yield-bearing instrument is the [Rainbow pool](how-to-vest-dessert-pool/). Here's how you can earn in three simple steps.   
+HaloDAO V0's yield-bearing instrument is the [Rainbow pool](how-to-vest-dessert-pool/). Here's how you can earn in three simple steps.   
 
 {% hint style="info" %}
 **Stake → Vest → Earn!**

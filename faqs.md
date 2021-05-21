@@ -23,9 +23,9 @@ With a greater supply of local asset backed stablecoins, users will be able to a
     <tr>
       <td style="text-align:left"><a href="get-started/how-to-supply-liquidity.md">Supply Liquidity</a>
       </td>
-      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between local
+      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between Asian
         asset-backed stablecoins and important pairings between those stablecoins
-        and popular currencies, such as ETH, WBTC, USDC, USDT, DAI, etc.</td>
+        and popular currencies, such as ETH, WBTC, USDC, USDT, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Trade</td>
@@ -65,7 +65,7 @@ When you provide liquidity to any of HaloDAO’s products, you will automaticall
 
 ## **What is the difference between HALO and RNBW tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying  HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
+HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
 
 ## Can I claim my HALO Rewards anytime?
 

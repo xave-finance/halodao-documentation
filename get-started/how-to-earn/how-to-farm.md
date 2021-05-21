@@ -10,7 +10,7 @@
 
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
-3. Select a liquidity pool where you wish to add liquidity to, click “Manage”.
+3. Select a liquidity pool where you wish to add liquidity to, click “Maniage”.
 4. Follow the link to get more BPT tokens if you don’t have any.
 5. Enter the amount of BPT you want to stake. 
 6. Click “Stake” button.
