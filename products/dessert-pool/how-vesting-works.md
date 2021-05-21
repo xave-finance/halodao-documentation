@@ -1,7 +1,5 @@
 # How Vesting Works
 
-![](../../.gitbook/assets/artboard-1-copy-8-2x.png)
-
 1. When a user stakes their LP tokens from the [Farm page](https://app.halodao.com), they will be rewarded with HALO tokens proportionate to their LP tokens. 
 2. Their HALO tokens are automatically deposited into the Rainbow contract.
 3. Their wallet will be credited with Rainbow Drop tokens \(RNBW\) as they earn HALO rewards.
