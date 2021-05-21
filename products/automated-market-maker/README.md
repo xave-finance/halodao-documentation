@@ -7,9 +7,9 @@ HaloDAO will incentivise liquidity provision and trading between Asian asset-bac
 #### ✅Here are some tips to maximize liquidity for the following pairs:
 
 {% tabs %}
-{% tab title="DSRT:HALO" %}
-* Arbitrage opportunity between claiming from the Dessert Pool and exchange.
-* Increases incentive to hold DSRT.
+{% tab title="RNBW:HALO" %}
+* Arbitrage opportunity between claiming from the Rainbow Pool and exchange.
+* Increases incentive to hold RNBW.
 {% endtab %}
 
 {% tab title="USDT:xSGD" %}
