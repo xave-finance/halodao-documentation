@@ -10,7 +10,7 @@ HaloDAO aims to create the decentralised finance infrastructure on which innovat
 
 With a greater supply of local asset backed stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region. 
 
-## What can I do on HaloDAO?
+## What can users do on HaloDAO?
 
 <table>
   <thead>
@@ -23,21 +23,24 @@ With a greater supply of local asset backed stablecoins, users will be able to a
     <tr>
       <td style="text-align:left"><a href="get-started/how-to-supply-liquidity.md">Supply Liquidity</a>
       </td>
-      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between Asian
+      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between local
         asset-backed stablecoins and important pairings between those stablecoins
         and popular currencies, such as ETH, WBTC, USDC, USDT, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Trade</td>
-      <td style="text-align:left">Get HALO rewards when your trade/swap your asset-backed stablecoins in
-        our exchange.</td>
+      <td style="text-align:left">
+        <p>Coming Soon!</p>
+        <p>Get HALO rewards when users trade/swap their asset-backed stablecoins
+          in our exchange.</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">Lend/Borrow</td>
       <td style="text-align:left">
         <p>Coming Soon!</p>
-        <p>End-users will be able to get a regional currency-denominated interest
-          rate on their holdings - essentially &#x201C;local currency farming&#x201D;.</p>
+        <p>Users will be able to get a regional currency-denominated interest rate
+          on their holdings - essentially &#x201C;local currency farming&#x201D;.</p>
       </td>
     </tr>
     <tr>
