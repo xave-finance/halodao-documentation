@@ -4,7 +4,7 @@
 2. Their HALO tokens are automatically deposited into the Rainbow contract.
 3. Their wallet will be credited with Rainbow Drop tokens \(RNBW\) as they earn HALO rewards.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/minting.png)
 
 The following is a walkthrough on how holding RNBW gives them more HALO over time:
 

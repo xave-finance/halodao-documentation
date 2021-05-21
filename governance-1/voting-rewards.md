@@ -1,4 +1,4 @@
-# 🎖Voting Rewards
+# 🎖 Voting Rewards
 
 The foundation will release a voting portal that will allow any HALO token holder to stake and vote on proposals initiated by other HALO token holders. 
 
