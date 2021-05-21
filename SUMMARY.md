@@ -13,7 +13,6 @@
   * [How to Trade \(Swaps\)](get-started/how-to-trade-swaps.md)
   * [How to Vote](get-started/how-to-vote.md)
   * [How to Submit a Proposal](get-started/how-to-submit-a-proposal.md)
-* [📝 Litepaper](https://uploads-ssl.webflow.com/6066670ec8811f5ce89bf637/6082713e0587cff1ab831a41_Lite%20Paper.pdf)
 
 ## Products
 
