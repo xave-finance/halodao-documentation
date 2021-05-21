@@ -1,6 +1,6 @@
 # 🔁 AMM/EXCHANGE \(Farm\)
 
-HaloDAO will incentivise liquidity provision and trading between Asian asset-backed stablecoins, synthetic stablecoins, and important pairings between those stablecoins and popular currencies, such as ETH, WBTC, USDC, USDT, DAI, etc. 
+HaloDAO will incentivise liquidity provision and trading between Asian asset-backed stablecoins, synthetic stablecoins, and important pairings between those stablecoins and popular currencies, such as ETH, WBTC, USDC, USDT, etc. 
 
 ![](../../.gitbook/assets/artboard-1-2x.png)
 
