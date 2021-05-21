@@ -2,7 +2,7 @@
 description: Find out more about Heyhey
 ---
 
-# 🐇Our Mascot
+# 🐇 Our Mascot
 
 ![Get To Know HeyHey](.gitbook/assets/photo_2021-05-20-13.20.00.jpeg)
 

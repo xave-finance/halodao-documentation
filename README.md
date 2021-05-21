@@ -2,7 +2,7 @@
 description: Get to know our thesis and mission here
 ---
 
-# 🚀Introduction to HaloDAO
+# 🚀 Introduction to HaloDAO
 
 ![](.gitbook/assets/whatsapp-image-2021-05-11-at-9.23.09-pm.jpeg)
 

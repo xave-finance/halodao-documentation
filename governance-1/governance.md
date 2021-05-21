@@ -1,59 +1,17 @@
-# 🗳 Voting and Proposals
+---
+description: Coming Soon! Optimistic Voting will be available on v1 launch.
+---
 
-#### **Informal Discussion**
+# 🗳 Optimistic Voting
 
-The proposal and voting process begins with informal and high-level proposals on Discord and other channels the community chooses. That would be followed by intermediate proposals with some level of detail on Discourse, which could also be linked to proposed changes outlined in a Pull Request or Issue to the HaloDAO Github.
+![Optimistic Voting Flow](https://lh6.googleusercontent.com/uIOQpN7eqAOZOht6qwfDLhs63x9fnBAWNynyHNOFD2Xbycq1rcAMEwtj6UhxOtNCr_WxQ0KYjir3_aBEx1heRZVPsX19cdyEzf1L8IVP_dJG_Q0T0vGymYYCzZ_myhpNgJfsEWfr)
 
-#### **Formal Proposal and Voting**
-
-Formal proposals and subsequent voting can be kicked off by any HALO token holder who can create a new proposal on [Snapshot](https://snapshot.page/#/) consisting of:
-
-1. The description of the proposal \(potentially with a link to the Github PR or Issue\) 
-2. The proposal data itself: an array of multi-send transaction payloads executable by the Gnosis Safe module.
-
-Each proposal on Snapshot is linked to a Reality.eth question asking if:
-
-1. The linked Snapshot proposal passed.
-2. Did the proposal include the payload, and 
-3. Does the payload do what the proposal describes.
-
-If the proposal passes on Snapshot, then Reality.eth should resolve to the same outcome, and after a 24 hour cooldown period, the proposal’s transactions are executable by anyone. Reality will use the HALO ERC20 governance token for the bond. The minimum bond can be set by way of a proposal to the DAO.
-
-#### **Proposal Types**
-
-One thing to note is that various governance proposal types can be categorized into either **self-executing** or needing **manual execution**. Self**-**executing proposals are those detailed below that can simply go through the governance process described above and are generally programmable parameters in HaloDAO’s smart contracts. Manual execution, however, would require action from human actors and would not be part of the governance process described above. There would be no “standard way” to handle manually executed proposal types, as it would be something outside the scope of programmable parameters in the smart contracts.
-
-Examples of self-executing proposal types are the following:
-
-| **Self Executing Proposals** | **Sample value** | **Comment** |
-| :--- | :--- | :--- |
-| AMM LP swap fee | 0.003 | Equal to 0.3% of the swapped transaction amount |
-| AMM LP swap fee | 0.0005 | Equal to 0.05% of the swapped transaction amount |
-| Voting cooldown period | 24 hrs |  |
-| Voter reward per epoch | 0.2 | Equal to 20% of network profits per epoch |
-
-#### Voting Rewards
-
-The foundation will release a voting portal that will allow any HALO token holder to stake and vote on proposals initiated by other HALO token holders. 
-
-$$
-{\text{Stablecoin_Reward}}_\text{epoch}=\frac{\text{Halo}_\text{staked}}{{\text{TotalHalo}}_\text{staked}}\ast{\text{TotalIncome}}_\text{epoch}
-$$
-
-Where**:**
-
-1. A single epoch is set at 1 month
-2. $$\text{Halo}_\text{staked}$$ is the voter’s total HALO balance staked to vote for a specific proposal.
-3. $$\text{TotalHalo}_\text{staked}$$is the sum of all voter’s total HALO balance staked to vote for a specific proposal.
-
-Total Income epoch is the current percentage of HALO token holder dividends out of network profits.
+The above diagram is partially taken from [Gnosis SafeSnap](https://blog.gnosis.pm/introducing-safesnap-the-first-in-a-decentralized-governance-tool-suite-for-the-gnosis-safe-ea67eb95c34f), which HaloDAO \(among other well -established protocols\) will leverage to enable off-chain voting and on-chain execution of proposals. While development is ongoing, the Safe Owners highlighted in the diagram will be a multisig as safeguard operated by HaloDAO and will hold veto power to proposals. This multisig, however, will be removed once the protocol reaches maturity in roughly a year after launch when most of the protocol components have been built out and battle-tested.   
+****
 
 {% hint style="info" %}
-Check the [governance roadmap](../roadmap/governance-roadmap.md) for plans and updates.
-{% endhint %}
-
-{% hint style="info" %}
-To see a more thorough explanation of how governance will work, see the [Litepaper](https://www.halodao.com/litepaper). 
+Optimistic Voting will be available on v1 launch.  
+Check the [governance roadmap](../roadmap/governance-roadmap.md) for the approx schedule.
 {% endhint %}
 
 

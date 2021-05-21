@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🚀Introduction to HaloDAO](README.md)
-* [🐇Our Mascot](our-mascot.md)
+* [🚀 Introduction to HaloDAO](README.md)
+* [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
 * [✅ Get Started](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
@@ -28,8 +28,10 @@
 
 ## Governance <a id="governance-1"></a>
 
-* [🚀 Governance Model](governance-1/overview.md)
-* [🗳 Voting and Proposals](governance-1/governance.md)
+* [⚡️ Governance Model](governance-1/overview.md)
+* [🗳 Optimistic Voting](governance-1/governance.md)
+* [🥂 Proposal Types](governance-1/proposal-types.md)
+* [🎖Voting Rewards](governance-1/voting-rewards.md)
 
 ## Sweet Recipe <a id="roadmap"></a>
 
