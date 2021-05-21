@@ -3,10 +3,10 @@
 ![](../../.gitbook/assets/artboard-1-copy-8-2x.png)
 
 1. When you stake your LP tokens from the [Farm page](https://app.halodao.com), you will be rewarded with HALO tokens proportionate to your LP tokens. 
-2. Your HALO tokens are automatically staked into the Rainbow contract.
+2. Your HALO tokens are automatically deposited into the Rainbow contract.
 3. Your wallet will be credited with Rainbow Drop tokens \(RNBW\) as you earn HALO rewards.
 
-**\[@jofo diagram here\]**
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 The following is a walkthrough on how holding RNBW gives you more HALO over time:
 
