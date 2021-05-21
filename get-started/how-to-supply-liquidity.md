@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/artboard-1-2x.png)
 
-HaloDAO incentivizes liquidity provision. In v0, we are using Balancer Liquidity Pools to bootstrap liquidity. Here are the steps to acquire some BPT, then use them to earn HALO:
+HaloDAO incentivizes liquidity provision. In v0, Balancer Liquidity Pools were used to bootstrap liquidity. Here are the steps to acquire some BPT, which can be used earn HALO:
 
 1. Go to Farm
 2. Select a pool where you wish to add liquidity to, click “Manage”.

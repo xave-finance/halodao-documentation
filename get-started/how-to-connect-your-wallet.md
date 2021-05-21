@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/artboard-1-copy-7_1-2x.png)
 
-The first thing you need for you to be able to use HaloDAO is to set up a wallet. Below is a list of supported wallets, click the link and follow the instructions to set up a wallet and create your account.
+Setting up a wallet is needed to be able to use HaloDAO's products. Below is a list of supported wallets, click the link and follow the instructions to set up a wallet and create your own account.
 
 * [Metamask](https://metamask.io/)
 
@@ -10,7 +10,7 @@ The first thing you need for you to be able to use HaloDAO is to set up a wallet
 **Please remember to backup your seed phrase and your private key.**
 {% endhint %}
 
-After setting up your wallet, you can now connect your wallet with HaloDAO.
+Connect Metamask \(or any supported wallet\) with HaloDAO.
 
 ![](../.gitbook/assets/cleanshot-2021-05-12-at-01.28.45.gif)
 
