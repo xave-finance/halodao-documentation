@@ -6,7 +6,7 @@ We are committed to and focused on Asia, as we believe that employing a localize
 
 ## How is HaloDAO different from other DeFi protocols?
 
-HaloDAO aims to create a "Common Asian Market" built on asset-backed stablecoins in order to enable consumer facing use cases of Shopping, Sending \(money\), and Saving \(via high yield\) for Asia's emerging economies. 
+HaloDAO aims to create the decentralised payments infrastructure on which innovation can be built upon. To enable Sending \(money\), Saving \(via high yield\) for local economies. 
 
 With a greater supply of local stablecoins, users will be able to access the permissionless Decentralised Finance \(DeFi\) economy, thereby lowering the barrier to individual financial participation in a region. 
 

@@ -6,7 +6,7 @@ HaloDAO v0's yield-bearing instrument is the [Rainbow pool](how-to-vest-dessert-
 **Stake → Vest → Earn!**
 {% endhint %}
 
-1. \*\*\*\*[**Stake**](how-to-farm.md) your BPT tokens get RNBW. 
-2. \*\*\*\*[**Vest**](how-to-vest-dessert-pool/) your HALO tokens get more RNBW.
+1. \*\*\*\*[**Stake**](how-to-farm.md) your BPT tokens to get RNBW. 
+2. \*\*\*\*[**Vest**](how-to-vest-dessert-pool/) your HALO tokens and get more RNBW.
 3. Harvest your [**Earned**](how-to-vest-dessert-pool/how-to-claim-harvest.md) HALO tokens anytime using RNBW.  
 
