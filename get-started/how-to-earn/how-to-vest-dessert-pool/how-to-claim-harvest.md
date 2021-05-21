@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/artboard-1-copy-7-2x.png)
 
-![](../../../.gitbook/assets/cleanshot-2021-05-12-at-01.15.09.gif)
+![](../../../.gitbook/assets/cleanshot-2021-05-21-at-18.07.59.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the “Vest” tab.
