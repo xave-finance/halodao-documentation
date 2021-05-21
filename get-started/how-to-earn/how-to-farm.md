@@ -25,7 +25,7 @@
 
 ![](../../.gitbook/assets/cleanshot-2021-05-20-at-10.49.56-2x.png)
 
-![](../../.gitbook/assets/cleanshot-2021-05-06-at-23.39.33.gif)
+![](../../.gitbook/assets/cleanshot-2021-05-21-at-15.26.25.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com)
 2. Go to the Farm tab if not automatically redirected
@@ -34,6 +34,4 @@
 5. Click “Unstake” button.
 6. Your LP tokens will be unstaked from the HALO Rewards smart contract and withdrawn to your wallet. 
 7. You will stop getting HALO rewards proportionate to the LP tokens you've unstaked. 
-
-\(content will be updated once the AMM is available\)
 
