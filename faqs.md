@@ -68,11 +68,11 @@ When users provide liquidity to any of HaloDAO’s products, they will automatic
 
 ## **What is the difference between HALO and RNBW tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens that you have earned when you farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
+HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens that users have earned when they farm/stake your LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
 
 ## Can I claim my HALO Rewards anytime?
 
-Yes! While your HALO rewards are vested into the Rainbow contract, it is not locked and you can claim it anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
+Yes! While the users' HALO rewards are vested into the Rainbow contract, it is not locked and they can claim it anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
 
 
 
