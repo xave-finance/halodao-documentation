@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/artboard-5-2x.png)
 
-![](../../.gitbook/assets/cleanshot-2021-05-06-at-23.30.19.gif)
+![](../../.gitbook/assets/cleanshot-2021-05-21-at-14.24.44.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
@@ -23,7 +23,7 @@
 
 ## **How to Unstake**
 
-\*\*\*\*
+![](../../.gitbook/assets/cleanshot-2021-05-20-at-10.49.56-2x.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-06-at-23.39.33.gif)
 
