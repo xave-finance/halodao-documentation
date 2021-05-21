@@ -15,7 +15,7 @@
 5. Enter the amount of BPT you want to stake. 
 6. Click “Stake” button.
 7. Your LP tokens will be staked into the HALO Rewards smart contract. 
-8. You will get a proportionate amount of HALO Rewards from your staked BPT tokens relative to the total liquidity provided \(see Litepaper\).
+8. You will get a proportionate amount of HALO Rewards from your staked BPT tokens relative to the total liquidity provided.
 9. You will earn HALO rewards tokens proportionate to your BPT staked out of the total BPT staked in the Rewards contract. 
 10. The HALO rewards that you earn from staking will be automatically vested into the Rainbow smart contract.
 11. You will receive Rainbow Drops \(RNBW\). 
