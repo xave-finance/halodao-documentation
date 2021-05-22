@@ -1,4 +1,4 @@
-# ⚡️ Governance Model
+# ⚡️ Voting and Proposals
 
 HaloDAO's voting portal will allow any HALO token holder to stake and vote on proposals initiated by other HALO token holders. Your voting rights are directly proportional to the number of HALO tokens you own.
 
