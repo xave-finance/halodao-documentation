@@ -77,7 +77,7 @@ HALO is the governance token of the HaloDAO protocol, while RNBW functions as a 
 
 ## Can I claim my HALO Rewards anytime?
 
-Yes! While HALO rewards are auto vested into the Rainbow contract, it is not locked and they can claim it anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
+Yes! While HALO rewards are auto vested into the Rainbow contract, it is not locked and it can be claimed anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
 
 
 

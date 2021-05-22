@@ -8,7 +8,7 @@ HaloDAO will incentivise liquidity provision and trading between
 
 ![](../../.gitbook/assets/halo-analogy.png)
 
-#### ✅Here are some tips to maximize liquidity for the following pairs:
+
 
 
 
