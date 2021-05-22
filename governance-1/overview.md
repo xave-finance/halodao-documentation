@@ -18,7 +18,7 @@ The proposal and voting process begins with informal and high-level proposals on
 
 #### **Formal Proposal and Voting**
 
-![Formal Proposal and Voting Flow](https://lh4.googleusercontent.com/M9GAsB0Md5kxdH0b-VgSyKt5iIYT9RMLug-_WcLOe_nB6vNCyS1JvenxzQIK167EUorx_zZMcrMeotpwPEwqPZGh-D5izAZdnGhO66fgpj8kiaQLeCUYajbwzjBHdf8Avivc99hQ)
+![](../.gitbook/assets/governance-1.png)
 
 {% hint style="info" %}
 Refer to the [governance roadmap](../roadmap/governance-roadmap.md) for the approx. schedule of version releases.
