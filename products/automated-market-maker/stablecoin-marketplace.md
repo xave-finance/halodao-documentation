@@ -6,17 +6,15 @@ description: We begin with USD to Asian stables
 
 ![](../../.gitbook/assets/halodao_illustration_exchange-2.png)
 
-In v0, these are the whitelisted Balancer liquidity pools with stablecoin pairs. These pools are integrated into the HALO Rewards contract to incentivize liquidity provisions. 
+In v0, the following stablecoin pairs will earn HALO rewards:
 
-Below is the list of stablecoin pools.
-
-| **Pair** | **URL** |
-| :--- | :--- |
-| HALO:ETH |  |
-| RNBW:HALO |  |
-| USDC:XSGD |  |
-| USDC:THKD |  |
-| USDT:XSGD |  |
-| USDT:THKD |  |
-| THKD:XSGD |  |
+| **Pair** |
+| :--- |
+| HALO:ETH |
+| RNBW:ETH |
+| USDC:XSGD |
+| USDC:THKD |
+| USDT:XSGD |
+| USDT:THKD |
+| THKD:XSGD |
 

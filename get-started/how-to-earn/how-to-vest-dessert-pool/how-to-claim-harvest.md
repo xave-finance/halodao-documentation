@@ -2,9 +2,8 @@
 
 ![](../../../.gitbook/assets/cleanshot-2021-05-21-at-18.07.59.gif)
 
-1. Go to [app.halodao.com](https://app.halodao.com).
+1. Go to [https://app.halodao.com/](https://app.halodao.com/)
 2. Go to the “Vest” tab.
 3. Click “Claim HALO.”
 4. If you have RNBW balance, you will automatically receive the proportionate amount of HALO it is worth at the time of claiming.
-5. \(Optional\) Watch RNBW go up in HALO value.
 

@@ -1,8 +1,10 @@
 # ✅ Get Started
 
+
+
 {% page-ref page="how-to-connect-your-wallet.md" %}
 
-{% page-ref page="how-to-supply-liquidity.md" %}
+{% page-ref page="how-to-earn/how-to-supply-liquidity.md" %}
 
 {% page-ref page="how-to-earn/" %}
 

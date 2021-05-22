@@ -1,14 +1,12 @@
 # How Vesting Works
 
-1. When a user stakes their LP tokens from the [Farm page](https://app.halodao.com), they will be rewarded with HALO tokens proportionate to their LP tokens. 
-2. Their HALO tokens are automatically deposited into the Rainbow contract.
-3. Their wallet will be credited with Rainbow Drop tokens \(RNBW\) as they earn HALO rewards.
+1. When a user stakes their LP tokens on the [Farm page](https://app.halodao.com), they will be rewarded with HALO tokens proportionate to their LP tokens. 
+2. Their HALO tokens are automatically deposited into the Rainbow contract and the user will receive the proportionate amount of RNBW in return.
+3. Over time, RNBW will be worth more and more HALO tokens due to 20% of monthly HALO liquidity rewards being deposited into the Rainbow Pool. 
 
 ![](../../.gitbook/assets/minting.png)
 
-The following is a walkthrough on how holding RNBW gives them more HALO over time:
-
-Let’s make the following assumptions using the classic Alice and Bob example:
+The following is a walkthrough on how holding RNBW yields more HALO over time. Let’s make the following assumptions using the classic Alice and Bob example:
 
 1. 1 epoch is 1 day \(in real life it will be 1 month\)
 2. HALO Vesting Reward is equal to 1 HALO
