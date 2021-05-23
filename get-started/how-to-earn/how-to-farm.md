@@ -14,7 +14,7 @@
 6. Click “Stake” button.
 7. Your LP tokens will be staked into the HALO Rewards smart contract. 
 8. You will get a proportionate amount of RNBW vesting tokens from your staked BPT tokens relative to the total BPT staked for that pool.
-9. The longer you hold RNBW, the more HALO you receive over time. Read the next section, [How Vesting Works](../../products/dessert-pool/how-vesting-works.md), to understand how this is calculated.
+9. The longer you hold RNBW, the more HALO you receive over time. Read the next section, [How Vesting Works](../../products/rainbow-pool/how-vesting-works.md), to understand how this is calculated.
 
 ## **How to Unstake**
 

@@ -19,8 +19,8 @@
 * [🔁 AMM/EXCHANGE \(Farm\)](products/automated-market-maker/README.md)
   * [Supported Pairs](products/automated-market-maker/stablecoin-marketplace.md)
 * [🏦 Lending Market](products/lending-market.md)
-* [🌈 Rainbow Pool](products/dessert-pool/README.md)
-  * [How Vesting Works](products/dessert-pool/how-vesting-works.md)
+* [🌈 Rainbow Pool](products/rainbow-pool/README.md)
+  * [How Vesting Works](products/rainbow-pool/how-vesting-works.md)
 
 ## Governance <a id="governance-1"></a>
 

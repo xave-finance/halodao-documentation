@@ -58,7 +58,7 @@ Liquidity providers \(LPs\) earn HALO tokens that are auto vested in HaloDAO's R
 
 ## What is the Rainbow Pool?
 
-When users provide liquidity to any of HaloDAO’s products, they will automatically earn HALO proportionate to their liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/dessert-pool/how-vesting-works.md).
+When users provide liquidity to any of HaloDAO’s products, they will automatically earn HALO proportionate to their liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/rainbow-pool/how-vesting-works.md).
 
 ## **How do I get HALO tokens**?
 
@@ -73,7 +73,7 @@ There are two ways of getting RNBW:
 
 ## **What is the difference between HALO and RNBW tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens first earned by staking LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/dessert-pool/how-vesting-works.md)**.**
+HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens first earned by staking LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/rainbow-pool/how-vesting-works.md)**.**
 
 ## Can I claim my HALO Rewards anytime?
 
