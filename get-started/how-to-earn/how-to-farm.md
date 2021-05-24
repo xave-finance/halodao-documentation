@@ -9,7 +9,7 @@
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
 3. Select a liquidity pool where you wish to add liquidity to, click “Manage”.
-4. Follow the link to get more BPT tokens, if needed.
+4. Follow the link to get more BPT tokens \(Only needed if BPT balance is 0, otherwise, skip this step\).
 5. Enter the amount of BPT you want to stake. 
 6. Click “Stake” button.
 7. Your LP tokens will be staked into the HALO Rewards smart contract. 
@@ -20,7 +20,7 @@
 
 ![](../../.gitbook/assets/unstaking-2-.png)
 
-![](../../.gitbook/assets/cleanshot-2021-05-21-at-15.26.25.gif)
+![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)farm
 2. Go to the Farm tab if not automatically redirected
