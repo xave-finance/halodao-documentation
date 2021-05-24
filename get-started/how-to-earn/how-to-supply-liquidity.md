@@ -18,7 +18,11 @@ Before you can stake BPT tokens, you need to first acquire them following these 
 10. Click "Unlock SGD" \(Token name may be different for other liquidity pools\).
 11. Approve Metamask transaction.
 12. Click "Add liquidity" 
-13. Once the transaction confirms \(approval + confirmation\) you should receive your BPT tokens. 
+13. Once the transaction confirms \(approval + confirmation\) you should receive your BPT tokens.
+14. Go back to the HaloDAO farm page, make sure your BPT balance for the pool selected has been updated. 
+15. You can now proceed to [farming](how-to-farm.md).
+
+  
 
 \(content will be updated once Balancer pools have been set up\)  
 
