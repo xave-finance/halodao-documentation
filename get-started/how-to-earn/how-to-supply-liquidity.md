@@ -2,15 +2,23 @@
 
 ## How to get Balancer Pool Tokens \(BPT\)
 
+![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.22.54.gif)
+
 Before you can stake BPT tokens, you need to first acquire them following these steps:
 
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool.
 3. Click “To stake, get BPT tokens here” link.
 4. You will be redirected to the corresponding Balancer pool.
-5. Enter the amount of liquidity you'd like to provide.
-6. Click Deposit.
-7. Once the transaction confirms \(approval + confirmation\) you should receive your BPT tokens. 
+5. Click "Add liquidity" button.
+6. Enter the amount of liquidity you'd like to provide.
+7. Scroll a bit down and click the "I agree" button from the warning box.
+8. Click "Unlock WETH" \(Token name may be different for other liquidity pools\).
+9. Approve Metamask transaction.
+10. Click "Unlock SGD" \(Token name may be different for other liquidity pools\).
+11. Approve Metamask transaction.
+12. Click "Add liquidity" 
+13. Once the transaction confirms \(approval + confirmation\) you should receive your BPT tokens. 
 
 \(content will be updated once Balancer pools have been set up\)  
 
