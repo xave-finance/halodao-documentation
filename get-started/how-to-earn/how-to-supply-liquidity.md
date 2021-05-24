@@ -4,7 +4,11 @@
 
 ![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.22.54.gif)
 
-Before you can stake BPT tokens, you need to first acquire them following these steps:
+Before a user can stake on the [farm page](https://app.halodao.com/farm), he needs to acquire BPT tokens first following these steps:
+
+{% hint style="info" %}
+Prerequisite - user should acquire appropriate stablecoins. Refer to the stablecoins section of this documentation.
+{% endhint %}
 
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool.
