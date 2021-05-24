@@ -7,7 +7,7 @@
 Before a user can stake on the [farm page](https://app.halodao.com/farm), he needs to acquire BPT tokens by following these steps:
 
 {% hint style="info" %}
-Prerequisite - user should acquire appropriate stablecoins. Refer to the stablecoins section of this documentation.
+Prerequisite - user should acquire appropriate stablecoin token pair. Refer to the stablecoins section of this documentation.
 {% endhint %}
 
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
