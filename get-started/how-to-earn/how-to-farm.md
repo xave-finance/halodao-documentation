@@ -2,7 +2,7 @@
 
 ## **How to Stake Balancer Pool Tokens \(BPT\)**
 
-![](../../.gitbook/assets/unstaking%20%281%29.png)
+![](../../.gitbook/assets/staking%20%282%29.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
 
@@ -16,9 +16,9 @@
 8. You will get a proportionate amount of RNBW vesting tokens from your staked BPT tokens relative to the total BPT staked for that pool.
 9. The longer you hold RNBW, the more HALO you receive over time. Read the next section, [How Vesting Works](../../products/rainbow-pool/how-vesting-works.md), to understand how this is calculated.
 
-## **How to Unstake**
+## **How to Unstake?**
 
-![](../../.gitbook/assets/unstaking-2-.png)
+![](../../.gitbook/assets/unstaking%20%282%29.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
 
