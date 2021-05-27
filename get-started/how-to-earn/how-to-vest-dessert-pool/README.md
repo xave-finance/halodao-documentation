@@ -2,7 +2,7 @@
 
 ### How to manually vest your HALO tokens
 
-![](../../../.gitbook/assets/cleanshot-2021-05-21-at-18.00.57.gif)
+![](../../../.gitbook/assets/cleanshot-2021-05-27-at-15.19.14.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)
 2. Go to the “Vest” tab. 
