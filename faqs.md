@@ -50,7 +50,7 @@ HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spendin
 
 ## What is HALO?
 
-HALO is the ERC20 governance token, limited to 100,000,000 supply to be distributed over 5 years that enables holders to participate in governance.
+HALO is the ERC20 governance token with an initial supply of 100,000,000. It is mintable as long as the cap is not locked by governance vote. The initial supply will be distributed over 5 years.
 
 ## What are HALO Rewards?
 
