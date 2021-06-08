@@ -42,42 +42,42 @@ HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spendin
     <tr>
       <td style="text-align:left"><a href="get-started/how-to-vote.md">Vote</a>
       </td>
-      <td style="text-align:left">Any HALO token holder will be able to vote on proposals that govern the
+      <td style="text-align:left">Any RNBW token holder will be able to vote on proposals that govern the
         network.</td>
     </tr>
   </tbody>
 </table>
 
-## What is HALO?
+## What is RNBW \(Rainbow Candy\)?
 
-HALO is the ERC20 governance token with an initial supply of 100,000,000. It is mintable as long as the cap is not locked by governance vote. The initial supply will be distributed over 5 years.
+RNBW is the ERC20 governance token with an initial supply of 100,000,000. It is mintable as long as the cap is not locked by governance vote. The initial supply will be distributed over 5 years.
 
-## What are HALO Rewards?
+## What are RNBW Rewards?
 
-Liquidity providers \(LPs\) earn HALO tokens that are auto vested in HaloDAO's Rainbow vesting contract. The longer an LP vests, the more HALO is earned. The best part is that there is no lockup period whatsoever, unlike other protocols. The next section immediately below explains how this unique vesting mechanism works.
+Liquidity providers \(LPs\) earn RNBW tokens that are auto vested in HaloDAO's Rainbow vesting contract. The longer an LP vests, the more RNBW is earned. The best part is that there is no lockup period whatsoever, unlike other protocols. The next section immediately below explains how this unique vesting mechanism works.
 
 ## What is the Rainbow Pool?
 
-When users provide liquidity to any of HaloDAO’s products, they will automatically earn HALO proportionate to their liquidity provided. That HALO will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/rainbow-pool/how-vesting-works.md).
+When users provide liquidity to any of HaloDAO’s products, they will automatically earn RNBW proportionate to their liquidity provided. That RNBW will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/rainbow-pool/how-vesting-works.md).
 
-## **How do I get HALO tokens**?
+## **How do I get RNBW tokens**?
 
-Users get HALO tokens when they provide liquidity. Go to [Farm](https://app.halodao.com/#/farm) page and stake your LP tokens. Refer to the [How to Farm](get-started/how-to-earn/how-to-farm.md) user guide.
+Users get RNBW tokens when they provide liquidity. Go to [Farm](https://app.halodao.com/#/farm) page and stake your LP tokens. Refer to the [How to Farm](get-started/how-to-earn/how-to-farm.md) user guide.
 
-## **How do I get Rainbow Drops \(RNBW\)**?
+## **How do I get xRNBW**?
 
-There are two ways of getting RNBW:
+There are two ways of getting xRNBW:
 
 * by providing liquidity on the [Farm](https://app.halodao.com/#/farm) page \(Coming Soon\) 
-* by manually vesting HALO tokens into the [Rainbow Pool](https://app.halodao.com/#/vesting) page. See the [How to Vest](get-started/how-to-earn/how-to-vest-dessert-pool/).
+* by manually vesting RNBW tokens into the [Rainbow Pool](https://app.halodao.com/#/vesting) page. See the [How to Vest](get-started/how-to-earn/how-to-vest-dessert-pool/).
 
-## **What is the difference between HALO and RNBW tokens?**
+## **What is the difference between RNBW and xRNBW tokens?**
 
-HALO is the governance token of the HaloDAO protocol, while RNBW functions as a vesting token and a claim on underlying HALO rewards tokens first earned by staking LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/rainbow-pool/how-vesting-works.md)**.**
+RNBW is the governance token of the HaloDAO protocol, while xRNBW functions as a vesting token and a claim on underlying RNBW rewards tokens first earned by staking LP tokens. Read more on how that works [here](get-started/how-to-earn/how-to-farm.md) and [here](products/rainbow-pool/how-vesting-works.md)**.**
 
-## Can I claim my HALO Rewards anytime?
+## Can I claim my RNBW Rewards anytime?
 
-Yes! While HALO rewards are auto vested into the Rainbow contract, it is not locked and it can be claimed anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
+Yes! While RNBW rewards are auto vested into the Rainbow contract, it is not locked and it can be claimed anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
 
 
 
