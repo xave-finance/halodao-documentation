@@ -18,7 +18,7 @@
 
 ## **How to Unstake?**
 
-![](../../.gitbook/assets/halodao-unstaking.png)
+![](../../.gitbook/assets/halodao-unstaking%20%281%29.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
 
