@@ -1,6 +1,6 @@
 # How to Vote
 
-![](../.gitbook/assets/cleanshot-2021-05-18-at-15.09.09.gif)
+![](../.gitbook/assets/cleanshot-2021-06-08-at-20.36.39.gif)
 
 1. Go to [https://app.halodao.com/](https://app.halodao.com/)
 2. Go to the “Vote” tab.

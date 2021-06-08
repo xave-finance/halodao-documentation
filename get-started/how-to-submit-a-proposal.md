@@ -1,6 +1,6 @@
 # How to Submit a Proposal
 
-![](../.gitbook/assets/cleanshot-2021-05-18-at-15.14.43.gif)
+![](../.gitbook/assets/cleanshot-2021-06-08-at-20.39.28.gif)
 
 1. Go to [https://app.halodao.com/](https://app.halodao.com/)
 2. Go to the “Vote” tab.
