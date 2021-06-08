@@ -1,6 +1,6 @@
 # How to Vest \(RAINBOW POOL\)
 
-### How to manually vest your HALO tokens
+### How to manually vest your RNBW tokens
 
 ![](../../../.gitbook/assets/cleanshot-2021-05-27-at-15.19.14.gif)
 
@@ -8,11 +8,11 @@
 2. Go to the “Vest” tab. 
 3. Click “Deposit.”
 4. Confirm the Metamask transaction.
-5. You will receive Rainbow Drop \(RNBW\) vesting tokens at the current price of RNBW:HALO.
-6. \(Optional\) Watch RNBW go up in HALO value.
+5. You will receive xRNBW vesting tokens at the current price of xRNBW:RNBW.
+6. \(Optional\) Watch xRNBW go up in RNBW value.
 
 {% hint style="info" %}
-Applicable for those who bought HALO from the market or previously claimed it from Vesting.
+Applicable for those who bought RNBW from the market or previously claimed it from Vesting.
 {% endhint %}
 
 ### 

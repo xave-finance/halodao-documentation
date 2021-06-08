@@ -6,12 +6,12 @@ description: We begin with USD to Asian stables
 
 ![](../../.gitbook/assets/halodao_illustration_exchange-2.png)
 
-In v0, the following stablecoin pairs will earn HALO rewards:
+In v0, the following stablecoin pairs will earn RNBW rewards:
 
 | **Pair** |
 | :--- |
-| HALO:ETH |
 | RNBW:ETH |
+| xRNBW:ETH |
 | USDC:XSGD |
 | USDC:THKD |
 | USDT:XSGD |
