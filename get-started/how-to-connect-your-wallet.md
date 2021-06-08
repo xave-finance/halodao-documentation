@@ -10,7 +10,7 @@ Setting up a wallet is needed to be able to use HaloDAO's products. Below is a l
 
 Connect Metamask \(or any supported wallet\) on the HaloDAO site.
 
-![](../.gitbook/assets/cleanshot-2021-05-12-at-01.28.45.gif)
+![](../.gitbook/assets/cleanshot-2021-06-08-at-20.44.10.gif)
 
 1. Go to [https://app.halodao.com](../)
 2. Click the "Connect to Wallet" button on the upper right.
