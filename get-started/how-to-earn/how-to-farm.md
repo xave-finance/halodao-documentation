@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/halodao-staking.png)
 
-![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
+![](../../.gitbook/assets/cleanshot-2021-06-08-at-16.32.15.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
@@ -20,7 +20,7 @@
 
 ![](../../.gitbook/assets/halodao-unstaking%20%281%29.png)
 
-![](../../.gitbook/assets/cleanshot-2021-05-24-at-14.37.26.gif)
+![](../../.gitbook/assets/cleanshot-2021-06-08-at-16.46.20.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)farm
 2. Go to the Farm tab if not automatically redirected
