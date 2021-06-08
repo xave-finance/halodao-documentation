@@ -7,7 +7,7 @@ BIDR is a Binance Chain \(BEP-2\) stablecoin pegged to the Indonesian Rupiah \(I
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
-BIDR is regulated by Tokocrypto which was registered under the Commodity Futures Trading Regulatory Agency Indonesia \(BAPPEBTI\) in November 2019  
+BIDR is regulated by Tokocrypto which is registered under the Commodity Futures Trading Regulatory Agency Indonesia \(BAPPEBTI\)   
 ****
 
 **Where can I purchase BIDR?**
