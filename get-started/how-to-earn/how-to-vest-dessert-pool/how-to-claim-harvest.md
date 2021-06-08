@@ -1,4 +1,4 @@
-# How to Claim \(Harvest\)
+# How to Claim
 
 ![](../../../.gitbook/assets/cleanshot-2021-06-08-at-17.08.15.gif)
 
