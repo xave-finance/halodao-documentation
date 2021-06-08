@@ -1,4 +1,4 @@
-# How to Claim
+# How to Claim RNBW
 
 ![](../../../.gitbook/assets/cleanshot-2021-06-08-at-17.21.43.gif)
 

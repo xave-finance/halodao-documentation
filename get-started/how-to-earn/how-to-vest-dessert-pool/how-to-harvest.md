@@ -1,4 +1,4 @@
-# How to Harvest
+# How to Harvest xRNBW
 
 ![](../../../.gitbook/assets/cleanshot-2021-06-08-at-17.43.57.gif)
 

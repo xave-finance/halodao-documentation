@@ -10,8 +10,8 @@
     * [How to Supply Liquidity to Balancer](get-started/how-to-earn/how-to-supply-liquidity.md)
     * [How to Farm \(Staking & Unstaking\)](get-started/how-to-earn/how-to-farm.md)
     * [How to Vest \(RAINBOW POOL\)](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
-      * [How to Harvest](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-harvest.md)
-      * [How to Claim](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md)
+      * [How to Harvest xRNBW](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-harvest.md)
+      * [How to Claim RNBW](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md)
   * [How to Vote](get-started/how-to-vote.md)
   * [How to Submit a Proposal](get-started/how-to-submit-a-proposal.md)
 
