@@ -1,6 +1,6 @@
 # How to Claim
 
-![](../../../.gitbook/assets/cleanshot-2021-06-08-at-17.08.15.gif)
+![](../../../.gitbook/assets/cleanshot-2021-06-08-at-17.21.43.gif)
 
 1. Go to [https://app.halodao.com/](https://app.halodao.com/)
 2. Go to the “Vest” tab.
