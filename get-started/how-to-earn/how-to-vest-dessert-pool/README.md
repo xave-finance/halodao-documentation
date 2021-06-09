@@ -2,6 +2,8 @@
 
 ### How to manually vest your RNBW tokens
 
+![](../../../.gitbook/assets/how-to-vest.gif)
+
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)
 2. Go to the “Vest” tab. 
 3. Click “Deposit.”

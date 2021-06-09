@@ -8,6 +8,8 @@ Before a user can stake on the [farm page](https://app.halodao.com/farm), he nee
 Prerequisite - user should acquire appropriate stablecoin token pair. Refer to the stablecoins section of this documentation.
 {% endhint %}
 
+![](../../.gitbook/assets/add-liquidity.gif)
+
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool.
 3. Click “To stake, get BPT tokens here” link.
