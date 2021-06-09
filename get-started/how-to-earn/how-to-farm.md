@@ -4,8 +4,6 @@
 
 ![](../../.gitbook/assets/halodao-staking%20%281%29.png)
 
-![](../../.gitbook/assets/cleanshot-2021-06-08-at-17.38.22.gif)
-
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
 3. Select a liquidity pool where you wish to add liquidity to, click “Manage”.
@@ -21,8 +19,6 @@
 ## **How to Unstake?**
 
 ![](../../.gitbook/assets/halodao-unstaking%20%281%29.png)
-
-![](../../.gitbook/assets/cleanshot-2021-06-08-at-17.41.47.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)farm
 2. Go to the Farm tab if not automatically redirected
