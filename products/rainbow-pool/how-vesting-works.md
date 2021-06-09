@@ -9,7 +9,7 @@
 The following is a walkthrough on how holding xRNBW yields more RNBW over time. Let’s make the following assumptions using the classic Alice and Bob example:
 
 1. 1 epoch is 1 day \(in real life it will be 1 month\)
-2. RNVW Vesting Reward is equal to 1 RNBW
+2. RNBW Vesting Reward is equal to 1 RNBW
 3. RNBW Vesting Reward is paid out per epoch
 4. Alice earns 1 RNBW in 1 epoch for supplying liquidity to HaloDAO
 5. Alice is the first liquidity provider of the protocol during epoch 1
