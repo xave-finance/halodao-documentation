@@ -2,7 +2,7 @@
 
 ## **How to Stake Balancer Pool Tokens \(BPT\)**
 
-![](../../.gitbook/assets/halodao-staking.png)
+![](../../.gitbook/assets/halodao-staking%20%281%29.png)
 
 ![](../../.gitbook/assets/cleanshot-2021-06-08-at-17.38.22.gif)
 
