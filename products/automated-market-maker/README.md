@@ -6,7 +6,7 @@ HaloDAO will incentivise liquidity provision and trading between
 * synthetic stablecoins
 * and important pairings against ETH, WBTC, USDC, USDT and other "must have" cryptocurrencies 
 
-![](../../.gitbook/assets/halodao_analogy.png)
+![](../../.gitbook/assets/halodao_analogy%20%281%29.png)
 
 
 
