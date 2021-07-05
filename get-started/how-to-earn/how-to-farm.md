@@ -4,11 +4,11 @@
 
 ![](../../.gitbook/assets/halodao-staking%20%281%29.png)
 
-![](../../.gitbook/assets/stake.gif)
+![](../../.gitbook/assets/farm-stake.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com).
 2. Go to the Farm tab if not automatically redirected.
-3. Select a liquidity pool where you wish to add liquidity to, click “Manage”.
+3. Select a liquidity pool where you wish to add liquidity to, click “Add”.
 4. Follow the link to get more BPT tokens \(Only needed if BPT balance is 0, otherwise, skip this step\).
 5. Enter the amount of BPT you want to stake. 
 6. Click the “Approve” button \(This step is needed in approving the spending amount from your wallet on behalf of the Rewards contract\).
@@ -22,11 +22,11 @@
 
 ![](../../.gitbook/assets/halodao-unstaking%20%281%29.png)
 
-![](../../.gitbook/assets/cleanshot-2021-06-09-at-12.27.25.gif)
+![](../../.gitbook/assets/farm-unstake.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)farm
 2. Go to the Farm tab if not automatically redirected
-3. Select a liquidity pool where you wish to unstake your BPT tokens, click “Manage”.
+3. Select a liquidity pool where you wish to unstake your BPT tokens, click “Add”.
 4. Enter the amount of BPT you want to unstake. 
 5. Click “Unstake” button.
 6. Your LP tokens will be unstaked from the RNBW Rewards smart contract and withdrawn to your wallet. 
