@@ -7,6 +7,7 @@
 * [✅ Get Started](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
   * [How to Earn](get-started/how-to-earn/README.md)
+    * [How to Supply Liquidity to Uniswap-v2](get-started/how-to-earn/how-to-supply-liquidity-to-uniswap-v2.md)
     * [How to Supply Liquidity to Balancer](get-started/how-to-earn/how-to-supply-liquidity.md)
     * [How to Farm \(Staking & Unstaking\)](get-started/how-to-earn/how-to-farm.md)
     * [How to Vest \(RAINBOW POOL\)](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
@@ -62,4 +63,5 @@
 * [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.gg/hEBEDTXR)
+* [Gitbook](https://github.com/halodao)
 
