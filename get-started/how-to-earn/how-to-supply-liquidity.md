@@ -11,7 +11,7 @@ Prerequisite - user should acquire appropriate stablecoin token pair. Refer to t
 ![](../../.gitbook/assets/add-liquidity.gif)
 
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
-2. Select a pool where you wish to add liquidity to and click “Manage” on that pool.
+2. Select a pool where you wish to add liquidity to and click “Add” on that pool.
 3. Click “To stake, get BPT tokens here” link.
 4. You will be redirected to the corresponding Balancer pool.
 5. Click "Add liquidity" button.
