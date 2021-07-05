@@ -63,5 +63,5 @@
 * [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.gg/hEBEDTXR)
-* [Gitbook](https://github.com/halodao)
+* [Github](https://github.com/halodao)
 
