@@ -23,17 +23,38 @@
 * [🌈 Rainbow Pool](products/rainbow-pool/README.md)
   * [How Vesting Works](products/rainbow-pool/how-vesting-works.md)
 
+## Sweet Recipe <a id="roadmap"></a>
+
+* [🧭 Roadmap Overview](roadmap/overview.md)
+* [🚦Governance Roadmap](roadmap/governance-roadmap.md)
+
 ## Governance <a id="governance-1"></a>
 
 * [⚡️ Voting and Proposals](governance-1/overview.md)
 * [🗳 Optimistic Voting](governance-1/optimistic-voting.md)
 * [🥂 Proposal Types](governance-1/proposal-types.md)
-* [🎖 Voting Rewards](governance-1/voting-rewards.md)
 
-## Sweet Recipe <a id="roadmap"></a>
+## Stablecoins
 
-* [🧭 Roadmap Overview](roadmap/overview.md)
-* [🚦Governance Roadmap](roadmap/governance-roadmap.md)
+* [🇸🇬 XSGD](stablecoins/singapore-stable-coin.md)
+* [🇭🇰 THKD](stablecoins/hong-kong.md)
+* [🇺🇸 USDT](stablecoins/tether.md)
+* [🇺🇸 USDC](stablecoins/us-dollar-coin.md)
+* [🇦🇺TAUD](stablecoins/taud.md)
+* [🇬🇧TGBP](stablecoins/tgbp.md)
+* [🇨🇦TCAD](stablecoins/tcad.md)
+
+## Environments
+
+* [Overview](environments/overview.md)
+* [FAQ](environments/faq-1.md)
+* [Production App](environments/prod-contract-addresses.md)
+* [Beta App](environments/beta-contract-addresses.md)
+
+## Contract Audits
+
+* [Overview](contract-audits/overview.md)
+* [v0 Final Audit](contract-audits/v0-final-audit.md)
 
 ## Socials
 
@@ -41,12 +62,4 @@
 * [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.gg/hEBEDTXR)
-
-## Stablecoins
-
-* [🇸🇬 XSGD](stablecoins/singapore-stable-coin.md)
-* [🇭🇰 THKD](stablecoins/hong-kong.md)
-* [🇮🇩 BIDR](stablecoins/bidr.md)
-* [🇺🇸 USDT](stablecoins/tether.md)
-* [🇺🇸 USDC](stablecoins/us-dollar-coin.md)
 

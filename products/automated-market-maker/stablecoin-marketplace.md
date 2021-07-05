@@ -1,12 +1,8 @@
----
-description: We begin with USD to Asian stables
----
-
 # Supported Pairs
 
 ![](../../.gitbook/assets/halodao_illustration_exchange-2.png)
 
-In v0, the following stablecoin pairs will earn RNBW rewards:
+In v0, the following stablecoin pairs will earn RNBW rewards. This list will expand rapidly upon the deployment of our full protocol in August. 
 
 | **Pair** |
 | :--- |
@@ -14,7 +10,7 @@ In v0, the following stablecoin pairs will earn RNBW rewards:
 | xRNBW:ETH |
 | USDC:XSGD |
 | USDC:THKD |
-| USDT:XSGD |
-| USDT:THKD |
-| THKD:XSGD |
+| USDC:TCAD |
+| USDC:TAUD |
+| USDC:TGBP |
 
