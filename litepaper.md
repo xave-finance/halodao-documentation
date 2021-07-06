@@ -2,5 +2,5 @@
 
 
 
-{% file src=".gitbook/assets/litepaper-detailed-v2.pdf" %}
+{% file src=".gitbook/assets/litepaper-v0.pdf" %}
 
