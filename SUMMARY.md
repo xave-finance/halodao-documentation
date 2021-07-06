@@ -39,9 +39,9 @@
 ## Stablecoins
 
 * [🇸🇬 XSGD](stablecoins/singapore-stable-coin.md)
-* [🇭🇰 THKD](stablecoins/hong-kong.md)
 * [🇺🇸 USDT](stablecoins/tether.md)
 * [🇺🇸 USDC](stablecoins/us-dollar-coin.md)
+* [🇭🇰 THKD](stablecoins/hong-kong.md)
 * [🇦🇺TAUD](stablecoins/taud.md)
 * [🇬🇧TGBP](stablecoins/tgbp.md)
 * [🇨🇦TCAD](stablecoins/tcad.md)
