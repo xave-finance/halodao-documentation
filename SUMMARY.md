@@ -66,7 +66,7 @@
 * [Discord](https://discord.gg/hEBEDTXR)
 * [Github](https://github.com/halodao)
 
----
+## Branding
 
-* [HaloDAO Brand Assets](halodao-brand-assets.md)
+* [HaloDAO Brand Assets](branding/halodao-brand-assets.md)
 
