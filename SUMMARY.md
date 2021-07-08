@@ -64,9 +64,9 @@
 * [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.gg/hEBEDTXR)
+* [Github](https://github.com/halodao)
 
 ---
 
-* [HaloDAO Brand Assets](halodao-brand-assets/README.md)
-  * [Github](https://github.com/halodao)
+* [HaloDAO Brand Assets](halodao-brand-assets.md)
 
