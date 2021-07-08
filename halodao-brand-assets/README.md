@@ -58,6 +58,8 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 {% file src="../.gitbook/assets/heyhey.zip" %}
 
+The zipped folder consists of Heyhey in multiple poses.
+
 ### Typography
 
 #### Titles/Headers
