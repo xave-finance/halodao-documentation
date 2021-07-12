@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/halodao-staking%20%281%29.png)
 
-![](../../.gitbook/assets/farm-stake.gif)
+![](../../.gitbook/assets/how-to-stake-mainnet.gif)
 
 1. Go to [app.halodao.com](http://app.halodao.com/).
 2. Go to the Farm tab if not automatically redirected.
@@ -22,7 +22,7 @@
 
 ![](../../.gitbook/assets/halodao-unstaking%20%281%29.png)
 
-![](../../.gitbook/assets/farm-unstake.gif)
+![](../../.gitbook/assets/how-to-unstake-mainnet.gif)
 
 1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/)farm
 2. Go to the Farm tab if not automatically redirected

@@ -1,8 +1,6 @@
 # How to Supply Liquidity to Uniswap-v2
 
-
-
-![](../../.gitbook/assets/how-to-add-liquidity-univ2-pool.gif)
+![](../../.gitbook/assets/supply-liquidity-univ2-mainnet.gif)
 
 1. Click this link [https://app.halodao.com/\#/farm](https://app.halodao.com/#/farm) to go to the Farm page
 2. Select a pool where you wish to add liquidity to and click “Add” on that pool.
