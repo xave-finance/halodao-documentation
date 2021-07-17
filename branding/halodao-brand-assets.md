@@ -58,7 +58,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 {% file src="../.gitbook/assets/heyhey.zip" %}
 
-The zipped folder consists of Heyhey in multiple poses.
+This pack contains Heyhey in multiple poses.
 
 ### Typography
 
@@ -74,7 +74,17 @@ The zipped folder consists of Heyhey in multiple poses.
 
 ![](../.gitbook/assets/brand-colours.png)
 
-### Social Media
+### Social Media Marketing
 
 {% file src="../.gitbook/assets/article-templates.zip" %}
+
+### Illustrations
+
+#### Meme Templates
+
+![](../.gitbook/assets/heyhey_drake.png)
+
+{% file src="../.gitbook/assets/memes.zip" %}
+
+This pack contains illustrated meme templates with our brand mascot, Heyhey
 
