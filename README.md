@@ -27,8 +27,8 @@ Our initial product in V0 allows anyone to **receive yields** in exchange for co
 
 |  |  |
 | :--- | :--- |
-| Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm) \(Coming Soon\) |
-| Rainbow Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting) \(Coming Soon\) |
+| Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm)  |
+| Rainbow Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting)  |
 |  |  |
 
 {% hint style="warning" %}
