@@ -58,6 +58,10 @@
 * [Overview](contract-audits/overview.md)
 * [v0 Final Audit](contract-audits/v0-final-audit.md)
 
+## Wallet Addresses
+
+* [Multisigs](wallet-addresses/multisigs.md)
+
 ## Socials
 
 * [Twitter](https://twitter.com/HaloDAOFinance)

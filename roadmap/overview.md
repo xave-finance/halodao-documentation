@@ -1,6 +1,4 @@
 # 🧭 Roadmap Overview
 
-![](../.gitbook/assets/updated-roadmap.png)
-
-
+![](../.gitbook/assets/updated-roadmap%20%281%29.png)
 
