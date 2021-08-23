@@ -67,7 +67,7 @@
 * [Twitter](https://twitter.com/HaloDAOFinance)
 * [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
-* [Discord](https://discord.gg/hEBEDTXR)
+* [Discord](https://discord.com/invite/halodao)
 * [Github](https://github.com/halodao)
 
 ## Branding
