@@ -16,6 +16,10 @@
 12. Go back to the HaloDAO farm page, make sure your UNI-v2 balance for the pool selected has been updated. 
 13. You can now proceed to farming.
 
+{% page-ref page="../how-to-earn/how-to-farm.md" %}
+
+
+
 
 
 

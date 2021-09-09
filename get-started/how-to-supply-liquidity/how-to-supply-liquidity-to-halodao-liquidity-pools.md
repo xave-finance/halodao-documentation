@@ -19,6 +19,10 @@
 13. Click “Stake it” to go to the farm page
 14. You can now proceed to farming.
 
+{% page-ref page="../how-to-earn/how-to-farm.md" %}
+
+
+
 _Note that there will be 2 approved transactions for each liquidity pool even if users have chosen Single-Sided. The reason for this is that for one-sided adds, the AMM will swap the tokens at the backend to balance your position to the specified ratio of the HLP pool_
 
 ## **Two-sided Liquidity**
@@ -38,4 +42,8 @@ _Note that there will be 2 approved transactions for each liquidity pool even if
 11. You will be able to see your pool position summary at the bottom of right hand side of the tab
 12. Click “Stake it” to go to the farm page
 13. You can now proceed to farming.
+
+{% page-ref page="../how-to-earn/how-to-farm.md" %}
+
+
 

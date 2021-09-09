@@ -9,7 +9,6 @@
 3. Click “Deposit.”
 4. Confirm the Metamask transaction.
 5. You will receive xRNBW vesting tokens at the current price of xRNBW:RNBW.
-6. \(Optional\) Watch xRNBW go up in RNBW value.
 
 {% hint style="info" %}
 Applicable for those who bought RNBW from the market or previously claimed it from Vesting.
