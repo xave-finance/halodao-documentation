@@ -19,18 +19,14 @@ HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spendin
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="get-started/how-to-earn/how-to-supply-liquidity.md">Supply Liquidity</a>
-      </td>
+      <td style="text-align:left">Supply Liquidity</td>
       <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between local
         asset-backed stablecoins and important pairings between those stablecoins
         and popular currencies, such as ETH, WBTC, USDC, USDT, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">Trade</td>
-      <td style="text-align:left">
-        <p>Coming Soon!</p>
-        <p>Trade/swap between asset-backed stablecoins at low slippage</p>
-      </td>
+      <td style="text-align:left">Trade/swap between asset-backed stablecoins at low slippage</td>
     </tr>
     <tr>
       <td style="text-align:left">Lend/Borrow</td>
@@ -62,13 +58,13 @@ When users provide liquidity to any of HaloDAO’s products, they will automatic
 
 ## **How do I get RNBW tokens**?
 
-Users get RNBW tokens when they provide liquidity. Go to [Farm](https://app.halodao.com/#/farm) page and stake your LP tokens. Refer to the [How to Farm](get-started/how-to-earn/how-to-farm.md) user guide.
+Users can farm on [app.halodao.com/\#farm](http://app.halodao.com/#farm) to earn rewards in xRNBW and claim it for RNBW
 
 ## **How do I get xRNBW**?
 
 There are two ways of getting xRNBW:
 
-* by providing liquidity on the [Farm](https://app.halodao.com/#/farm) page \(Coming Soon\) 
+* by providing liquidity on the [Farm](https://app.halodao.com/#/farm) page 
 * by manually vesting RNBW tokens into the [Rainbow Pool](https://app.halodao.com/#/vesting) page. See the [How to Vest](get-started/how-to-earn/how-to-vest-dessert-pool/).
 
 ## **What is the difference between RNBW and xRNBW tokens?**
@@ -78,6 +74,12 @@ RNBW is the governance token of the HaloDAO protocol, while xRNBW functions as a
 ## Can I claim my RNBW Rewards anytime?
 
 Yes! While RNBW rewards are auto vested into the Rainbow contract, it is not locked and it can be claimed anytime. Read about it [here](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md).
+
+## Does HaloDAO support other networks aside from Ethereum?
+
+Yes! See our [Bridges](https://docs.halodao.com/products/bridges) to learn how to send tokens to and from currently supported networks and [Roadmap](https://docs.halodao.com/roadmap/overview) to see which networks we will be supporting next. 
+
+## 
 
 
 

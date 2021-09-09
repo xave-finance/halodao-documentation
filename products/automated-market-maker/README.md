@@ -1,12 +1,10 @@
-# 🔁 AMM/EXCHANGE \(Farm\)
+# 🔁 AMM
 
-HaloDAO will incentivise liquidity provision and trading between
+HaloDAO incentivises liquidity provision and trading between
 
 * asset-backed stablecoins
 * synthetic stablecoins
-* and important pairings against ETH, WBTC, USDC, USDT and other "must have" cryptocurrencies 
-
-![](../../.gitbook/assets/halodao_analogy%20%281%29.png)
+* and important pairings against ETH, WBTC, USDC, USDT and other "must have" cryptocurrencies
 
 
 

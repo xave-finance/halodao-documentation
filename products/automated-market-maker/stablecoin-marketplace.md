@@ -1,16 +1,19 @@
-# Supported Pairs
+# Supported Pairs \(ETH Mainnet\)
 
 ![](../../.gitbook/assets/halodao_illustration_exchange-2.png)
 
-In v0, the following stablecoin pairs will earn RNBW rewards. This list will expand rapidly upon the deployment of our full protocol in August. 
+As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on our custom AMM
 
-| **Pair** |
+| **ETH Mainnet Pairs** |
 | :--- |
 | RNBW:ETH |
 | xRNBW:ETH |
+| RNBW:USDC |
 | USDC:XSGD |
-| USDC:THKD |
 | USDC:TCAD |
 | USDC:TAUD |
 | USDC:TGBP |
+| USDC:TUSD |
+
+
 

@@ -17,24 +17,23 @@ description: Get to know our thesis and mission here
 **HaloDAO aims to address these issues by:** 
 
 * Building and incentivising on and off-ramps integrations with existing wallets and exchanges.
-* Facilitating an efficient, on-demand currency exchange via On Demand Liquidity \(ODL\) and a stablecoin specific lending market that provides high-interest yields on local currencies.
-
-**Launching "v0":** We initially build liquidity for Asian asset-backed stablecoins, due to strong money flows and availability of ramps support in the region. As we progress in our roadmap, we will rapidly expand globally
-
-Our initial product in V0 allows anyone to **receive yields** in exchange for contributing liquidity to asset-backed stablecoins pools. 
+* Building an efficient, on-demand currency exchange via On Demand Liquidity \(ODL\)
+* Building stablecoin specific lending market that provides high-interest yields on local currencies.
+* Briding the previous 2 products between L1 and L2 for scalable liquidity and yield
 
 **Explore our products below:**
 
 |  |  |
 | :--- | :--- |
-| Stablecoin Marketplace | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm)  |
+| Stablecoin Liquidity Mining | [https:/](https://app.halodao.com/#/farm)/[app.halodao.com/\#/farm](https://app.halodao.com/#/farm)  |
 | Rainbow Pool | [https://app.halodao.com/\#/vesting](https://app.halodao.com/#/vesting)  |
-|  |  |
+| Rainbow Bridge | [https://app.halodao.com/\#/bridge](https://app.halodao.com/#/bridge) |
+| Stablecoin AMM | [https://app.halodao.com/\#/swap](https://app.halodao.com/#/swap) |
 
 {% hint style="warning" %}
 **Disclaimer:** 
 
-**The content of this docs site is constantly evolving and will be written in the form of a high-level introduction until we reach the next step in our roadmap \(v1\) where we will have ironed out and proven more detailed architectures and processes.**
+**The content of this docs site is constantly evolving and subject to change without advanced notice**
 {% endhint %}
 
 

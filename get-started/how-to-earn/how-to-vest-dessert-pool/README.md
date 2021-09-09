@@ -1,6 +1,6 @@
-# How to Vest \(RAINBOW POOL\)
+# How to Vest \(RAINBOW POOL\) - ETH Mainnet
 
-### How to manually vest your RNBW tokens
+### How to manually vest your RNBW tokens \(ONLY for ETH Mainnet\)
 
 ![](../../../.gitbook/assets/how-to-vest-rainbow-pool.gif)
 
