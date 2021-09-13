@@ -6,7 +6,6 @@
 4. Click “Approve” and approve the transaction on your connected wallet
 5. Double-check your transaction details, click “Swap”.
 6. Confirmation modal with details will pop up, Click “Confirm Swap”
-7. You can now proceed to our Pools page to start adding liquidity
 
   
 ****_Users can adjust the transaction settings \(Slippage tolerance and transaction deadline.\) to your desired settings in step 5 before clicking “Confirm Swap”_  
