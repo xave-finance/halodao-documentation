@@ -33,7 +33,7 @@ Over time as RNBW vesting rewards are deposited into the Rainbow vesting contrac
 1. Instead of a ⅔ vesting schedule, the liquidity provider will automatically earn RNBW rewards from the Rainbow contract and give the liquidity provider xRNBW. We figured this approach would save the user gas, automatically vest the user to earn more RNBW \(as long as you stick around for at least a month interval\) but still allow the flexibility of real-time withdrawal at any time.
 2. In addition to depositing network profits \(exact amount and time interval to be determined after HaloDAO profit drivers are enabled at AMM and Lending Market launch\), 20% of monthly RNBW liquidity rewards over 5 years will be sent to the Rainbow vesting contract every month. This increases xRNBW APY and further incentivises long-term holding.
 
-{% page-ref page="../../get-started/how-to-earn/how-to-vest-dessert-pool/" %}
+   {% page-ref page="../../get-started/how-to-earn/how-to-vest-dessert-pool/" %}
 
 
 

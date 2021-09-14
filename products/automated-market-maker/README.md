@@ -8,5 +8,9 @@ HaloDAO incentivises liquidity provision and trading between
 
 
 
+{% page-ref page="../../get-started/how-to-swap.md" %}
+
+
+
 
 

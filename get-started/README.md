@@ -1,4 +1,4 @@
-# ✅ Get Started
+# 🧐Tutorials
 
 {% page-ref page="how-to-connect-your-wallet.md" %}
 
