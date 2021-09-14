@@ -7,6 +7,7 @@
 * [🤔 FAQs](faqs.md)
 * [🧐Tutorials](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
+  * [How to add Polygon network in Metamask](get-started/how-to-add-polygon-network-in-metamask.md)
   * [How to Supply Liquidity?](get-started/how-to-supply-liquidity/README.md)
     * [How to Supply Liquidity to HaloDAO Liquidity Pools \(HLP\)](get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-halodao-liquidity-pools.md)
     * [How to Supply Liquidity to Uniswap-v2](get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-uniswap-v2.md)
