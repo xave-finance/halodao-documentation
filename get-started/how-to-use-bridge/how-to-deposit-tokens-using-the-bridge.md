@@ -12,7 +12,7 @@
 8. Confirmation modal with details will pop up, click “Confirm.”
 9. Once the transaction confirms, you should be able to receive the wrapped tokens on the selected “to” network.  
 
-
+**Fees:** Bridging from ETH to MATIC costs 1 unit of token Bridging from MATIC to ETH costs 20 unit of tokens
 
 _Note for both deposit and withdraw: For added security, the bridge waits for a transaction finality before it will update your balance on the selected destination network. This may take a few minutes depending on the source network selected._ 
 
