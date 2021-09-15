@@ -13,7 +13,6 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 | USDC:TCAD |
 | USDC:TAUD |
 | USDC:TGBP |
-| USDC:TUSD |
 
 
 
