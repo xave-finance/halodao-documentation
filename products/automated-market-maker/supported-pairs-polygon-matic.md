@@ -7,8 +7,8 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 | **Polygon Matic Pairs** |
 | :--- |
 | USDC:XSGD |
-| USDC:TCAD |
-| USDC:TAUD |
-| USDC:TGBP |
+| USDC:wTCAD |
+| USDC:wTAUD |
+| USDC:wTGBP |
 | USDC:TUSD |
 
