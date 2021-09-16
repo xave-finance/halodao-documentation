@@ -8,7 +8,6 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 | :--- |
 | RNBW:ETH |
 | xRNBW:ETH |
-| RNBW:USDC |
 | USDC:XSGD |
 | USDC:TCAD |
 | USDC:TAUD |
