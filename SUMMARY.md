@@ -5,7 +5,7 @@
 * [📖 Litepaper](litepaper.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
-* [🧐Tutorials](get-started/README.md)
+* [💡Tutorials](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
   * [How to add Polygon network in Metamask](get-started/how-to-add-polygon-network-in-metamask.md)
   * [How to Supply Liquidity?](get-started/how-to-supply-liquidity/README.md)
