@@ -1,5 +1,7 @@
 # 🔁 AMM
 
+![](../../.gitbook/assets/supported-stablecoins_17sept.png)
+
 HaloDAO incentivises liquidity provision and trading between
 
 * asset-backed stablecoins
