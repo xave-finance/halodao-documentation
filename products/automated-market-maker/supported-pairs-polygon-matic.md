@@ -10,3 +10,8 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 | USDC:wTCAD              |
 | USDC:wTAUD              |
 | USDC:wTGBP              |
+
+| Polygon Matic Pairs | LP Token Address |
+| :-----------------: | :--------------: |
+|      xSGD:USDC      |                  |
+|                     |                  |
