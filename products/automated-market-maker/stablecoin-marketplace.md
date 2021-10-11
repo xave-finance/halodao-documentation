@@ -6,17 +6,10 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 
 
 
-| **ETH Mainnet Pairs** |
-| --------------------- |
-| RNBW:ETH              |
-| xRNBW:ETH             |
-| USDC:XSGD             |
-| USDC:TCAD             |
-| USDC:TAUD             |
-| USDC:TGBP             |
-
-| ETH Mainnet Pairs |   |
-| ----------------- | - |
-|                   |   |
-|                   |   |
-|                   |   |
+| ETH Mainnet Pairs |              LP Token Address              |
+| :---------------: | :----------------------------------------: |
+|      RNBW:ETH     | 0x3e8e036ddfd310b0838d3cc881a9fa827778845d |
+|     USDC:XSGD     | 0x64DCbDeb83e39f152B7Faf83E5E5673faCA0D42A |
+|     USDC:TCAD     | 0xE15E50fF9d52beC41D53d3173F2ed40834D455f4 |
+|     USDC:TAUD     | 0x11816335DEe6763e2A7B6080b2b2980Eac7F85E4 |
+|     USDC:TGBP     | 0x2ED09E2961D72659E4002ba8C2BaDfedC7db19B7 |
