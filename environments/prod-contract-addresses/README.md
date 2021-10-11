@@ -2,11 +2,13 @@
 
 These contracts are the deployed instances of the protocol as of our v1 stage. More will be added as we progress down the roadmap.
 
-{% page-ref page="eth-mainnet.md" %}
+{% content-ref url="eth-mainnet.md" %}
+[eth-mainnet.md](eth-mainnet.md)
+{% endcontent-ref %}
 
-{% page-ref page="polygon-matic.md" %}
-
-
+{% content-ref url="polygon-matic.md" %}
+[polygon-matic.md](polygon-matic.md)
+{% endcontent-ref %}
 
 
 

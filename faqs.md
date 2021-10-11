@@ -10,55 +10,28 @@ HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spendin
 
 ## What can users do on HaloDAO?
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Supply Liquidity</td>
-      <td style="text-align:left">HaloDAO will incentivise liquidity provision and trading between local
-        asset-backed stablecoins and important pairings between those stablecoins
-        and popular currencies, such as ETH, WBTC, USDC, USDT, etc.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Trade</td>
-      <td style="text-align:left">Trade/swap between asset-backed stablecoins at low slippage</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Lend/Borrow</td>
-      <td style="text-align:left">
-        <p>Coming Soon!</p>
-        <p>Earn yield on local asset backed stablecoins (&#x201C;local currency farming&#x201D;).</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="get-started/how-to-vote.md">Vote</a>
-      </td>
-      <td style="text-align:left">Any RNBW token holder will be able to vote on proposals that govern the
-        network.</td>
-    </tr>
-  </tbody>
-</table>
+|                                    |                                                                                                                                                                                                              |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Supply Liquidity                   | HaloDAO will incentivise liquidity provision and trading between local asset-backed stablecoins and important pairings between those stablecoins and popular currencies, such as ETH, WBTC, USDC, USDT, etc. |
+| Trade                              | Trade/swap between asset-backed stablecoins at low slippage                                                                                                                                                  |
+| Lend/Borrow                        | <p>Coming Soon!</p><p>Earn yield on local asset backed stablecoins (“local currency farming”). </p>                                                                                                          |
+| [Vote](get-started/how-to-vote.md) | Any RNBW token holder will be able to vote on proposals that govern the network.                                                                                                                             |
 
-## What is RNBW \(Rainbow Candy\)?
+## What is RNBW (Rainbow Candy)?
 
 RNBW is the ERC20 governance token with an initial supply of 100,000,000. It is mintable as long as the cap is not locked by governance vote. The initial supply will be distributed over 5 years.
 
 ## What are RNBW Rewards?
 
-Liquidity providers \(LPs\) earn RNBW tokens that are auto vested in HaloDAO's Rainbow vesting contract. The longer an LP vests, the more RNBW is earned. The best part is that there is no lockup period whatsoever, unlike other protocols. The next section immediately below explains how this unique vesting mechanism works.
+Liquidity providers (LPs) earn RNBW tokens that are auto vested in HaloDAO's Rainbow vesting contract. The longer an LP vests, the more RNBW is earned. The best part is that there is no lockup period whatsoever, unlike other protocols. The next section immediately below explains how this unique vesting mechanism works.
 
 ## What is the Rainbow Pool?
 
-When users provide liquidity to any of HaloDAO’s products, they will automatically earn RNBW proportionate to their liquidity provided. That RNBW will be automatically vested in the Rainbow Contract. ****Read more about how that works [here](products/rainbow-pool/how-vesting-works.md).
+When users provide liquidity to any of HaloDAO’s products, they will automatically earn RNBW proportionate to their liquidity provided. That RNBW will be automatically vested in the Rainbow Contract.** **Read more about how that works [here](products/rainbow-pool/how-vesting-works.md).
 
 ## **How do I get RNBW tokens**?
 
-Users can farm on [app.halodao.com/\#farm](http://app.halodao.com/#farm) to earn rewards in xRNBW and claim it for RNBW
+Users can farm on [app.halodao.com/#farm](http://app.halodao.com/#farm) to earn rewards in xRNBW and claim it for RNBW
 
 ## **How do I get xRNBW**?
 
@@ -79,9 +52,7 @@ Yes! While RNBW rewards are auto vested into the Rainbow contract, it is not loc
 
 Yes! See our [Bridges](https://docs.halodao.com/products/bridges) to learn how to send tokens to and from currently supported networks and [Roadmap](https://docs.halodao.com/roadmap/overview) to see which networks we will be supporting next. 
 
-## 
-
-
+##
 
 
 

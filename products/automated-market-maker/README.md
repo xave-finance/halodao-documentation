@@ -1,6 +1,6 @@
 # 🔁 AMM
 
-![](../../.gitbook/assets/supported-stablecoins_17sept.png)
+![](<../../.gitbook/assets/Supported Stablecoins\_17Sept.png>)
 
 HaloDAO incentivises liquidity provision and trading between
 
@@ -10,9 +10,9 @@ HaloDAO incentivises liquidity provision and trading between
 
 
 
-{% page-ref page="../../get-started/how-to-swap.md" %}
-
-
+{% content-ref url="../../get-started/how-to-swap.md" %}
+[how-to-swap.md](../../get-started/how-to-swap.md)
+{% endcontent-ref %}
 
 
 

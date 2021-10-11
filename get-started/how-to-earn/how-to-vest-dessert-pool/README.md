@@ -1,10 +1,10 @@
-# How to Vest \(RAINBOW POOL\) - ETH Mainnet
+# How to Vest (RAINBOW POOL) - ETH Mainnet
 
-### How to manually vest your RNBW tokens \(ONLY for ETH Mainnet\)
+### How to manually vest your RNBW tokens (ONLY for ETH Mainnet)
 
 ![](../../../.gitbook/assets/how-to-vest-rainbow-pool.gif)
 
-1. Go to [https://app.halodao.com/\#/](https://app.halodao.com/#/vesting)
+1. Go to [https://app.halodao.com/#/](https://app.halodao.com/#/vesting)
 2. Go to the “Vest” tab. 
 3. Click “Deposit.”
 4. Confirm the Metamask transaction.
@@ -14,5 +14,4 @@
 Applicable for those who bought RNBW from the market or previously claimed it from Vesting.
 {% endhint %}
 
-### 
-
+###

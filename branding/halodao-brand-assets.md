@@ -6,57 +6,57 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 #### Main Logo
 
-![](../.gitbook/assets/logo_preview.png)
+![](../.gitbook/assets/Logo_Preview.png)
 
-{% file src="../.gitbook/assets/halodao-main-logo.png" %}
+{% file src="../.gitbook/assets/HaloDAO Main Logo.png" %}
 
-{% file src="../.gitbook/assets/halodao-main-logo.svg" %}
+{% file src="../.gitbook/assets/HaloDAO Main Logo.svg" %}
 
-{% file src="../.gitbook/assets/halodao-main-logo-white \(1\).png" %}
+{% file src="../.gitbook/assets/HaloDAO Main Logo White (1).png" %}
 
-{% file src="../.gitbook/assets/halodao-main-logo-white.svg" %}
+{% file src="../.gitbook/assets/HaloDAO Main Logo White.svg" %}
 
-{% file src="../.gitbook/assets/main-logo.zip" %}
+{% file src="../.gitbook/assets/Main Logo.zip" %}
 
 #### Logomark
 
-![](../.gitbook/assets/logomark_preview.png)
+![](<../.gitbook/assets/Logomark_Preview (1).png>)
 
-{% file src="../.gitbook/assets/halodao-logomark.png" %}
+{% file src="../.gitbook/assets/HaloDAO Logomark (1).png" %}
 
-{% file src="../.gitbook/assets/halodao-logomark.svg" %}
+{% file src="../.gitbook/assets/HaloDAO Logomark.svg" %}
 
-{% file src="../.gitbook/assets/halodao-logomark-white.png" %}
+{% file src="../.gitbook/assets/HaloDAO Logomark White.png" %}
 
-{% file src="../.gitbook/assets/halodao-logomark-white.svg" %}
+{% file src="../.gitbook/assets/HaloDAO Logomark White.svg" %}
 
-{% file src="../.gitbook/assets/logomark.zip" %}
+{% file src="../.gitbook/assets/Logomark.zip" %}
 
-#### Rainbow Candy \(RNBW\)
+#### Rainbow Candy (RNBW)
 
-![](../.gitbook/assets/rnbw_preview.png)
+![](../.gitbook/assets/RNBW_Preview.png)
 
-{% file src="../.gitbook/assets/rnbw.png" %}
+{% file src="../.gitbook/assets/RNBW.png" %}
 
-{% file src="../.gitbook/assets/rnbw.svg" %}
+{% file src="../.gitbook/assets/RNBW.svg" %}
 
-{% file src="../.gitbook/assets/rnbw.zip" %}
+{% file src="../.gitbook/assets/RNBW.zip" %}
 
-#### Rainbow Pool \(xRNBW\)
+#### Rainbow Pool (xRNBW)
 
-![](../.gitbook/assets/xrnbw_preview.png)
+![](../.gitbook/assets/xRNBW_Preview.png)
 
-{% file src="../.gitbook/assets/xrnbw.png" %}
+{% file src="../.gitbook/assets/xRNBW.png" %}
 
-{% file src="../.gitbook/assets/xrnbw.svg" %}
+{% file src="../.gitbook/assets/xRNBW.svg" %}
 
-{% file src="../.gitbook/assets/xrnbw.zip" %}
+{% file src="../.gitbook/assets/xRNBW.zip" %}
 
 ### Mascot
 
-![Our mascot - Heyhey](../.gitbook/assets/heyhey_icecream%20%281%29.png)
+![Our mascot - Heyhey](<../.gitbook/assets/Heyhey_IceCream (1).png>)
 
-{% file src="../.gitbook/assets/heyhey.zip" %}
+{% file src="../.gitbook/assets/Heyhey.zip" %}
 
 This pack contains Heyhey in multiple poses.
 
@@ -64,27 +64,26 @@ This pack contains Heyhey in multiple poses.
 
 #### Titles/Headers
 
-![](../.gitbook/assets/fredoka-one.png)
+![](<../.gitbook/assets/Fredoka One.png>)
 
 #### Bodycopy
 
-![](../.gitbook/assets/open-sans.png)
+![](<../.gitbook/assets/Open Sans.png>)
 
 ### Brand Colours
 
-![](../.gitbook/assets/brand-colours.png)
+![](<../.gitbook/assets/Brand Colours.png>)
 
 ### Social Media Marketing
 
-{% file src="../.gitbook/assets/article-templates.zip" %}
+{% file src="../.gitbook/assets/Article Templates.zip" %}
 
 ### Illustrations
 
 #### Meme Templates
 
-![](../.gitbook/assets/heyhey_drake.png)
+![](../.gitbook/assets/Heyhey_Drake.png)
 
-{% file src="../.gitbook/assets/memes.zip" %}
+{% file src="../.gitbook/assets/Memes.zip" %}
 
 This pack contains illustrated meme templates with our brand mascot, Heyhey
-

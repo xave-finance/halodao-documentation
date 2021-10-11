@@ -1,10 +1,10 @@
 # How to Withdraw Token using the Bridge?
 
-![](../../.gitbook/assets/cleanshot-2021-09-08-at-20.25.41.gif)
+![](<../../.gitbook/assets/CleanShot 2021-09-08 at 20.25.41.gif>)
 
-1. Click this link [https://app.halodao.com/\#/bridge](https://app.halodao.com/#/bridge) to go to the Bridge page
-2. Click the “from” network box to select the source network \(If Ethereum is selected, it will trigger a deposit process\)
-3. Click the “to” network box to select the destination network \(Networks supported are Ethereum Mainnet and Polygon\)
+1. Click this link [https://app.halodao.com/#/bridge](https://app.halodao.com/#/bridge) to go to the Bridge page
+2. Click the “from” network box to select the source network (If Ethereum is selected, it will trigger a deposit process)
+3. Click the “to” network box to select the destination network (Networks supported are Ethereum Mainnet and Polygon)
 4. Click the asset dropdown to select the asset that you want to bridge
 5. Enter the amount
 6. Click “Approve”
@@ -14,8 +14,9 @@
 
 **Fees**: Bridging from ETH to MATIC costs 1 unit of token Bridging from MATIC to ETH costs 20 unit of tokens
 
-_Note for both deposit and withdraw: For added security, the bridge waits for a transaction finality before it will update your balance on the selected destination network. This may take a few minutes depending on the source network selected._ 
+_Note for both deposit and withdraw: For added security, the bridge waits for a transaction finality before it will update your balance on the selected destination network. This may take a few minutes depending on the source network selected. _
 
-1. _If the source network is Ethereum mainnet, it will wait for 20 block confirmations \(about 5 minutes\) before balance gets updated on the destination network._
-2. _If the source network is Polygon mainnet, it will wait for 192 block confirmations \(about 6 to 7 minutes\) before balance gets updated on the destination network._ **** 
-
+1. _If the source network is Ethereum mainnet, it will wait for 20 block confirmations (about 5 minutes) before balance gets updated on the destination network._
+2. _If the source network is Polygon mainnet, it will wait for 192 block confirmations (about 6 to 7 minutes) before balance gets updated on the destination network._\
+   ****\
+   ****

@@ -8,7 +8,5 @@ At HaloDAO, when we create a new contract we first deploy it on our beta app. Th
 
 Once the contract goes through those stages, it is then deployed to our Production App.
 
-![](../.gitbook/assets/contract-audits.png)
-
-
+![](<../.gitbook/assets/Contract Audits.png>)
 

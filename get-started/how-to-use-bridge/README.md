@@ -1,8 +1,10 @@
 # How to use Bridge
 
-{% page-ref page="how-to-deposit-tokens-using-the-bridge.md" %}
+{% content-ref url="how-to-deposit-tokens-using-the-bridge.md" %}
+[how-to-deposit-tokens-using-the-bridge.md](how-to-deposit-tokens-using-the-bridge.md)
+{% endcontent-ref %}
 
-{% page-ref page="how-to-withdraw-token-using-the-bridge.md" %}
-
-
+{% content-ref url="how-to-withdraw-token-using-the-bridge.md" %}
+[how-to-withdraw-token-using-the-bridge.md](how-to-withdraw-token-using-the-bridge.md)
+{% endcontent-ref %}
 
