@@ -24,6 +24,8 @@ Step 3: Click “Mint”
 
 Step 4: Bridge fxPHP from Arbitrum One to ETH Mainnet
 
+Step 5: Supply Liquidity ([how to](https://docs.halodao.com/get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-halodao-liquidity-pools)) and earn 2x rewards (xRNBW and FOREX) from the fxPHP:USDC pool
+
 More details can be found [here](https://docs.handle.fi/the-platform/key-functions/mint)
 
 **Links: **
