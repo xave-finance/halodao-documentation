@@ -9,11 +9,11 @@
 5. Enter the amount of liquidity you’d like to provide.
 6. Click “Approve RNBW” (Token name may be different for other liquidity pools).
 7. Approve Metamask transaction.
-8. Click “Supply.” 
+8. Click “Supply.”&#x20;
 9. Confirmation modal with details will pop up, click “Confirm Supply.”
 10. Once the transaction confirms (approval + confirmation) you should receive your UNI-v2 tokens.
 11. You will be able to see your pool position summary at the bottom of the page.
-12. Go back to the HaloDAO farm page, make sure your UNI-v2 balance for the pool selected has been updated. 
+12. Go back to the HaloDAO farm page, make sure your UNI-v2 balance for the pool selected has been updated.&#x20;
 13. You can now proceed to farming.
 
 {% content-ref url="../how-to-earn/how-to-farm.md" %}

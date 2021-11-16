@@ -4,7 +4,7 @@ Official website: [https://www.circle.com/en/usdc](https://www.circle.com/en/usd
 
 **What is USDC?**
 
-USDC is a stablecoin and dollar-denominated cryptocurrency that runs on Ethereum, Algorand and Solana blockchain. USDC is pegged to the US dollar in a 1-to-1 ratio therefore giving much-needed stability in the market 
+USDC is a stablecoin and dollar-denominated cryptocurrency that runs on Ethereum, Algorand and Solana blockchain. USDC is pegged to the US dollar in a 1-to-1 ratio therefore giving much-needed stability in the market&#x20;
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
@@ -26,7 +26,7 @@ Step 5: Confirm your order details and click "Buy Now"\
 \
 _**For non-US Residents,**_ USDC can be acquired from decentralised exchanges that consists of USDC pairings**.**
 
-This includes exchanges such as Binance, Kraken, Bitfinex, KuCoin, Uniswap and Poloniex. 
+This includes exchanges such as Binance, Kraken, Bitfinex, KuCoin, Uniswap and Poloniex.&#x20;
 
 **Links:**
 

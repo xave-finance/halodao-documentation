@@ -2,7 +2,7 @@
 
 ## **Halonauts send tokens from Chain A to Chain B**
 
-![](<../../.gitbook/assets/Bridge_SendsAtoB (1).png>)
+![](<../../.gitbook/assets/Bridge\_SendsAtoB (1).png>)
 
 The HaloDAO Bridge sits between the ETH Mainnet and other EVM Compatible chains - Polygon being the first Layer 2 chain targeted for implementation.
 
@@ -12,7 +12,7 @@ For example, when a Halonaut deposits TCAD into our Bridge from ETH Mainnet to P
 
 ## **Halonauts Redeem tokens from Chain B to Chain A**
 
-![](<../../.gitbook/assets/Bridge_RedeemsBtoA (1).png>)
+![](<../../.gitbook/assets/Bridge\_RedeemsBtoA (1).png>)
 
 When a Halonaut intends to redeem their tokens from Chain B to Chain A, the mechanics mentioned above are generally replicated. First, the deposit event will trigger the Primary Bridge Smart contract where the Event Broker Service will call upon the HaloDAO Bridge Handler Endpoint. The Bridge Handler script calls the burn function on the Secondary bridge Smart Contract to burn the existing wrapped token on Chain B and at the same time releasing the original deposited tokens to the user** **Chain A.
 

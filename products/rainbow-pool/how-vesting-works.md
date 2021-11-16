@@ -1,8 +1,8 @@
 # How Vesting Works (ETH Mainnet)
 
-1. When a user stakes their LP tokens on the [Farm page](https://app.halodao.com), they will be rewarded with RNBW tokens proportionate to their LP tokens. 
+1. When a user stakes their LP tokens on the [Farm page](https://app.halodao.com), they will be rewarded with RNBW tokens proportionate to their LP tokens.&#x20;
 2. Their RNBW tokens are automatically deposited into the Rainbow contract and the user will receive the proportionate amount of xRNBW in return.
-3. Over time, xRNBW will be worth more and more RNBW tokens due to 20% of monthly RNBW liquidity rewards being deposited into the Rainbow Pool. 
+3. Over time, xRNBW will be worth more and more RNBW tokens due to 20% of monthly RNBW liquidity rewards being deposited into the Rainbow Pool.&#x20;
 
 ![](<../../.gitbook/assets/Protocol overview.png>)
 

@@ -8,11 +8,11 @@
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool
 3. Click on Add Liquidity tab
 4. Select Single-sided
-5. Enter the amount of liquidity you’d like to provide  
-6. Choose or enter  slippage tolerance 
+5. Enter the amount of liquidity you’d like to provide &#x20;
+6. Choose or enter  slippage tolerance&#x20;
 7. Click “Approve XSGD” (Token name may be different for other liquidity pools) and approve transaction.
 8. Repeat step 6 when you click “Approve USDC”
-9. Click “Supply” 
+9. Click “Supply”&#x20;
 10. Confirmation modal with details will pop up, click “Confirm Supply.”
 11. Once the transaction confirms (approval + confirmation) you should receive your HLP tokens
 12. You will be able to see your pool position summary at the bottom of right hand side of the tab
@@ -35,10 +35,10 @@ _Note that there will be 2 approved transactions for each liquidity pool even if
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool
 3. Click on Add Liquidity tab
 4. Select Two-sided
-5. Enter the amount of liquidity you’d like to provide. You will notice that it will automatically calculate the equivalent amount in the other token. 
+5. Enter the amount of liquidity you’d like to provide. You will notice that it will automatically calculate the equivalent amount in the other token.&#x20;
 6. Click “Approve XSGD” (Token name may be different for other liquidity pools) and approve transaction.
 7. Repeat step 6 when you click “Approve USDC”
-8. Click “Supply.” 
+8. Click “Supply.”&#x20;
 9. Confirmation modal with details will pop up, click “Confirm Supply.”
 10. Once the transaction confirms (approval + confirmation) you should receive your HLP tokens
 11. You will be able to see your pool position summary at the bottom of right hand side of the tab

@@ -9,16 +9,16 @@
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
   * [How to add Polygon network in Metamask](get-started/how-to-add-polygon-network-in-metamask.md)
   * [How to Supply Liquidity?](get-started/how-to-supply-liquidity/README.md)
-    * [How to Supply Liquidity to HaloDAO Liquidity Pools \(HLP\)](get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-halodao-liquidity-pools.md)
+    * [How to Supply Liquidity to HaloDAO Liquidity Pools (HLP)](get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-halodao-liquidity-pools.md)
     * [How to Supply Liquidity to Uniswap-v2](get-started/how-to-supply-liquidity/how-to-supply-liquidity-to-uniswap-v2.md)
     * [How to Remove Liquidity from HaloDAO Liquidity Pools](get-started/how-to-supply-liquidity/how-to-remove-liquidity-from-halodao-liquidity-pools.md)
   * [How to Earn](get-started/how-to-earn/README.md)
-    * [How to Farm \(Staking & Unstaking\)](get-started/how-to-earn/how-to-farm.md)
-    * [How to Vest \(RAINBOW POOL\) - ETH Mainnet](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
+    * [How to Farm (Staking & Unstaking)](get-started/how-to-earn/how-to-farm.md)
+    * [How to Vest (RAINBOW POOL) - ETH Mainnet](get-started/how-to-earn/how-to-vest-dessert-pool/README.md)
       * [How to Harvest xRNBW](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-harvest.md)
       * [How to Claim RNBW](get-started/how-to-earn/how-to-vest-dessert-pool/how-to-claim-harvest.md)
-    * [How to Vest \(RAINBOW POOL\) - Polygon Matic](get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/README.md)
-      * [How to Harvest xRNBW and Claim RNBW \(Polygon\)](get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/how-to-harvest-xrnbw-and-claim-rnbw-polygon.md)
+    * [How to Vest (RAINBOW POOL) - Polygon Matic](get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/README.md)
+      * [How to Harvest xRNBW and Claim RNBW (Polygon)](get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/how-to-harvest-xrnbw-and-claim-rnbw-polygon.md)
   * [How to use Bridge](get-started/how-to-use-bridge/README.md)
     * [How to Deposit Tokens using the Bridge](get-started/how-to-use-bridge/how-to-deposit-tokens-using-the-bridge.md)
     * [How to Withdraw Token using the Bridge?](get-started/how-to-use-bridge/how-to-withdraw-token-using-the-bridge.md)
@@ -29,12 +29,12 @@
 ## Products
 
 * [🔁 AMM](products/automated-market-maker/README.md)
-  * [Supported Pairs \(ETH Mainnet\)](products/automated-market-maker/stablecoin-marketplace.md)
-  * [Supported Pairs \(Polygon Matic\)](products/automated-market-maker/supported-pairs-polygon-matic.md)
+  * [Supported Pairs (ETH Mainnet)](products/automated-market-maker/stablecoin-marketplace.md)
+  * [Supported Pairs (Polygon Matic)](products/automated-market-maker/supported-pairs-polygon-matic.md)
 * [🏦 Lending Market](products/lending-market.md)
 * [🌈 Rainbow Pool](products/rainbow-pool/README.md)
-  * [How Vesting Works \(ETH Mainnet\)](products/rainbow-pool/how-vesting-works.md)
-  * [How Vesting Works \(Polygon\)](products/rainbow-pool/how-vesting-works-polygon.md)
+  * [How Vesting Works (ETH Mainnet)](products/rainbow-pool/how-vesting-works.md)
+  * [How Vesting Works (Polygon)](products/rainbow-pool/how-vesting-works-polygon.md)
 
 ## Bridges
 
@@ -50,12 +50,12 @@
   * [Polygon Matic](environments/prod-contract-addresses/polygon-matic.md)
 * [Beta App](environments/beta-contract-addresses.md)
 
-## Sweet Recipe <a id="roadmap"></a>
+## Sweet Recipe <a href="roadmap" id="roadmap"></a>
 
 * [🧭 Roadmap Overview](roadmap/overview.md)
 * [🚦Governance Roadmap](roadmap/governance-roadmap.md)
 
-## Governance <a id="governance-1"></a>
+## Governance <a href="governance-1" id="governance-1"></a>
 
 * [⚡️ Voting and Proposals](governance-1/overview.md)
 * [🗳 Optimistic Voting](governance-1/optimistic-voting.md)
@@ -77,9 +77,10 @@
 * [🇺🇸 USDT](stablecoins/tether.md)
 * [🇺🇸 USDC](stablecoins/us-dollar-coin.md)
 * [🇭🇰 THKD](stablecoins/hong-kong.md)
-* [🇦🇺TAUD](stablecoins/taud.md)
-* [🇬🇧TGBP](stablecoins/tgbp.md)
-* [🇨🇦TCAD](stablecoins/tcad.md)
+* [🇦🇺 TAUD](stablecoins/taud.md)
+* [🇬🇧 TGBP](stablecoins/tgbp.md)
+* [🇨🇦 TCAD](stablecoins/tcad.md)
+* [🇵🇭 fxPHP](stablecoins/fxphp.md)
 
 ## Socials
 
@@ -92,4 +93,3 @@
 ## Branding
 
 * [HaloDAO Brand Assets](branding/halodao-brand-assets.md)
-

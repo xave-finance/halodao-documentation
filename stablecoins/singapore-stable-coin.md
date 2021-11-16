@@ -23,11 +23,11 @@ _**For Singaporeans**_**:**
 
 Step 1: Add your blockchain address to get it verified and complete the verification process
 
-![](https://lh5.googleusercontent.com/QqcjWrr9kB0KViyJpTBte5I8izZn6h_QobS8RZO8X_NlSamaILu7SP11BmikLgLwc9dV7jBp4nb5pbwwngQzS854AY8aY5BFF6fGerW1M_uyxDODzGfKPSwAxg3IEMwBAChh61j4)
+![](https://lh5.googleusercontent.com/QqcjWrr9kB0KViyJpTBte5I8izZn6h\_QobS8RZO8X\_NlSamaILu7SP11BmikLgLwc9dV7jBp4nb5pbwwngQzS854AY8aY5BFF6fGerW1M\_uyxDODzGfKPSwAxg3IEMwBAChh61j4)
 
 Step 2: Deposit Funds in the Digital Goods wallet by Bank transfer
 
-![](https://lh5.googleusercontent.com/fufuZ9Oq-eRnrEjfpI8Ljyhx6E24aHFvdRO1-olktGde_bvhaGwECB\_8dHrojb64CgleJv6pGVp4w9oOUpFmdunxEvFGFNsd8BoTMVrah9Yt4YTvh9bEVLmyBCCUMPX_ub9bvpyO)
+![](https://lh5.googleusercontent.com/fufuZ9Oq-eRnrEjfpI8Ljyhx6E24aHFvdRO1-olktGde\_bvhaGwECB\_8dHrojb64CgleJv6pGVp4w9oOUpFmdunxEvFGFNsd8BoTMVrah9Yt4YTvh9bEVLmyBCCUMPX\_ub9bvpyO)
 
 Step 3: Withdraw XSGD to your personal blockchain address
 
@@ -39,7 +39,7 @@ _**For non-Singaporeans**_**,** XSGD can be acquired from decentralised exchange
 
 XSGD can be used in various exchanges which includes Coinhako, Crypto.com Singapore, Liquid, Tokenize Exchange, Sparrow Exchange and QCP Capital.
 
-**To mint/redeem:** Visit [Xfers](https://www.xfers.com/sg/straitsx#XSGDsection) 
+**To mint/redeem:** Visit [Xfers](https://www.xfers.com/sg/straitsx#XSGDsection)&#x20;
 
 **Links: **
 

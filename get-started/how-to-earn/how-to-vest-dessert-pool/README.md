@@ -5,7 +5,7 @@
 ![](../../../.gitbook/assets/how-to-vest-rainbow-pool.gif)
 
 1. Go to [https://app.halodao.com/#/](https://app.halodao.com/#/vesting)
-2. Go to the “Vest” tab. 
+2. Go to the “Vest” tab.&#x20;
 3. Click “Deposit.”
 4. Confirm the Metamask transaction.
 5. You will receive xRNBW vesting tokens at the current price of xRNBW:RNBW.

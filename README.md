@@ -12,9 +12,9 @@ description: Get to know our thesis and mission here
 
 **Our Thesis:** The future of DeFi and crypto is one that will enable individuals to buy goods and services using asset backed stablecoins, pegged at a 1 to 1 basis with various local currencies. Very few will be willing to buy ice cream with Bitcoin.
 
-**Situation:** We are still far from this future of mass adoption and no asset-backed stablecoin has achieved widespread adoption. USD pegged stablecoins have filled a large need for trading in crypto markets, but everyday users still cannot directly use it for everyday purchases. 
+**Situation:** We are still far from this future of mass adoption and no asset-backed stablecoin has achieved widespread adoption. USD pegged stablecoins have filled a large need for trading in crypto markets, but everyday users still cannot directly use it for everyday purchases.&#x20;
 
-**HaloDAO aims to address these issues by:** 
+**HaloDAO aims to address these issues by:**&#x20;
 
 * Building and incentivising on and off-ramps integrations with existing wallets and exchanges.
 * Building an efficient, on-demand currency exchange via On Demand Liquidity (ODL)

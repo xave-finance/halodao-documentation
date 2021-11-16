@@ -6,7 +6,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 #### Main Logo
 
-![](../.gitbook/assets/Logo_Preview.png)
+![](../.gitbook/assets/Logo\_Preview.png)
 
 {% file src="../.gitbook/assets/HaloDAO Main Logo.png" %}
 
@@ -20,7 +20,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 #### Logomark
 
-![](<../.gitbook/assets/Logomark_Preview (1).png>)
+![](<../.gitbook/assets/Logomark\_Preview (1).png>)
 
 {% file src="../.gitbook/assets/HaloDAO Logomark (1).png" %}
 
@@ -34,7 +34,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 #### Rainbow Candy (RNBW)
 
-![](../.gitbook/assets/RNBW_Preview.png)
+![](../.gitbook/assets/RNBW\_Preview.png)
 
 {% file src="../.gitbook/assets/RNBW.png" %}
 
@@ -44,7 +44,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 #### Rainbow Pool (xRNBW)
 
-![](../.gitbook/assets/xRNBW_Preview.png)
+![](../.gitbook/assets/xRNBW\_Preview.png)
 
 {% file src="../.gitbook/assets/xRNBW.png" %}
 
@@ -54,7 +54,7 @@ This page is where the official HaloDAO's Logo and branding assets can be downlo
 
 ### Mascot
 
-![Our mascot - Heyhey](<../.gitbook/assets/Heyhey_IceCream (1).png>)
+![Our mascot - Heyhey](<../.gitbook/assets/Heyhey\_IceCream (1).png>)
 
 {% file src="../.gitbook/assets/Heyhey.zip" %}
 
@@ -82,7 +82,7 @@ This pack contains Heyhey in multiple poses.
 
 #### Meme Templates
 
-![](../.gitbook/assets/Heyhey_Drake.png)
+![](../.gitbook/assets/Heyhey\_Drake.png)
 
 {% file src="../.gitbook/assets/Memes.zip" %}
 

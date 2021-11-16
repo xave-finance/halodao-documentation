@@ -6,7 +6,7 @@ We are committed to and focused on mass adoption by making the DeFi experience s
 
 ## How is HaloDAO different from other DeFi protocols?
 
-HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spending and Saving as we move down our roadmap. However, in order to enable those high level use cases, we first need to build the permissionless liquidity that will enable users to easily access the DeFi economy, thereby lowering one of the barriers to individual financial participation in each region. 
+HaloDAO aims to enable three fundamental consumer use cases of Shopping, Spending and Saving as we move down our roadmap. However, in order to enable those high level use cases, we first need to build the permissionless liquidity that will enable users to easily access the DeFi economy, thereby lowering one of the barriers to individual financial participation in each region.&#x20;
 
 ## What can users do on HaloDAO?
 
@@ -37,7 +37,7 @@ Users can farm on [app.halodao.com/#farm](http://app.halodao.com/#farm) to earn 
 
 There are two ways of getting xRNBW:
 
-* by providing liquidity on the [Farm](https://app.halodao.com/#/farm) page 
+* by providing liquidity on the [Farm](https://app.halodao.com/#/farm) page&#x20;
 * by manually vesting RNBW tokens into the [Rainbow Pool](https://app.halodao.com/#/vesting) page. See the [How to Vest](get-started/how-to-earn/how-to-vest-dessert-pool/).
 
 ## **What is the difference between RNBW and xRNBW tokens?**
@@ -50,7 +50,7 @@ Yes! While RNBW rewards are auto vested into the Rainbow contract, it is not loc
 
 ## Does HaloDAO support other networks aside from Ethereum?
 
-Yes! See our [Bridges](https://docs.halodao.com/products/bridges) to learn how to send tokens to and from currently supported networks and [Roadmap](https://docs.halodao.com/roadmap/overview) to see which networks we will be supporting next. 
+Yes! See our [Bridges](https://docs.halodao.com/products/bridges) to learn how to send tokens to and from currently supported networks and [Roadmap](https://docs.halodao.com/roadmap/overview) to see which networks we will be supporting next.&#x20;
 
 ##
 

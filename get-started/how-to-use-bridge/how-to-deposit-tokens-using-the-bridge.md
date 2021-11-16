@@ -8,9 +8,9 @@
 4. Click the asset dropdown to select the asset that you want to bridge
 5. Enter the amount
 6. Click “Approve”
-7. Click “Next” 
+7. Click “Next”&#x20;
 8. Confirmation modal with details will pop up, click “Confirm.”
-9. Once the transaction confirms, you should be able to receive the wrapped tokens on the selected “to” network.  
+9. Once the transaction confirms, you should be able to receive the wrapped tokens on the selected “to” network. &#x20;
 
 **Fees: **Bridging from ETH to MATIC costs 1 unit of token Bridging from MATIC to ETH costs 20 unit of tokens
 

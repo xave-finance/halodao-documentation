@@ -10,13 +10,13 @@ Each tether unit issued into circulation is backed in a 1-­to-1 ratio by the co
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
-Tether is issued by Tether Limited — limited company incorporated pursuant to the Hong Kong Companies Ordinance. 
+Tether is issued by Tether Limited — limited company incorporated pursuant to the Hong Kong Companies Ordinance.&#x20;
 
-Additionally, Tether is registered as a Money Services Business with the Financial Crimes Enforcement Network of the U.S. Department of Treasury. 
+Additionally, Tether is registered as a Money Services Business with the Financial Crimes Enforcement Network of the U.S. Department of Treasury.&#x20;
 
 **Where can I purchase USDT?**
 
-USDT can be found in various exchanges such as Binance, Okex, Huobi, HitBTC and Bitfinex. 
+USDT can be found in various exchanges such as Binance, Okex, Huobi, HitBTC and Bitfinex.&#x20;
 
 Besides that, USDT can also be acquired by submitting US dollars to Tether Limited
 
