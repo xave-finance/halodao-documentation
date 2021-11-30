@@ -50,12 +50,12 @@
   * [Polygon Matic](environments/prod-contract-addresses/polygon-matic.md)
 * [Beta App](environments/beta-contract-addresses.md)
 
-## Sweet Recipe <a href="roadmap" id="roadmap"></a>
+## Sweet Recipe <a href="#roadmap" id="roadmap"></a>
 
 * [🧭 Roadmap Overview](roadmap/overview.md)
 * [🚦Governance Roadmap](roadmap/governance-roadmap.md)
 
-## Governance <a href="governance-1" id="governance-1"></a>
+## Governance <a href="#governance-1" id="governance-1"></a>
 
 * [⚡️ Voting and Proposals](governance-1/overview.md)
 * [🗳 Optimistic Voting](governance-1/optimistic-voting.md)
@@ -85,10 +85,10 @@
 ## Socials
 
 * [Twitter](https://twitter.com/HaloDAOFinance)
-* [Telegram](https://t.me/HaloDAO)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.com/invite/halodao)
 * [Github](https://github.com/halodao)
+* [Telegram Announcement](https://t.me/halodaoannouncement)
 
 ## Branding
 
