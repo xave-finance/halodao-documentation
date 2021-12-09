@@ -20,9 +20,9 @@
 
 ## Arbitrum <a href="#polygon" id="polygon"></a>
 
-| Contract          | Address                                    |
-| ----------------- | ------------------------------------------ |
-| Contract Ops      | 0x19C96DbFfdFC2F6D5C30deF63F7D52234E516202 |
-| Liquidity Rewards | 0x71Cc1ffC134f2896F9BBf8143A391162e9FF48C8 |
+| Contract              | Address                                    |
+| --------------------- | ------------------------------------------ |
+| **Contract Ops**      | 0x19C96DbFfdFC2F6D5C30deF63F7D52234E516202 |
+| **Liquidity Rewards** | 0x71Cc1ffC134f2896F9BBf8143A391162e9FF48C8 |
 
 ​
