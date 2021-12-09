@@ -17,3 +17,12 @@
 | --------------------- | ------------------------------------------ |
 | **Contract Ops**      | 0x74042CE43D1e74FF5627B1e9ff2ee950251b5Db4 |
 | **Liquidity Rewards** | 0x5560659d9a4aB330dE2112fc8Ee0989857197728 |
+
+## Arbitrum <a href="#polygon" id="polygon"></a>
+
+| Contract          | Address                                    |
+| ----------------- | ------------------------------------------ |
+| Contract Ops      | 0x19C96DbFfdFC2F6D5C30deF63F7D52234E516202 |
+| Liquidity Rewards | 0x71Cc1ffC134f2896F9BBf8143A391162e9FF48C8 |
+
+​
