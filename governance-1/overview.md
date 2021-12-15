@@ -1,4 +1,4 @@
-# ⚡️ Voting and Proposals
+# ⚡ Voting and Proposals
 
 HaloDAO's voting portal will allow any RNBW token holder to stake and vote on proposals initiated by other RNBW token holders. Your voting rights are directly proportional to the number of RNBW tokens \
 you own.

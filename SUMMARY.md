@@ -5,7 +5,7 @@
 * [📖 Litepaper](litepaper.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
-* [💡Tutorials](get-started/README.md)
+* [💡 Tutorials](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
   * [How to add Polygon network in Metamask](get-started/how-to-add-polygon-network-in-metamask.md)
   * [How to Supply Liquidity?](get-started/how-to-supply-liquidity/README.md)
@@ -53,11 +53,11 @@
 ## Sweet Recipe <a href="#roadmap" id="roadmap"></a>
 
 * [🧭 Roadmap Overview](roadmap/overview.md)
-* [🚦Governance Roadmap](roadmap/governance-roadmap.md)
+* [🚦 Governance Roadmap](roadmap/governance-roadmap.md)
 
 ## Governance <a href="#governance-1" id="governance-1"></a>
 
-* [⚡️ Voting and Proposals](governance-1/overview.md)
+* [⚡ Voting and Proposals](governance-1/overview.md)
 * [🗳 Optimistic Voting](governance-1/optimistic-voting.md)
 * [🥂 Proposal Types](governance-1/proposal-types.md)
 

@@ -30,9 +30,19 @@ Step 5: Supply Liquidity ([how to](https://docs.halodao.com/get-started/how-to-s
 
 More details can be found [here](https://docs.handle.fi/the-platform/key-functions/mint)
 
-**Links: **
+**Links:**&#x20;
 
 * [Etherscan](https://etherscan.io/token/0x3d147cd9ac957b2a5f968de9d1c6b9d0872286a0)
-* [Arbitrum One](https://arbiscan.io/token/0x7E141940932E3D13bfa54B224cb4a16510519308)\
-  \
-  \
+* [Arbitrum One](https://arbiscan.io/token/0x7E141940932E3D13bfa54B224cb4a16510519308)
+
+## 💡Pro-tip
+
+Crypto.com and Binance Exchange supports withdrawls to Arbitrum networks so users can
+
+1. Withdraw ETH and USDC from an exchange
+2. Go to [https://app.handle.fi](https://app.handle.fi) and stake ETH to mint fxPHP
+3. [Supply](../get-started/how-to-supply-liquidity/) fxPHP on HaloDAO dApp
+
+\
+\
+\
