@@ -30,7 +30,7 @@ Step 3: Click Deposit and wire funds directly to the escrow account
 
 ![](<../.gitbook/assets/Screenshot 2021-05-20 at 10.16.56 PM.png>)
 
-**To mint: **Visit** **[Tether](https://tether.to)
+**To mint:** Visit **** [Tether](https://tether.to)
 
 **Links:**
 

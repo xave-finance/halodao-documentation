@@ -36,7 +36,7 @@ More details can be found [here](https://blog.trusttoken.com/how-to-purchase-and
 
 **To mint/redeem:** Visit [Trust Token](https://www.trusttoken.com)&#x20;
 
-**Links: **
+**Links:**&#x20;
 
 * [Etherscan](https://etherscan.io/token/0x00000100F2A2bd000715001920eB70D229700085)\
   \

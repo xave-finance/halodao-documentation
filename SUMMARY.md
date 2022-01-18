@@ -81,6 +81,7 @@
 * [🇬🇧 TGBP](stablecoins/tgbp.md)
 * [🇨🇦 TCAD](stablecoins/tcad.md)
 * [🇵🇭 fxPHP](stablecoins/fxphp.md)
+* [🇵🇭 TagPHP](stablecoins/tagphp.md)
 
 ## Socials
 

@@ -40,7 +40,7 @@ More details can be found [here](https://blog.trusttoken.com/how-to-purchase-and
 
 **To mint/redeem:** Visit [Trust Token](https://www.trusttoken.com)&#x20;
 
-**Links: **
+**Links:**&#x20;
 
 * [CoinGecko](https://www.coingecko.com/en/coins/true-hkd)
 * [Etherscan](https://etherscan.io/token/0x0000852600ceb001e08e00bc008be620d60031f2)\

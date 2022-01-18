@@ -19,5 +19,5 @@ Connect Metamask (or any supported wallet) on the HaloDAO site.
 5. And click "Confirm".
 
 {% hint style="info" %}
-Make sure you are connected to the **Ethereum** **Mainnet **(other networks to be supported soon after launch).
+Make sure you are connected to the **Ethereum** **Mainnet** (other networks to be supported soon after launch).
 {% endhint %}

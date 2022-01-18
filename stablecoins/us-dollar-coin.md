@@ -8,7 +8,7 @@ USDC is a stablecoin and dollar-denominated cryptocurrency that runs on Ethereum
 
 **Who is the issuer entity and what is the governing regulation/license?**
 
-USDC is issued by regulated financial institutions** **and governed by Centre, a membership-based consortium that sets technical, policy and financial standards for stablecoins.
+USDC is issued by regulated financial institutions **** and governed by Centre, a membership-based consortium that sets technical, policy and financial standards for stablecoins.
 
 **Where can I purchase USDC?**
 

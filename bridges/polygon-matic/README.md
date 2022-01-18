@@ -14,7 +14,7 @@ For example, when a Halonaut deposits TCAD into our Bridge from ETH Mainnet to P
 
 ![](<../../.gitbook/assets/Bridge\_RedeemsBtoA (1).png>)
 
-When a Halonaut intends to redeem their tokens from Chain B to Chain A, the mechanics mentioned above are generally replicated. First, the deposit event will trigger the Primary Bridge Smart contract where the Event Broker Service will call upon the HaloDAO Bridge Handler Endpoint. The Bridge Handler script calls the burn function on the Secondary bridge Smart Contract to burn the existing wrapped token on Chain B and at the same time releasing the original deposited tokens to the user** **Chain A.
+When a Halonaut intends to redeem their tokens from Chain B to Chain A, the mechanics mentioned above are generally replicated. First, the deposit event will trigger the Primary Bridge Smart contract where the Event Broker Service will call upon the HaloDAO Bridge Handler Endpoint. The Bridge Handler script calls the burn function on the Secondary bridge Smart Contract to burn the existing wrapped token on Chain B and at the same time releasing the original deposited tokens to the user **** Chain A.
 
 For example, when the Halonaut intends to redeem TCAD from Polygon to Matic chain, the user will deposit the Wrapped TCAD into our bridge and execute the transaction. By doing so, the wrapped TCAD will be burnt on the Polygon Chain and a proportional amount of TCAD will be released on the ETH Mainnet.\
 ****\

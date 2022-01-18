@@ -41,7 +41,7 @@ XSGD can be used in various exchanges which includes Coinhako, Crypto.com Singap
 
 **To mint/redeem:** Visit [Xfers](https://www.xfers.com/sg/straitsx#XSGDsection)&#x20;
 
-**Links: **
+**Links:**&#x20;
 
 * [CoinGecko](https://www.coingecko.com/en/coins/xsgd)
 * [Etherscan](https://etherscan.io/token/0x70e8de73ce538da2beed35d14187f6959a8eca96)

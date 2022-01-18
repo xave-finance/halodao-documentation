@@ -7,7 +7,7 @@ description: Get to know our thesis and mission here
 ![](.gitbook/assets/The-grand-feast.png)
 
 {% hint style="info" %}
-**HaloDAO connects traditional and decentralised finance by providing the decentralised infrastructure for next generation payments and settlement. We begin with the core money legos of Swap, Lend/Borrow, supported by Yield. **
+**HaloDAO connects traditional and decentralised finance by providing the decentralised infrastructure for next generation payments and settlement. We begin with the core money legos of Swap, Lend/Borrow, supported by Yield.**&#x20;
 {% endhint %}
 
 **Our Thesis:** The future of DeFi and crypto is one that will enable individuals to buy goods and services using asset backed stablecoins, pegged at a 1 to 1 basis with various local currencies. Very few will be willing to buy ice cream with Bitcoin.
@@ -31,7 +31,7 @@ description: Get to know our thesis and mission here
 | Stablecoin AMM              | [https://app.halodao.com/#/swap](https://app.halodao.com/#/swap)                                    |
 
 {% hint style="warning" %}
-**Disclaimer: **
+**Disclaimer:**&#x20;
 
 **The content of this docs site is constantly evolving and subject to change without advanced notice**
 {% endhint %}

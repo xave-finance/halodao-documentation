@@ -10,7 +10,7 @@
 | True CAD | Ethereum    | [0x9f555A3115C2Da9574c84C4Dfb1617193aA7AFE2](https://etherscan.io/address/0x9f555A3115C2Da9574c84C4Dfb1617193aA7AFE2#code)         |
 | True GBP | Ethereum    | [0x3F0FcE9468429eA645fbf220f3199BB6F122f67F](https://etherscan.io/address/0x3f0fce9468429ea645fbf220f3199bb6f122f67f#code)         |
 
-** Secondary Bridges**
+&#x20;**Secondary Bridges**
 
 | **Token** | **Network** | **Address**                                                                                                                   |
 | --------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |

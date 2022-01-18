@@ -1,7 +1,7 @@
 # 🌈 Rainbow Pool
 
 {% hint style="info" %}
-**The **:rainbow:**Rainbow contract is HaloDAO’s vesting mechanism that incentivizes you to hold RNBW longer, but without locking you into a fixed vesting schedule.**
+**The** :rainbow:**Rainbow contract is HaloDAO’s vesting mechanism that incentivizes you to hold RNBW longer, but without locking you into a fixed vesting schedule.**
 {% endhint %}
 
 ![](<../../.gitbook/assets/HaloDAO\_RainbowPool (1).png>)
