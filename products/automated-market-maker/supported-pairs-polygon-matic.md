@@ -8,7 +8,5 @@ As of our v1 launch, the following stablecoin pairs will earn RNBW rewards on ou
 | :-----------------: | :----------------------------------------: |
 |      wRNBW:ETH      | 0x23EA49740dAD04653b9D73694a40eF14bFfF8833 |
 |     wRNBW:wxRNBW    | 0x03c8bb7c6b495796889a651dcc41758be4527122 |
+|     TagPHP:USDC     | 0x6156f030B877344470BAC075a708d7E27602cc17 |
 |      xSGD:USDC      | 0x8123C64D6607412C7Ac9E880f12245ef22558b14 |
-|      wTCAD:USDC     | 0xaEad273bc7E17DD6951ceD3264B1dBa8A19114C2 |
-|      wTAUD:USDC     | 0x95AB308bE1e209eB6FfdD3279B5ea71D365AD30B |
-|      wTGBP:USDC     | 0xbF772a745533f6bAd97C58D2cb6B241eF7487242 |

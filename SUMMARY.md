@@ -31,6 +31,7 @@
 * [🔁 AMM](products/automated-market-maker/README.md)
   * [Supported Pairs (ETH Mainnet)](products/automated-market-maker/stablecoin-marketplace.md)
   * [Supported Pairs (Polygon Matic)](products/automated-market-maker/supported-pairs-polygon-matic.md)
+  * [Supported Pairs (Arbitrum)](products/automated-market-maker/supported-pairs-arbitrum.md)
 * [🏦 Lending Market](products/lending-market.md)
 * [🌈 Rainbow Pool](products/rainbow-pool/README.md)
   * [How Vesting Works (ETH Mainnet)](products/rainbow-pool/how-vesting-works.md)
@@ -48,6 +49,7 @@
 * [Production App](environments/prod-contract-addresses/README.md)
   * [ETH Mainnet](environments/prod-contract-addresses/eth-mainnet.md)
   * [Polygon Matic](environments/prod-contract-addresses/polygon-matic.md)
+  * [Arbitrum](environments/prod-contract-addresses/arbitrum.md)
 * [Beta App](environments/beta-contract-addresses.md)
 
 ## Sweet Recipe <a href="#roadmap" id="roadmap"></a>
