@@ -1,3 +1,5 @@
 # 🧭 Roadmap Overview
 
-![](<../.gitbook/assets/Updated Roadmap (1).png>)
+
+
+![](<../.gitbook/assets/2022 Milestones v2.png>)
