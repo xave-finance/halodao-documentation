@@ -2,7 +2,6 @@
 
 * [🚀 Introduction to HaloDAO](README.md)
 * [🔭 Protocol Overview](protocol-overview.md)
-* [📖 Litepaper](litepaper.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs.md)
 * [💡 Tutorials](get-started/README.md)
