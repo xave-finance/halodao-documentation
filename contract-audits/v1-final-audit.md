@@ -24,6 +24,13 @@ Pot of Gold Audit
 Trail of Bits
 {% endfile %}
 
+## **AMM v1 Audit 2**
+
+* There were some minor recommendations which generally involved the removal of bespoke codes that are not used in HaloDAO’s AMM. The initial review focused on the HaloDAO AMM repository, identified by the commit hash `aeb29effd3d379b1ffdae6bf82b39bfae262a6c4` . A further code change was merged into the repository from commit hash `c22d26a49a44ad6409190572da384cb724435201`
+* The repository used by the auditors, Monoceros Alpha, is also now publicly accessible here: [https://github.com/HaloDAO/amm-v1](https://github.com/HaloDAO/amm-v1)
+
+{% file src="../.gitbook/assets/AMM v1 Audit 2 (1).pdf" %}
+
 ## **Bridge Smart Contracts**
 
 * This Bridge Contract Audit covers the smart contract components of our wrapped token bridge
@@ -43,3 +50,12 @@ Bridge Contract Audits
 {% file src="../.gitbook/assets/Bridge Handler Audit (1).pdf" %}
 Bridge Handler Audit
 {% endfile %}
+
+## **Lending Market**
+
+* This Lending Market Audit covers the smart contract components of our lending market.
+* There were some minor recommendations and 1 medium issue found. The recommendations were not security issues but are general improvements that will bring value to the developers and the community reviewing and using the product. These have been addressed at commit hash `01486a398b0aa36b9798ba06fce11b5d3376909d`
+* The repository used by the auditors, Monoceros Alpha, is also now publicly accessible here: [https://github.com/akiratechhq/review-halo-dao-lending-market-2021-10](https://github.com/akiratechhq/review-halo-dao-lending-market-2021-10)
+
+{% file src="../.gitbook/assets/Lending Market v1.pdf" %}
+

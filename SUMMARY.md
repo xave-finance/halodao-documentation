@@ -3,7 +3,9 @@
 * [🚀 Introduction to HaloDAO](README.md)
 * [🔭 Protocol Overview](protocol-overview.md)
 * [🐇 Our Mascot](our-mascot.md)
-* [🤔 FAQs](faqs.md)
+* [🤔 FAQs](faqs/README.md)
+  * [General FAQs](faqs/faqs.md)
+  * [Lending Market FAQs](faqs/lending-market-faqs.md)
 * [💡 Tutorials](get-started/README.md)
   * [How to Connect Your Wallet](get-started/how-to-connect-your-wallet.md)
   * [How to add Polygon network in Metamask](get-started/how-to-add-polygon-network-in-metamask.md)
@@ -24,6 +26,10 @@
   * [How to Swap](get-started/how-to-swap.md)
   * [How to Vote](get-started/how-to-vote.md)
   * [How to Submit a Proposal](get-started/how-to-submit-a-proposal.md)
+  * [How to Lend](get-started/how-to-lend.md)
+  * [How to Borrow](get-started/how-to-borrow.md)
+  * [How to Repay](get-started/how-to-repay.md)
+  * [How to Withdraw](get-started/how-to-withdraw.md)
 
 ## Products
 
