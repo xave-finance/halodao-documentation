@@ -95,7 +95,7 @@
 * [Twitter](https://twitter.com/HaloDAOFinance)
 * [Medium](https://medium.com/halodao)
 * [Discord](https://discord.com/invite/halodao)
-* [Github](https://github.com/halodao)
+* [Github](https://github.com/xave-finance)
 * [Telegram Announcement](https://t.me/halodaoannouncement)
 
 ## Branding
