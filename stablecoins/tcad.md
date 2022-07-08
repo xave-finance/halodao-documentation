@@ -1,6 +1,6 @@
 # 🇨🇦 TCAD
 
-Official Site:  [http://app.trusttoken.com/](http://app.trusttoken.com)\
+Official Site:  [http://app.trusttoken.com/](http://app.trusttoken.com/)\
 
 
 **What is TCAD (TrueCAD)?**
@@ -34,7 +34,7 @@ Step 6: Once funds have arrived to the account, TCAD corresponding to the number
 
 More details can be found [here](https://blog.trusttoken.com/how-to-purchase-and-redeem-trueusd-a-guide-for-traders-ad8b141a9039)
 
-**To mint/redeem:** Visit [Trust Token](https://www.trusttoken.com)&#x20;
+**To mint/redeem:** Visit [Trust Token](https://www.trusttoken.com/)&#x20;
 
 **Links:**&#x20;
 

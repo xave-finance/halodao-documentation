@@ -73,6 +73,7 @@
 * [Overview](contract-audits/overview.md)
 * [v0 Final Audit](contract-audits/v0-final-audit.md)
 * [v1 Final Audit](contract-audits/v1-final-audit.md)
+* [Price Oracles Final Audit](contract-audits/price-oracles-final-audit.md)
 
 ## Wallet Addresses
 

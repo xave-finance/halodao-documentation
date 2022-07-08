@@ -11,7 +11,7 @@ description: Before
 
 > Before you can borrow, you need to lend an asset as a collateral.&#x20;
 
-1. Go to [https://app.lending.halodao.com](https://app.lending.halodao.com)
+1. Go to [https://app.lending.halodao.com](https://app.lending.halodao.com/)
 2. Go to the "Borrow" tab.
 3. Select the asset that you want to deposit as collateral.
 4. Enter the amount.

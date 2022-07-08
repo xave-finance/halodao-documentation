@@ -1,6 +1,6 @@
 # 🇸🇬 XSGD
 
-Official Site: [https://www.xfers.com](https://www.xfers.com)\
+Official Site: [https://www.xfers.com](https://www.xfers.com/)\
 
 
 **What is XSGD?**

@@ -2,9 +2,9 @@
 
 ## How can I access the Production and Beta Apps?
 
-The production app lives on [https://app.halodao.com/](https://app.halodao.com) and its' contracts are deployed to Ethereum mainnet (Polygon, BSC and many other EVM compatible chains coming soon).&#x20;
+The production app lives on [https://app.halodao.com/](https://app.halodao.com/) and its' contracts are deployed to Ethereum mainnet (Polygon, BSC and many other EVM compatible chains coming soon).&#x20;
 
-The beta app, however, is deployed on [http://beta.app.halodao.com/](http://beta.app.halodao.com) BUT its' contracts are ALSO deployed to Ethereum mainnet.&#x20;
+The beta app, however, is deployed on [http://beta.app.halodao.com/](http://beta.app.halodao.com/) BUT its' contracts are ALSO deployed to Ethereum mainnet.&#x20;
 
 ## What tokens are used on the Beta App vs Production App?
 

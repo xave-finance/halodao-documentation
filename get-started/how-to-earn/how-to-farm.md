@@ -6,7 +6,7 @@
 
 ![](../../.gitbook/assets/how-to-stake-mainnet.gif)
 
-1. Go to [app.halodao.com](http://app.halodao.com).
+1. Go to [app.halodao.com](http://app.halodao.com/).
 2. Go to the Farm tab if not automatically redirected.
 3. Select a liquidity pool where you wish to add liquidity to, click “Add”.
 4. Follow the link to get more HLP or UNI-V2 tokens (Only needed if HLP or UNI-V2 balance is 0, otherwise, skip this step).

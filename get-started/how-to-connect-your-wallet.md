@@ -2,7 +2,7 @@
 
 Setting up a wallet is needed to be able to use HaloDAO's products. Below is a list of supported wallets, click the link and follow the instructions to set up a wallet and create your own account.
 
-* [Metamask](https://metamask.io)
+* [Metamask](https://metamask.io/)
 
 {% hint style="warning" %}
 **Please remember to backup your seed phrase and your private key.**

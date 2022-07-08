@@ -6,7 +6,7 @@
 
 ### How to Harvest wxRNBW
 
-1. Go to [app.halodao.com](http://app.halodao.com) (Ensure you select the Polygon Network)
+1. Go to [app.halodao.com](http://app.halodao.com/) (Ensure you select the Polygon Network)
 2. Go to the Farm tab if not automatically redirected.
 3. Select a liquidity pool where you wish to harvest from, click “Add”.
 4. Click the “Harvest” button.
