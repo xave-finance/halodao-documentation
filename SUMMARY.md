@@ -1,6 +1,12 @@
 # Table of contents
 
-* [🚀 Introduction to HaloDAO](README.md)
+## HaloDAO v2 (Rebrand)
+
+* [Xave Finance](README.md)
+
+***
+
+* [🚀 Introduction to HaloDAO](<README (1).md>)
 * [🔭 Protocol Overview](protocol-overview.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs/README.md)
