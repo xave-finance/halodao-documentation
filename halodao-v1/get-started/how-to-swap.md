@@ -1,6 +1,6 @@
 # How to Swap
 
-![](<../.gitbook/assets/CleanShot 2021-09-21 at 17.56.31.gif>)
+![](<../../.gitbook/assets/CleanShot 2021-09-21 at 17.56.31.gif>)
 
 1. Click this link [https://app.halodao.com/#/swap](https://app.halodao.com/#/swap) to go to the AMM page
 2. Select the asset  you wish to swap from select the asset  you wish to swap to.

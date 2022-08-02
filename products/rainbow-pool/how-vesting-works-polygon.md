@@ -6,7 +6,7 @@ Polygon users earn Wrapped xRNBW from the farming pools in the same way as Ether
 
 As a workaround, users may swap their wxRNBW for wRNBW (or vice versa) on our [Polygon xRNBW:RNBW pool](https://app.sushi.com/swap?inputCurrency=0xc104e54803aba12f7a171a49ddc333da39f47193\&outputCurrency=0x18e7bdb379928a651f093ef1bc328889b33a560c). The price may divert from the true price on Ethereum mainnet, especially after Epoch triggers every 30 days, though we do expect that once an arbitrage opportunity becomes sufficiently profitable, any arbitrageur would take advantage, thus bringing the price back within expected ranges. Of course, there is always the option to redeem xRNBW back on Ethereum mainnet via our bridge.&#x20;
 
-{% content-ref url="../../get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/" %}
-[how-to-vest-rainbow-pool-polygon-matic](../../get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/)
+{% content-ref url="../../halodao-v1/get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/" %}
+[how-to-vest-rainbow-pool-polygon-matic](../../halodao-v1/get-started/how-to-earn/how-to-vest-rainbow-pool-polygon-matic/)
 {% endcontent-ref %}
 

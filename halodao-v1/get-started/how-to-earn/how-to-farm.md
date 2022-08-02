@@ -2,9 +2,9 @@
 
 ## **How to Stake HaloDAO Liquidity Pool & Uniswap-V2 tokens? (HLP/**UNI-V2**)**
 
-![](<../../.gitbook/assets/HaloDAO-Staking (1).png>)
+![](<../../../.gitbook/assets/HaloDAO-Staking (1).png>)
 
-![](../../.gitbook/assets/how-to-stake-mainnet.gif)
+![](../../../.gitbook/assets/how-to-stake-mainnet.gif)
 
 1. Go to [app.halodao.com](http://app.halodao.com/).
 2. Go to the Farm tab if not automatically redirected.
@@ -20,9 +20,9 @@
 
 ## **How to Unstake?**
 
-![](<../../.gitbook/assets/HaloDAO-Unstaking (1).png>)
+![](<../../../.gitbook/assets/HaloDAO-Unstaking (1).png>)
 
-![](../../.gitbook/assets/how-to-unstake-mainnet.gif)
+![](../../../.gitbook/assets/how-to-unstake-mainnet.gif)
 
 1. Go to [https://app.halodao.com/#/](https://app.halodao.com/#/)farm
 2. Go to the Farm tab if not automatically redirected

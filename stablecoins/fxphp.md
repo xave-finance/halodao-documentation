@@ -41,7 +41,7 @@ Crypto.com and Binance Exchange supports withdrawls to Arbitrum networks so user
 
 1. Withdraw ETH and USDC from an exchange
 2. Go to [https://app.handle.fi](https://app.handle.fi) and stake ETH to mint fxPHP
-3. [Supply](../get-started/how-to-supply-liquidity/) fxPHP on HaloDAO dApp
+3. [Supply](../halodao-v1/get-started/how-to-supply-liquidity/) fxPHP on HaloDAO dApp
 
 \
 \

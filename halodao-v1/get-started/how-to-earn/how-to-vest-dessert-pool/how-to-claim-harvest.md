@@ -1,6 +1,6 @@
 # How to Claim RNBW
 
-![](../../../.gitbook/assets/how-to-claim-rnbw.gif)
+![](../../../../.gitbook/assets/how-to-claim-rnbw.gif)
 
 1. Go to [app.halodao.com](https://app.halodao.com/)
 2. Go to the “Vest” tab.

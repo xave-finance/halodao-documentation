@@ -1,6 +1,6 @@
 # How to Deposit Tokens using the Bridge
 
-![](../../.gitbook/assets/bridge-ethereum-to-poly.gif)
+![](../../../.gitbook/assets/bridge-ethereum-to-poly.gif)
 
 1. Click this link [https://app.halodao.com/#/bridge](https://app.halodao.com/#/bridge) to go to the Bridge page
 2. On the “from” network box the Ethereum mainnet is selected (Selecting otherr networks will trigger a withdrawal process)

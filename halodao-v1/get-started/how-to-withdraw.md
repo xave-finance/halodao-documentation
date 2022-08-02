@@ -1,6 +1,6 @@
 # How to Withdraw
 
-![](<../.gitbook/assets/lm-withdraw (3).gif>)
+![](<../../.gitbook/assets/lm-withdraw (3).gif>)
 
 1. Go to [https://app.lending.halodao.com](https://app.lending.halodao.com/)
 2. Go to "My Dashboard" tab.

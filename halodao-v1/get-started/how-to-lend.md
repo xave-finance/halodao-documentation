@@ -1,6 +1,6 @@
 # How to Lend
 
-![](../.gitbook/assets/lm-deposit.gif)
+![](../../.gitbook/assets/lm-deposit.gif)
 
 1. Go to [https://app.lending.halodao.com](https://app.lending.halodao.com/)
 2. Go to the "Deposit" tab.

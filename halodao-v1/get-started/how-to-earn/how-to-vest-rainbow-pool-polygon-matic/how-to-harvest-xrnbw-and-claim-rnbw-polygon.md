@@ -2,7 +2,7 @@
 
 ## Claim wxRNBW from Farm Pool to get wRNBW on our Sushi Pool in Polygon
 
-![](<../../../.gitbook/assets/CleanShot 2021-09-14 at 20.12.38.gif>)
+![](<../../../../.gitbook/assets/CleanShot 2021-09-14 at 20.12.38.gif>)
 
 ### How to Harvest wxRNBW
 

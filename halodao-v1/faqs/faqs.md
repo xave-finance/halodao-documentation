@@ -29,7 +29,7 @@ Liquidity providers (LPs) earn RNBW tokens that are auto vested in HaloDAO's Rai
 
 ## What is the Rainbow Pool?
 
-When users provide liquidity to any of HaloDAO’s products, they will automatically earn RNBW proportionate to their liquidity provided. That RNBW will be automatically vested in the Rainbow Contract. **** Read more about how that works [here](../products/rainbow-pool/how-vesting-works.md).
+When users provide liquidity to any of HaloDAO’s products, they will automatically earn RNBW proportionate to their liquidity provided. That RNBW will be automatically vested in the Rainbow Contract. **** Read more about how that works [here](../../products/rainbow-pool/how-vesting-works.md).
 
 ## **How do I get RNBW tokens**?
 
@@ -44,7 +44,7 @@ There are two ways of getting xRNBW:
 
 ## **What is the difference between RNBW and xRNBW tokens?**
 
-RNBW is the governance token of the HaloDAO protocol, while xRNBW functions as a vesting token and a claim on underlying RNBW rewards tokens first earned by staking LP tokens. Read more on how that works [here](../get-started/how-to-earn/how-to-farm.md) and [here](../products/rainbow-pool/how-vesting-works.md)**.**
+RNBW is the governance token of the HaloDAO protocol, while xRNBW functions as a vesting token and a claim on underlying RNBW rewards tokens first earned by staking LP tokens. Read more on how that works [here](../get-started/how-to-earn/how-to-farm.md) and [here](../../products/rainbow-pool/how-vesting-works.md)**.**
 
 ## Can I claim my RNBW Rewards anytime?
 

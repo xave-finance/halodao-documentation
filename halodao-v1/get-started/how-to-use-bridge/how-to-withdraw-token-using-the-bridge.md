@@ -1,6 +1,6 @@
 # How to Withdraw Token using the Bridge?
 
-![](<../../.gitbook/assets/CleanShot 2021-09-08 at 20.25.41.gif>)
+![](<../../../.gitbook/assets/CleanShot 2021-09-08 at 20.25.41.gif>)
 
 1. Click this link [https://app.halodao.com/#/bridge](https://app.halodao.com/#/bridge) to go to the Bridge page
 2. Click the “from” network box to select the source network (If Ethereum is selected, it will trigger a deposit process)

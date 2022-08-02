@@ -40,8 +40,8 @@ HaloDAO incentivises liquidity provision and trading between
 
 
 
-{% content-ref url="../../get-started/how-to-swap.md" %}
-[how-to-swap.md](../../get-started/how-to-swap.md)
+{% content-ref url="../../halodao-v1/get-started/how-to-swap.md" %}
+[how-to-swap.md](../../halodao-v1/get-started/how-to-swap.md)
 {% endcontent-ref %}
 
 

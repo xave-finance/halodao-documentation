@@ -2,7 +2,7 @@
 
 ### How to manually vest your RNBW tokens (ONLY for ETH Mainnet)
 
-![](../../../.gitbook/assets/how-to-vest-rainbow-pool.gif)
+![](../../../../.gitbook/assets/how-to-vest-rainbow-pool.gif)
 
 1. Go to [https://app.halodao.com/#/](https://app.halodao.com/#/vesting)
 2. Go to the “Vest” tab.&#x20;

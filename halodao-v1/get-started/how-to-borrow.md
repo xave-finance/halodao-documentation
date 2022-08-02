@@ -7,7 +7,7 @@ description: Before
 \
 
 
-![](<../.gitbook/assets/lm-borrow (1).gif>)
+![](<../../.gitbook/assets/lm-borrow (1).gif>)
 
 > Before you can borrow, you need to lend an asset as a collateral.&#x20;
 

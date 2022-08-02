@@ -2,7 +2,7 @@
 
 ## Deposit wRNBW to get wxRNBW on our Sushi Pool in Polygon
 
-![](../../../.gitbook/assets/how-to-vest-deposit-rnbw-polygon.gif)
+![](../../../../.gitbook/assets/how-to-vest-deposit-rnbw-polygon.gif)
 
 1. Go to [https://app.halodao.com/#/](https://app.halodao.com/#/vesting)
 2. Go to the “Vest” tab.&#x20;

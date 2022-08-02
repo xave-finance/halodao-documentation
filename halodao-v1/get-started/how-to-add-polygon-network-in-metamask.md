@@ -7,7 +7,7 @@ description: >-
 
 # How to add Polygon network in Metamask
 
-![](../.gitbook/assets/how-to-add-poly-to-metamask.gif)
+![](../../.gitbook/assets/how-to-add-poly-to-metamask.gif)
 
 1. Delete the current Polygon (Matic) network from Metamask. (You can skip this if you haven't added it yet)
 2. Switch back to Ethereum mainnet.

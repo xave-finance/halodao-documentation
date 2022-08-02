@@ -1,6 +1,6 @@
 # How to Remove Liquidity from HaloDAO Liquidity Pools
 
-![](../../.gitbook/assets/remove-liq.gif)
+![](../../../.gitbook/assets/remove-liq.gif)
 
 1. Click this link [https://app.halodao.com/#/pool](https://app.halodao.com/#/pool) to go to the Pool page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool

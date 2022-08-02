@@ -2,7 +2,7 @@
 
 ## **Single-Sided Liquidity**
 
-![](../../.gitbook/assets/add-lig-single.gif)
+![](../../../.gitbook/assets/add-lig-single.gif)
 
 1. Click this link [https://app.halodao.com/#/pool](https://app.halodao.com/#/pool) to go to the Pool page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool
@@ -29,7 +29,7 @@ _Note that there will be 2 approved transactions for each liquidity pool even if
 
 ## **Two-sided Liquidity**
 
-![](../../.gitbook/assets/add-liq-two-sided.gif)
+![](../../../.gitbook/assets/add-liq-two-sided.gif)
 
 1. Click this link [https://app.halodao.com/#/pool](https://app.halodao.com/#/pool) to go to the Pool page
 2. Select a pool where you wish to add liquidity to and click “Manage” on that pool

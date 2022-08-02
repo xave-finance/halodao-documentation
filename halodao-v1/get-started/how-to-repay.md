@@ -1,6 +1,6 @@
 # How to Repay
 
-![](<../.gitbook/assets/lm-repay (2).gif>)
+![](<../../.gitbook/assets/lm-repay (2).gif>)
 
 1. Go to [https://app.lending.halodao.com](https://app.lending.halodao.com/)
 2. Go to "My Dashboard" page.
