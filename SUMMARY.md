@@ -6,7 +6,7 @@
 
 ***
 
-* [🚀 Introduction to HaloDAO](<README (1).md>)
+* [🚀 Introduction to HaloDAO](README.md)
 * [🔭 Protocol Overview](protocol-overview.md)
 * [🐇 Our Mascot](our-mascot.md)
 * [🤔 FAQs](faqs/README.md)
@@ -99,11 +99,11 @@
 
 ## Socials
 
-* [Twitter](https://twitter.com/HaloDAOFinance)
+* [Twitter](https://twitter.com/XaveFinance)
 * [Medium](https://medium.com/halodao)
-* [Discord](https://discord.com/invite/halodao)
+* [Discord](https://discord.com/invite/xave-finance)
 * [Github](https://github.com/xave-finance)
-* [Telegram Announcement](https://t.me/halodaoannouncement)
+* [Telegram Announcement](https://t.me/xavefinanceannouncement)
 
 ## Branding
 

@@ -12,7 +12,7 @@ Connect Metamask (or any supported wallet) on the HaloDAO site.
 
 ![](<../.gitbook/assets/CleanShot 2021-07-05 at 15.45.45.gif>)
 
-1. Go to [https://app.halodao.com](<../README (1).md>)
+1. Go to [https://app.halodao.com](../)
 2. Click the "Connect to Wallet" button on the upper right.
 3. Select Metamask (or any wallet from the list).
 4. On Metamask, click "Next".
